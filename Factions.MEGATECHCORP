@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1411202540
+host=4.15.247.35
+name=Factions.MEGATECHCORP
+rev=2
+targets=Setting.601LexingtonAve
+text=!!MEGATECH CORP%0a%0aMEGATECH, CORP has returned its corporate offices to New York for its 40th anniversary after thirty-three years away. Founded in 1974, MEGATECH was one of the major sources of funding for the Citicorp Building, and they will have reoccupied the eleventh through thirty-third floors of [[Setting/601 Lexington Ave]], the same floors they originally held after the skyscraper formerly known as the Citicorp Building was completed in 1977. %0a%0a!!!The Idea%0aAs the largest privately-held corporation and third-largest of any corporation in the world, MEGATECH is well known for its cutting edge research and leadership in the medical, agricultural, construction, transportation, energy, mining, manufacturing, aerospace, and military sectors.%0a%0a!!!The Aspect%0aCorporate Colossus %0a%0a!!!The Face%0a[[http://ragnarok.gamingsandbox.com/characters/publicView/128|Victoria Nike]]
+time=1453269749
+author:1453269749=ChrisJ
+diff:1453269749:1411202540:minor=12c12%0a%3c [[http://ragnarok.gamingsandbox.com/characters/publicView/128|Victoria Nike]]%0a\ No newline at end of file%0a---%0a> [[Characters/Sheila O'Sullivan ]]%0a\ No newline at end of file%0a
+host:1453269749=4.15.247.35
+author:1411202540=ChrisJ
+diff:1411202540:1411202540:=1,12d0%0a%3c !!MEGATECH CORP%0a%3c %0a%3c MEGATECH, CORP has returned its corporate offices to New York for its 40th anniversary after thirty-three years away. Founded in 1974, MEGATECH was one of the major sources of funding for the Citicorp Building, and they will have reoccupied the eleventh through thirty-third floors of [[Setting/601 Lexington Ave]], the same floors they originally held after the skyscraper formerly known as the Citicorp Building was completed in 1977. %0a%3c %0a%3c !!!The Idea%0a%3c As the largest privately-held corporation and third-largest of any corporation in the world, MEGATECH is well known for its cutting edge research and leadership in the medical, agricultural, construction, transportation, energy, mining, manufacturing, aerospace, and military sectors.%0a%3c %0a%3c !!!The Aspect%0a%3c Corporate Colossus %0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Sheila O'Sullivan ]]%0a\ No newline at end of file%0a
+host:1411202540=68.7.85.243

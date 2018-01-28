@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376872235
+host=68.7.85.243
+name=Characters.PhilRogers
+rev=4
+targets=Setting.GrandCentralStation,Factions.BlackCourt
+text=Attach:CharacterImage.gif%0a!!Phil Rogers%0a:The Face:[[Setting/Grand Central Station]]%0aThe night watchman at Grand Central Station, Phil has been walking these ancient halls nearly as long as he's been alive. Despite his white hair and thin frame, he's still as physically capable as any of the younger security guards.%0a%0a!!!Public Knowledge%0a*No one who works at Grand Central Station can remember when Phil was hired - as far as anyone knows, he's always been there.%0a%0a*They say Phil knows all the Ways through Grand Central - not just the mortal train schedules, but the paths through the NeverNever as well%0a%0a*Rumor has it that Phil once fought off a [[Factions/Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a%0a!!!Public Relationships%0a*The night watchman at [[Setting/Grand Central Station]]
+time=1411249568
+author:1411249568=ChrisJ
+diff:1411249568:1411203244:=11c11%0a%3c *Rumor has it that Phil once fought off a [[Factions/Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a---%0a> *Rumor has it that Phil once fought off a [[Factions/Black Court of Vampires | Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a
+host:1411249568=68.7.85.243
+author:1411203244=ChrisJ
+diff:1411203244:1377026744:=11c11%0a%3c *Rumor has it that Phil once fought off a [[Factions/Black Court of Vampires | Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a---%0a> *Rumor has it that Phil once fought off a [[Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a
+host:1411203244=68.7.85.243
+author:1377026744=JillA
+diff:1377026744:1376872235:=3,5c3,5%0a%3c :The Face:[[Setting/Grand Central Station]]%0a%3c The night watchman at Grand Central Station, Phil has been walking these ancient halls nearly as long as he's been alive. Despite his white hair and thin frame, he's still as physically capable as any of the younger security guards.%0a%3c %0a---%0a> '''The Face''' of [[Setting/Grand Central Station]]\\%0a> Description Here%0a> %0a7,12c7,8%0a%3c *No one who works at Grand Central Station can remember when Phil was hired - as far as anyone knows, he's always been there.%0a%3c %0a%3c *They say Phil knows all the Ways through Grand Central - not just the mortal train schedules, but the paths through the NeverNever as well%0a%3c %0a%3c *Rumor has it that Phil once fought off a [[Black Court]] Vampire with nothing but a crucifix and a flashlight.%0a%3c %0a---%0a> WIP%0a> %0a14c10%0a%3c *The night watchman at [[Setting/Grand Central Station]]%0a\ No newline at end of file%0a---%0a> WIP%0a
+host:1377026744=24.20.151.3
+author:1376872235=JillA
+diff:1376872235:1376872235:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Phil Rogers%0a%3c '''The Face''' of [[Setting/Grand Central Station]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872235=24.20.151.3

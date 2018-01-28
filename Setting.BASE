@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460752164
+host=4.15.247.35
+name=Setting.BASE
+rev=2
+targets=Factions.TheParanet
+text=!!Boughman Academy for Superior Education (BASE)%0a%0aAttach:Boughman.jpg%0a%0a----%0a%0a!!!The Idea%0a''Create a place for the "misfits" of the supernatural society to go.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||Dr. Aaron Boughman ||[Misfits of the Melting Pot] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aA boarding school created to help "troubled teens" (read: gifted and supernaturally inclined teens) and adults. The school was established by Dr. Aaron Boughman along with a handful of Wizards and other members of the Supernatural Community. It deals with legitimate education as well as things you wouldn't find normally within other schools, such as Magical theory and about how to use and control their powers, be it magical or otherwise. %0a%0a!!!Notable Events
+time=1460752297
+author:1460752297=ChrisJ
+diff:1460752297:1460752164:minor=1c1%0a%3c !!Boughman Academy for Superior Education (BASE)%0a---%0a> !!Boughman Academy for Superior Education%0a
+host:1460752297=4.15.247.35
+author:1460752164=ChrisJ
+diff:1460752164:1460752164:minor=1,19d0%0a%3c !!Boughman Academy for Superior Education%0a%3c %0a%3c Attach:Boughman.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Create a place for the "misfits" of the supernatural society to go.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||Dr. Aaron Boughman ||[Misfits of the Melting Pot] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A boarding school created to help "troubled teens" (read: gifted and supernaturally inclined teens) and adults. The school was established by Dr. Aaron Boughman along with a handful of Wizards and other members of the Supernatural Community. It deals with legitimate education as well as things you wouldn't find normally within other schools, such as Magical theory and about how to use and control their powers, be it magical or otherwise. %0a%3c %0a%3c !!!Notable Events%0a\ No newline at end of file%0a
+host:1460752164=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1413662048
+host=68.7.85.243
+name=DrQ.DrQ
+rev=1
+targets=Factions.JadeCourt
+text=!!Dr. Q%0a:The Face:[[Factions/Jade Court]]%0a%0a%0a!!!Public Knowledge%0a*Dr. Q serves the dragon Yu Long%0a%0a%0a!!!Public Relationships%0a*Head of the local [[Factions/Jade Court]]
+time=1413662048
+author:1413662048=ChrisJ
+diff:1413662048:1413662048:=1,10d0%0a%3c !!Dr. Q%0a%3c :The Face:[[Factions/Jade Court]]%0a%3c %0a%3c %0a%3c !!!Public Knowledge%0a%3c *Dr. Q serves the dragon Yu Long%0a%3c %0a%3c %0a%3c !!!Public Relationships%0a%3c *Head of the local [[Factions/Jade Court]]%0a\ No newline at end of file%0a
+host:1413662048=68.7.85.243

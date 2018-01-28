@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376868099
+host=209.6.95.48
+name=Characters.KathleenAlexander
+rev=2
+targets=Characters.JackBennett
+text=Attach:CharacterImage.gif%0a!!Kathleen Alexander%0aThe local Warden Commander, Kathleen Alexander is a veteran of the Outsider incursions of '10 and '12.  One of the few surviving veteran Wardens, her resources are stretched thin, and she often needs to rely upon new Wardens and outside help to deal with supernatural threats.%0a%0a!!!Public Relationships%0aHas a working relationship with [[Jack Bennett]]
+time=1405830964
+author:1405830964=OwleIsohos
+diff:1405830964:1376868099:=3,4c3,7%0a%3c The local Warden Commander, Kathleen Alexander is a veteran of the Outsider incursions of '10 and '12.  One of the few surviving veteran Wardens, her resources are stretched thin, and she often needs to rely upon new Wardens and outside help to deal with supernatural threats.%0a%3c %0a---%0a> Description Here%0a> %0a> !!!Public Knowledge%0a> WIP%0a> %0a6c9%0a%3c Has a working relationship with [[Jack Bennett]]%0a\ No newline at end of file%0a---%0a> WIP%0a
+host:1405830964=209.6.95.48
+author:1376868099=JillA
+diff:1376868099:1376868099:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Kathleen Alexander%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376868099=24.20.151.3

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486075334
+host=128.227.12.252
+name=OurWorld.EmbassyOfBrazil
+rev=1
+targets=
+text=!!Name%0aAttach:CharacterImage.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a|| || || ||%0a%0a----%0a%0a!!!Motivation%0aWhat is this NPC's motivation?%0a%0a!!!Status Quo%0aWhat is this NPC's interest in the status quo?%0a%0a!!!Description%0aDescribe this NPC more. %0a%0a!!!Public Relationships%0aDoes this NPC have any public relations with PCs or other NPCs?
+time=1486075334
+author:1486075334=OTD
+diff:1486075334:1486075334:=1,21d0%0a%3c !!Name%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c What is this NPC's motivation?%0a%3c %0a%3c !!!Status Quo%0a%3c What is this NPC's interest in the status quo?%0a%3c %0a%3c !!!Description%0a%3c Describe this NPC more. %0a%3c %0a%3c !!!Public Relationships%0a%3c Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1486075334=128.227.12.252

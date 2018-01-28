@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485468263
+host=4.15.247.35
+name=GameGuide.GroupHeader
+rev=1
+targets=
+text=(:notitle:)%0ahttp://ragnarok.gamingsandbox.com/wiki/images/ragny_about.png
+time=1485468263
+author:1485468263=ChrisJ
+diff:1485468263:1485468263:minor=1,2d0%0a%3c (:notitle:)%0a%3c http://ragnarok.gamingsandbox.com/wiki/images/ragny_about.png%0a\ No newline at end of file%0a
+host:1485468263=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1419420994
+host=76.176.214.6
+name=Characters.Erume
+rev=1
+targets=
+text=Erume is the Face of the Summer Court in New York, younger daughter of the Summer Queen Titania.
+time=1419420994
+author:1419420994=ChrisJ
+diff:1419420994:1419420994:=1d0%0a%3c Erume is the Face of the Summer Court in New York, younger daughter of the Summer Queen Titania.%0a\ No newline at end of file%0a
+host:1419420994=76.176.214.6

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1428645914
+host=64.134.223.208
+name=Setting.TheMermaidInn
+rev=2
+targets=Factions.TheIslandNationOfAtlantis,Characters.TexArkanon
+text=!!TheMermaidInn%0a*%0a!!!The Idea%0aThe Mermaid Inn, despite its name, is actually a swanky, upscale 4-star restaurant in the heart of the East Village. The floors above it also happen to house the Embassy for [[Factions/The Island Nation of Atlantis]] in the Freehold.%0a%0a!!!The Aspect%0a[Ancient Ties]%0a%0a!!!The Face%0a[[Characters/Tex Arkanon]]
+time=1428645967
+author:1428645967=ChrisJ
+diff:1428645967:1428645914:minor=4c4%0a%3c The Mermaid Inn, despite its name, is actually a swanky, upscale 4-star restaurant in the heart of the East Village. The floors above it also happen to house the Embassy for [[Factions/The Island Nation of Atlantis]] in the Freehold.%0a---%0a> The Mermaid Inn, despite its name, is actually a swanky, upscale 4-star restaurant in the heart of the East Village. The floors above it also happen to house the Embassy for the Island Nation of Atlantis in the Freehold.%0a
+host:1428645967=64.134.223.208
+author:1428645914=ChrisJ
+diff:1428645914:1428645914:=1,10d0%0a%3c !!TheMermaidInn%0a%3c *%0a%3c !!!The Idea%0a%3c The Mermaid Inn, despite its name, is actually a swanky, upscale 4-star restaurant in the heart of the East Village. The floors above it also happen to house the Embassy for the Island Nation of Atlantis in the Freehold.%0a%3c %0a%3c !!!The Aspect%0a%3c [Ancient Ties]%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Tex Arkanon]]%0a\ No newline at end of file%0a
+host:1428645914=64.134.223.208

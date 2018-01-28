@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485218244
+host=146.244.146.159
+name=HouseRules.PreparationThroughMontage
+rev=1
+targets=
+text=!!Preparation Through Montage%0a%0aThe staff has decided that a general sort of "contest" will be used when a group of PCs is preparing for some task or goal, which we'll call Preparation Through Montage:%0a%0a• The players determine a Preparation Aspect related to the goal of your preparation.%0a%0a• Each player describes what they're doing to prepare/aid in the montage and rolls an appropriate skill. Each player is allowed one roll per Montage.%0a%0a• If what the PC is doing to prepare fits the theme of the montage, the difficulty is a +3; if not, it's a +5.%0a%0a• If you succeed, the GM makes a note of it.%0a%0a• If you fail, the GM gains a situation aspect for the upcoming scene.%0a%0a• Tally the total number of successful preparation rolls. That number is how many free tags are placed on the Preparation Aspect. All the players involved in the montage have access to this pool of tags, and when/how they're used should be through general group consent.%0a%0a%0aSome things to note regarding these montages: they shouldn't occur every scene, and they should have good narration going along with each PC's attempted contribution. Like a montage in a movie, this is an opportunity for you to have the camera focused on just you for a few moments.%0a
+time=1485218244
+author:1485218244=ChrisJ
+diff:1485218244:1485218244:=1,18d0%0a%3c !!Preparation Through Montage%0a%3c %0a%3c The staff has decided that a general sort of "contest" will be used when a group of PCs is preparing for some task or goal, which we'll call Preparation Through Montage:%0a%3c %0a%3c • The players determine a Preparation Aspect related to the goal of your preparation.%0a%3c %0a%3c • Each player describes what they're doing to prepare/aid in the montage and rolls an appropriate skill. Each player is allowed one roll per Montage.%0a%3c %0a%3c • If what the PC is doing to prepare fits the theme of the montage, the difficulty is a +3; if not, it's a +5.%0a%3c %0a%3c • If you succeed, the GM makes a note of it.%0a%3c %0a%3c • If you fail, the GM gains a situation aspect for the upcoming scene.%0a%3c %0a%3c • Tally the total number of successful preparation rolls. That number is how many free tags are placed on the Preparation Aspect. All the players involved in the montage have access to this pool of tags, and when/how they're used should be through general group consent.%0a%3c %0a%3c %0a%3c Some things to note regarding these montages: they shouldn't occur every scene, and they should have good narration going along with each PC's attempted contribution. Like a montage in a movie, this is an opportunity for you to have the camera focused on just you for a few moments.%0a
+host:1485218244=146.244.146.159

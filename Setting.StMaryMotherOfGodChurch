@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1463385483
+host=68.7.33.92
+name=Setting.StMaryMotherOfGodChurch
+rev=1
+targets=Characters.FatherAlbertCosgrove,Factions.TheChurch
+text=!!St. Mary, Mother of God Church%0a%0a%0a----%0a%0a!!!The Idea%0a"A literal safe haven, protected by the power of faith and the faithful within. To mortals, it's a church that does a lot of help for the poor and charities, to those in the know it's built on holy ground giving it a powerful threshold and a presence of faith."%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Father Albert Cosgrove]] ||[On This Rock] ||[[Factions/The Church]] ||%0a%0a----%0a%0a!!!Description%0aSaint Mary Mother of God Parish was founded by German immigrants in 1845. The present church was built in 1890 and by the 1930's the Church lost it's German roots and began to appeal to all the Catholics in the area. The church itself is located in the heart of Chinatown.%0a%0a!!!Notable Events%0a
+time=1463385483
+author:1463385483=ChrisJ
+diff:1463385483:1463385483:minor=1,18d0%0a%3c !!St. Mary, Mother of God Church%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c "A literal safe haven, protected by the power of faith and the faithful within. To mortals, it's a church that does a lot of help for the poor and charities, to those in the know it's built on holy ground giving it a powerful threshold and a presence of faith."%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Father Albert Cosgrove]] ||[On This Rock] ||[[Factions/The Church]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c Saint Mary Mother of God Parish was founded by German immigrants in 1845. The present church was built in 1890 and by the 1930's the Church lost it's German roots and began to appeal to all the Catholics in the area. The church itself is located in the heart of Chinatown.%0a%3c %0a%3c !!!Notable Events%0a
+host:1463385483=68.7.33.92

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460511179
+host=4.15.247.35
+name=Factions.AccordedNeutralGround
+rev=2
+targets=Locations.NationalSmithsonianZoologicalPark,Characters.WillowMorning,Locations.SutersTavern
+text=!!Accorded Neutral Ground%0a%0a%0a----%0a%0a!!!The Idea%0a''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%0a!!!Status Quo%0aAccorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%0a%0a(:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a||class=sortable id=thetable%0a||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a||[[Locations/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a||[[Locations/Suter's Tavern]] ||? ||? ||
+time=1460512110
+author:1460512110=ChrisJ
+diff:1460512110:1460511179:minor=2,4c2%0a%3c %0a%3c %0a%3c ----%0a---%0a> :attach: %0a
+host:1460512110=4.15.247.35
+author:1460511179=ChrisJ
+diff:1460511179:1460511179:minor=1,15d0%0a%3c !!Accorded Neutral Ground%0a%3c :attach: %0a%3c %0a%3c !!!The Idea%0a%3c ''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%3c %0a%3c !!!Status Quo%0a%3c Accorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%3c %0a%3c %0a%3c (:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c ||class=sortable id=thetable%0a%3c ||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a%3c ||[[Locations/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a%3c ||[[Locations/Suter's Tavern]] ||? ||? ||%0a\ No newline at end of file%0a
+host:1460511179=4.15.247.35

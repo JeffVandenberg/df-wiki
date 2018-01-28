@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485221214
+host=146.244.146.159
+name=HouseRules.HolyTouch
+rev=1
+targets=
+text=!!Holy Touch%0a%0aWe have changed the RAW version of Holy Touch to read as follows:%0a%0a!!!HOLY TOUCH [-1]%0a*'''Description:''' You radiate holiness. %0a*'''Musts:''' You must have the Righteousness Power in order to take this one. %0a*'''Skills Affected:''' Conviction, attack skills. %0a*'''Effects:''' ''''Holy Touch.'''' Your presence is like holy water, which can hurt or drive away many monsters. This allows you to use your Conviction skill for maneuvers and Declarations based around the use of holy power, and may expand the range of Compels that you can inflict. All of your melee attacks satisfy Catches that have to do with Holy Stuff, and any melee attack you make against a character that is vulnerable to holy power inflicts two additional stress (fists and weapons--mental attacks, guns, magic, etc do not count). However, this power can be used to justify maneuvers to bless bullets/projectiles to be used to cover Holy Catches. As a general rule, vulnerability to holy power involves having a relevant Catch or High Concept.
+time=1485221214
+author:1485221214=ChrisJ
+diff:1485221214:1485221214:minor=1,9d0%0a%3c !!Holy Touch%0a%3c %0a%3c We have changed the RAW version of Holy Touch to read as follows:%0a%3c %0a%3c !!!HOLY TOUCH [-1]%0a%3c *'''Description:''' You radiate holiness. %0a%3c *'''Musts:''' You must have the Righteousness Power in order to take this one. %0a%3c *'''Skills Affected:''' Conviction, attack skills. %0a%3c *'''Effects:''' ''''Holy Touch.'''' Your presence is like holy water, which can hurt or drive away many monsters. This allows you to use your Conviction skill for maneuvers and Declarations based around the use of holy power, and may expand the range of Compels that you can inflict. All of your melee attacks satisfy Catches that have to do with Holy Stuff, and any melee attack you make against a character that is vulnerable to holy power inflicts two additional stress (fists and weapons--mental attacks, guns, magic, etc do not count). However, this power can be used to justify maneuvers to bless bullets/projectiles to be used to cover Holy Catches. As a general rule, vulnerability to holy power involves having a relevant Catch or High Concept.%0a\ No newline at end of file%0a
+host:1485221214=146.244.146.159

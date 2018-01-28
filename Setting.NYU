@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376864787
+host=209.6.95.48
+name=Setting.NYU
+rev=2
+targets=Characters.DrCharlotteHolmes
+text=%0a!!NYU%0aThe center of NYU is its Washington Square campus in the heart of Greenwich Village. One of the city's most creative and energetic communities, the Village is a historic neighborhood that has attracted generations of writers, musicians, artists and intellectuals. NYU, in keeping with its founders vision, is "in and of the city:" the University - which has no walls and no gates - is deeply intertwined with New York City, drawing inspiration from its vitality.%0a%0a!!!The Idea%0aDon't be ridiculous! There's no such thing as magic, monsters, ghosts or fairies! Everyone knows that.%0a%0a!!!The Aspect%0aLogic Trumps Lore%0a%0a!!!The Face%0a[[Characters/DrCharlotteHolmes|Dr. Charlotte Holmes]], Professor of Abnormal Psychology
+time=1405827079
+author:1405827079=OwleIsohos
+diff:1405827079:1376864787:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1405827079=209.6.95.48
+author:1376864787=JillA
+diff:1376864787:1376864787:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!NYU%0a%3c The center of NYU is its Washington Square campus in the heart of Greenwich Village. One of the city's most creative and energetic communities, the Village is a historic neighborhood that has attracted generations of writers, musicians, artists and intellectuals. NYU, in keeping with its founders vision, is "in and of the city:" the University - which has no walls and no gates - is deeply intertwined with New York City, drawing inspiration from its vitality.%0a%3c %0a%3c !!!The Idea%0a%3c Don't be ridiculous! There's no such thing as magic, monsters, ghosts or fairies! Everyone knows that.%0a%3c %0a%3c !!!The Aspect%0a%3c Logic Trumps Lore%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/DrCharlotteHolmes|Dr. Charlotte Holmes]], Professor of Abnormal Psychology%0a\ No newline at end of file%0a
+host:1376864787=24.20.151.3

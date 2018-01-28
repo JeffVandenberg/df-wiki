@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486056843
+host=85.17.26.10
+name=OurWorld.FranklianAndDubbsPublishing
+rev=1
+targets=OurWorld.EdwardFranklin,OurWorld.VenatoriUmbrorum
+text=!!Franklin and Dubbs Publishing%0a%0a%0a----%0a%0a!!!The Idea%0a'Front and occasional safehouse for the Venatori Umbrorum''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Edward Franklin | Edward Franklin]] ||[Knowledge is Power, So Hide It Well] ||[[Venatori Umbrorum | Venatori Umbrorum]] ||%0a%0a----%0a%0a!!!Description%0aA nondescript building in the CBD, it is slightly surprising that it gets so much traffic. A legitimate (though small) publisher), it is represented by Edward Franklin who acts as the owner of Franklin and Dubbs, and is one of the more influential Venatori agents in DC. In reality the building acts as a safehouse, meeting-place and occasional armory for the Venatori Umbrorum. Naturally, none of this is known by the public.%0a%0a!!!Notable Events%0a
+time=1486056843
+author:1486056843=JayJ
+diff:1486056843:1486056843:=1,18d0%0a%3c !!Franklin and Dubbs Publishing%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c 'Front and occasional safehouse for the Venatori Umbrorum''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Edward Franklin | Edward Franklin]] ||[Knowledge is Power, So Hide It Well] ||[[Venatori Umbrorum | Venatori Umbrorum]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A nondescript building in the CBD, it is slightly surprising that it gets so much traffic. A legitimate (though small) publisher), it is represented by Edward Franklin who acts as the owner of Franklin and Dubbs, and is one of the more influential Venatori agents in DC. In reality the building acts as a safehouse, meeting-place and occasional armory for the Venatori Umbrorum. Naturally, none of this is known by the public.%0a%3c %0a%3c !!!Notable Events%0a
+host:1486056843=85.17.26.10

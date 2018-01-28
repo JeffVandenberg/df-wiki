@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486075114
+host=128.227.12.252
+name=OurWorld.ClubJuuannie
+rev=1
+targets=OurWorld.Peaches
+text=!!Club Juuannie%0a%0a%0a----%0a%0a!!!The Idea%0a%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Peaches]] ||[Changes Start Small] ||? ||%0a%0a----%0a%0a!!!Description%0aTBD  %0a%0a!!!Notable Events%0a
+time=1486075114
+author:1486075114=OTD
+diff:1486075114:1486075114:=1,18d0%0a%3c !!Club Juuannie%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c %0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Peaches]] ||[Changes Start Small] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c TBD  %0a%3c %0a%3c !!!Notable Events%0a
+host:1486075114=128.227.12.252

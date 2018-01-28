@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1463385253
+host=128.227.11.255
+name=Setting.NationalSmithsonianZoo
+rev=3
+targets=Characters.WillowMorning
+text=!!National Smithsonian Zoo%0a%0a%0a----%0a%0a!!!The Idea%0a''The Idea''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Willow Morning]] || || ||%0a%0a----%0a%0a!!!Description%0aDescribe this location more fully.%0a%0a!!!Notable Events%0aHave any notable events occurred here?
+time=1487278984
+author:1487278984=OTD
+diff:1487278984:1463437744:=
+host:1487278984=128.227.11.255
+author:1463437744=NGodfrey
+diff:1463437744:1463385253:=11c11%0a%3c ||[[Characters/Willow Morning]] || || ||%0a---%0a> || || || ||%0a
+host:1463437744=74.215.115.143
+author:1463385253=ChrisJ
+diff:1463385253:1463385253:minor=1,19d0%0a%3c !!National Smithsonian Zoo%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The Idea''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c Describe this location more fully.%0a%3c %0a%3c !!!Notable Events%0a%3c Have any notable events occurred here?%0a\ No newline at end of file%0a
+host:1463385253=68.7.33.92

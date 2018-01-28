@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1410921573
+host=76.176.214.6
+name=Characters.Bruce
+rev=3
+targets=Factions.TheHellraisers,Factions.EastVillageFreehold
+text=Attach:CharacterImage.gif%0a!!Bruce%0a:The Face:[[Factions/The Hellraisers]]%0aThe enormous and powerful leader of the Hellraisers biker gang. While he leads a group of lycanthropes, it appears he has progressed beyond their normal limitations...or was never a lycanthrope to begin with.%0a%0a!!!Public Knowledge%0a*Lost a protracted fist fight with [[http://ragnarok.gamingsandbox.com/characters/publicView/9 | Kal Cross]] over territory.%0a%0a*Bruce has been operating in New York's criminal underground for as long as anybody mortal can remember.%0a%0a*While Bruce's tool of choice is violence, he definitely isn't stupid or rash.%0a%0a*Makes his decisions based only on his own unique and certainly not law-abiding (if not basically honorable) Code.%0a%0a!!!Public Relationships%0a*Officially no longer operates in the [[Factions/East Village Freehold]]%0a%0a*Alpha member of [[Factions/The Hellraisers]]
+time=1424307339
+author:1424307339=ChrisJ
+diff:1424307339:1411203962:minor=4c4%0a%3c The enormous and powerful leader of the Hellraisers biker gang. While he leads a group of lycanthropes, it appears he has progressed beyond their normal limitations...or was never a lycanthrope to begin with.%0a---%0a> ''The enormous and powerful leader of the Hellraisers biker gang. While he leads a group of lycanthropes, it appears he has progressed beyond their normal limitations...or was never a lycanthrope to begin with.%0a
+host:1424307339=76.176.214.6
+author:1411203962=ChrisJ
+diff:1411203962:1410921573:=3c3%0a%3c :The Face:[[Factions/The Hellraisers]]%0a---%0a> :The Face:[[The Hellraisers]]%0a16,18c16,18%0a%3c *Officially no longer operates in the [[Factions/East Village Freehold]]%0a%3c %0a%3c *Alpha member of [[Factions/The Hellraisers]]%0a\ No newline at end of file%0a---%0a> *Officially no longer operates in the [[Setting/East Village Freehold]]%0a> %0a> *Alpha member of [[The Hellraisers]]%0a\ No newline at end of file%0a
+host:1411203962=68.7.85.243
+author:1410921573=ChrisJ
+diff:1410921573:1410921573:=1,18d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Bruce%0a%3c :The Face:[[The Hellraisers]]%0a%3c ''The enormous and powerful leader of the Hellraisers biker gang. While he leads a group of lycanthropes, it appears he has progressed beyond their normal limitations...or was never a lycanthrope to begin with.%0a%3c %0a%3c !!!Public Knowledge%0a%3c *Lost a protracted fist fight with [[http://ragnarok.gamingsandbox.com/characters/publicView/9 | Kal Cross]] over territory.%0a%3c %0a%3c *Bruce has been operating in New York's criminal underground for as long as anybody mortal can remember.%0a%3c %0a%3c *While Bruce's tool of choice is violence, he definitely isn't stupid or rash.%0a%3c %0a%3c *Makes his decisions based only on his own unique and certainly not law-abiding (if not basically honorable) Code.%0a%3c %0a%3c !!!Public Relationships%0a%3c *Officially no longer operates in the [[Setting/East Village Freehold]]%0a%3c %0a%3c *Alpha member of [[The Hellraisers]]%0a\ No newline at end of file%0a
+host:1410921573=68.7.85.243

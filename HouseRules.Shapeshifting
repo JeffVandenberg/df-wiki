@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485212946
+host=146.244.146.159
+name=HouseRules.Shapeshifting
+rev=5
+targets=HouseRules.TheCatch
+text=!!Shapeshifting%0a%0a!!!"Skill Shuffle" (Beast Change/True Shapeshifting)%0a• To clarify, this is the breakdown of skills that can be raised with Skill Shuffle from Beast Change/True Shapeshifting:%0a||(:evenrowbg=#eeddaa oddrowbg=#eeeecc headerrowbg=#557788:)%0a|| id=thetable%0a||'''Allowed:''' ||Athletics, Awareness, Fight, Physique, Stealth ||%0a||'''Possible:''' ||Guns, Intimidation ||%0a||'''Not Allowed:''' ||Burglary, Contacts, Conviction, Craftsmanship, Deceit, Discipline, Driving, Empathy, Lore, Performance, Rapport, Resources, Scholarship, Survival ||%0a%0a!!!Modular Powers%0a• When taking [[the Catch]] with Modular Abilities, you must pick one specific catch for your shifter based on your backstory. Changelings will always have Iron as a Catch. A Demon-scion might always have Holy. A Druidic Shifter might always have Holy Yew, but everytime they shapeshift into something, it must be the same. This also means you cannont change into something made out of your catch.%0a
+time=1485213109
+author:1485213109=ChrisJ
+diff:1485213109:1485213068:minor=5c5%0a%3c ||(:evenrowbg=#eeddaa oddrowbg=#eeeecc headerrowbg=#557788:)%0a---%0a> ||(:oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a
+host:1485213109=146.244.146.159
+author:1485213068=ChrisJ
+diff:1485213068:1485212987:minor=
+host:1485213068=146.244.146.159
+author:1485212987=ChrisJ
+diff:1485212987:1485212975:minor=8c8%0a%3c ||'''Possible:''' ||Guns, Intimidation ||%0a---%0a> |'''|Possible:''' ||Guns, Intimidation ||%0a
+host:1485212987=146.244.146.159
+author:1485212975=ChrisJ
+diff:1485212975:1485212946:minor=7,9c7,10%0a%3c ||'''Allowed:''' ||Athletics, Awareness, Fight, Physique, Stealth ||%0a%3c |'''|Possible:''' ||Guns, Intimidation ||%0a%3c ||'''Not Allowed:''' ||Burglary, Contacts, Conviction, Craftsmanship, Deceit, Discipline, Driving, Empathy, Lore, Performance, Rapport, Resources, Scholarship, Survival ||%0a---%0a> || border=1%0a> ||Allowed: ||Athletics, Awareness, Fight, Physique, Stealth ||%0a> ||Possible: ||Guns, Intimidation ||%0a> ||Not Allowed: ||Burglary, Contacts, Conviction, Craftsmanship, Deceit, Discipline, Driving, Empathy, Lore, Performance, Rapport, Resources, Scholarship, Survival ||%0a
+host:1485212975=146.244.146.159
+author:1485212946=ChrisJ
+diff:1485212946:1485212946:minor=1,13d0%0a%3c !!Shapeshifting%0a%3c %0a%3c !!!"Skill Shuffle" (Beast Change/True Shapeshifting)%0a%3c • To clarify, this is the breakdown of skills that can be raised with Skill Shuffle from Beast Change/True Shapeshifting:%0a%3c ||(:oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c || id=thetable%0a%3c || border=1%0a%3c ||Allowed: ||Athletics, Awareness, Fight, Physique, Stealth ||%0a%3c ||Possible: ||Guns, Intimidation ||%0a%3c ||Not Allowed: ||Burglary, Contacts, Conviction, Craftsmanship, Deceit, Discipline, Driving, Empathy, Lore, Performance, Rapport, Resources, Scholarship, Survival ||%0a%3c %0a%3c !!!Modular Powers%0a%3c • When taking [[the Catch]] with Modular Abilities, you must pick one specific catch for your shifter based on your backstory. Changelings will always have Iron as a Catch. A Demon-scion might always have Holy. A Druidic Shifter might always have Holy Yew, but everytime they shapeshift into something, it must be the same. This also means you cannont change into something made out of your catch.%0a
+host:1485212946=146.244.146.159

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485220912
+host=146.244.146.159
+name=HouseRules.DMC
+rev=1
+targets=
+text=!!Demonic Co-Pilot%0a%0aThe beginning of the Demon's Agenda trapping of the Demonic Co-Pilot is considered to be worded as such:%0a%0a''"You '''may''' gain a +1 on...."''%0a
+time=1485220912
+author:1485220912=ChrisJ
+diff:1485220912:1485220912:minor=1,5d0%0a%3c !!Demonic Co-Pilot%0a%3c %0a%3c The beginning of the Demon's Agenda trapping of the Demonic Co-Pilot is considered to be worded as such:%0a%3c %0a%3c ''"You '''may''' gain a +1 on...."''%0a
+host:1485220912=146.244.146.159

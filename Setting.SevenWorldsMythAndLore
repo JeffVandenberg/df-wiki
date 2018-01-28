@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1410098388
+host=68.7.85.243
+name=Setting.SevenWorldsMythAndLore
+rev=3
+targets=
+text=!!Seven Worlds Myth and Lore%0aA large store in the East village, which has two levels. The second level is open to the first floor with a balcony railing. Most of the non-magic, or beginner level practitioner, reference books are located there including books on various religions. The information on the Aesir religion is quite extensive. The first floor contains herbs, spices, teas, non-magic reagents of various kinds, various non-magic occult items (want a Ouija board or a Harry Potter wand, it's there), and a large section of regular books (primarily horror, fantasy, and sci-fi). %0aThe restricted section is only accessible through a single entrance to the side of the counter. The restricted section contains those materials that would be legally questionable, or dangerous. They include many different types of spell reagents, potion ingredients, rare reference books, actual spell books, and many items that may, or may not, be enchanted (usually not). The entrance is not noticeable by people in the store, and the person working the counter needs to let people through the door which leads into the basement area.%0a%0a!!!The Idea%0aA one stop shop for those interested in the occult, practitioners, and those just coming into the power and trying to figure out what is happening to them. With luck this resource will give potential warlocks a place to turn to for help, and those thinking to use the ready resources to harm the city will find that it makes them easier to catch.%0a%0a!!!The Aspect%0aPortal to the Spooky Side%0a%0a!!!The Face%0a[[http://ragnarok.gamingsandbox.com/characters/publicView/81 | Erik Graham (PC) ]]
+time=1411200305
+author:1411200305=ChrisJ
+diff:1411200305:1410098474:=9c9%0a%3c Portal to the Spooky Side%0a---%0a> %0a
+host:1411200305=68.7.85.243
+author:1410098474=ChrisJ
+diff:1410098474:1410098388:=2,3c2%0a%3c A large store in the East village, which has two levels. The second level is open to the first floor with a balcony railing. Most of the non-magic, or beginner level practitioner, reference books are located there including books on various religions. The information on the Aesir religion is quite extensive. The first floor contains herbs, spices, teas, non-magic reagents of various kinds, various non-magic occult items (want a Ouija board or a Harry Potter wand, it's there), and a large section of regular books (primarily horror, fantasy, and sci-fi). %0a%3c The restricted section is only accessible through a single entrance to the side of the counter. The restricted section contains those materials that would be legally questionable, or dangerous. They include many different types of spell reagents, potion ingredients, rare reference books, actual spell books, and many items that may, or may not, be enchanted (usually not). The entrance is not noticeable by people in the store, and the person working the counter needs to let people through the door which leads into the basement area.%0a---%0a> %0a
+host:1410098474=68.7.85.243
+author:1410098388=ChrisJ
+diff:1410098388:1410098388:=1,11d0%0a%3c !!Seven Worlds Myth and Lore%0a%3c %0a%3c %0a%3c !!!The Idea%0a%3c A one stop shop for those interested in the occult, practitioners, and those just coming into the power and trying to figure out what is happening to them. With luck this resource will give potential warlocks a place to turn to for help, and those thinking to use the ready resources to harm the city will find that it makes them easier to catch.%0a%3c %0a%3c !!!The Aspect%0a%3c %0a%3c %0a%3c !!!The Face%0a%3c [[http://ragnarok.gamingsandbox.com/characters/publicView/81 | Erik Graham (PC) ]]%0a\ No newline at end of file%0a
+host:1410098388=68.7.85.243

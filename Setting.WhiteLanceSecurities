@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+author=ZDracolis
+charset=UTF-8
+csum=
+ctime=1414006116
+host=24.240.85.206
+name=Setting.WhiteLanceSecurities
+rev=1
+targets=
+text=http://www.cinemablend.com/images/sections/43455/_1339424210.jpg%0a%0aDarius and Sergio's company occupied one of the higher floors in its entirety, in an all-business skyscraper. Unlike Cassandra's company, he didn't own the full tower...yet. Strangely, the lobby had at least three known entrances, the elevator, the stairs, and a door that even on the high floor, had replaced a window, opening to the wide open air. That door was made entirely of wood and non ferrous metals. There seemed to be more than one department listed on the board when entering: Private Security, Private Investigations, Bail Retrieval, and Special Investigations.%0a%0a%0a%0ahttp://www.cinemablend.com/images/sections/43455/_1339424589.jpg
+time=1414006116
+author:1414006116=ZDracolis
+diff:1414006116:1414006116:=1,7d0%0a%3c http://www.cinemablend.com/images/sections/43455/_1339424210.jpg%0a%3c %0a%3c Darius and Sergio's company occupied one of the higher floors in its entirety, in an all-business skyscraper. Unlike Cassandra's company, he didn't own the full tower...yet. Strangely, the lobby had at least three known entrances, the elevator, the stairs, and a door that even on the high floor, had replaced a window, opening to the wide open air. That door was made entirely of wood and non ferrous metals. There seemed to be more than one department listed on the board when entering: Private Security, Private Investigations, Bail Retrieval, and Special Investigations.%0a%3c %0a%3c %0a%3c %0a%3c http://www.cinemablend.com/images/sections/43455/_1339424589.jpg%0a\ No newline at end of file%0a
+host:1414006116=24.240.85.206

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1485406492
+host=99.100.145.126
+name=OurWorld.Hyvandra
+rev=1
+targets=OurWorld.TheodoreRooseveltIsland,OurWorld.WinterCourtofFae
+text=!!Hyvandra%0a%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[] ||[[TheodoreRooseveltIsland | Theodore Roosevelt Island]] ||[[WinterCourtofFae | Winter Court of Fae]] ||%0a%0a----%0a%0a!!!Motivation%0a%0a!!!Status Quo%0a%0a!!!Description%0a%0a!!!Public Relationships%0a
+time=1485406492
+author:1485406492=JayJ
+diff:1485406492:1485406492:=1,17d0%0a%3c !!Hyvandra%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[] ||[[TheodoreRooseveltIsland | Theodore Roosevelt Island]] ||[[WinterCourtofFae | Winter Court of Fae]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c %0a%3c !!!Status Quo%0a%3c %0a%3c !!!Description%0a%3c %0a%3c !!!Public Relationships%0a
+host:1485406492=99.100.145.126

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1419421164
+host=76.176.214.6
+name=Characters.Moyra
+rev=1
+targets=
+text=Moyra is the Face of the Winter Court in New York, Emissary of Queen Mab.
+time=1419421164
+author:1419421164=ChrisJ
+diff:1419421164:1419421164:=1d0%0a%3c Moyra is the Face of the Winter Court in New York, Emissary of Queen Mab.%0a\ No newline at end of file%0a
+host:1419421164=76.176.214.6

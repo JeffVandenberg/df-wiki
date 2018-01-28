@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1485405355
+host=99.100.145.126
+name=OurWorld.FatherAlbertCosgrove
+rev=2
+targets=OurWorld.StMaryMotherofGodChurch,OurWorld.TheChurch
+text=!!Father Albert Cosgrove%0a%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Priest of St Mary Mother of God Church] ||[[StMaryMotherofGodChurch | St Mary Mother of God Church]] ||[[TheChurch | The Church]] ||%0a%0a----%0a%0a!!!Motivation%0aHelp those in need and do the work of God.%0a%0a!!!Status Quo%0aMaintain the peace and promote further peace when possible. %0a%0a!!!Description%0aA man deeply rooted in his faith, Father Cosgrove is the stereotypical image of the older priest. His back stooped with age, his brow furred with worry and his hands old and worn. Nonetheless, he still works as feverishly as he did 20 years ago and is more complex and knowledgeable than meets the eye, possessing not only a vast amount of knowledge about Christian theology but a large base of knowledge concerning the myths and legends of Ancient Rome, Greece and a lesser knowledge of the Norse sagas, as well as a good knowledge of the practices of Islam and Judaism.
+time=1485405509
+author:1485405509=JayJ
+diff:1485405509:1485405355:=7c7%0a%3c ||[Priest of St Mary Mother of God Church] ||[[StMaryMotherofGodChurch | St Mary Mother of God Church]] ||[[TheChurch | The Church]] ||%0a---%0a> ||[Priest of St Mary Mother of God Church] ||[[StMaryMotherofGodChurch/St Mary Mother of God Church]] ||[[TheChurch/The Church]] ||%0a
+host:1485405509=99.100.145.126
+author:1485405355=JayJ
+diff:1485405355:1485405355:=1,18d0%0a%3c !!Father Albert Cosgrove%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Priest of St Mary Mother of God Church] ||[[StMaryMotherofGodChurch/St Mary Mother of God Church]] ||[[TheChurch/The Church]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Help those in need and do the work of God.%0a%3c %0a%3c !!!Status Quo%0a%3c Maintain the peace and promote further peace when possible. %0a%3c %0a%3c !!!Description%0a%3c A man deeply rooted in his faith, Father Cosgrove is the stereotypical image of the older priest. His back stooped with age, his brow furred with worry and his hands old and worn. Nonetheless, he still works as feverishly as he did 20 years ago and is more complex and knowledgeable than meets the eye, possessing not only a vast amount of knowledge about Christian theology but a large base of knowledge concerning the myths and legends of Ancient Rome, Greece and a lesser knowledge of the Norse sagas, as well as a good knowledge of the practices of Islam and Judaism.%0a\ No newline at end of file%0a
+host:1485405355=99.100.145.126

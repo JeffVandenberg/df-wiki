@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376863268
+host=68.7.85.243
+name=Setting.BertuccisCafe
+rev=4
+targets=Factions.Paranet,Characters.MamaBertucci
+text=Attach:bertuccis.jpg%0a!!Bertucci's Cafe%0aA mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local [[Factions/Paranet]], a woman who wants nothing more than to keep everyone around her safe.%0a%0a!!!The Idea%0aBertucci's interior is designed to break up the 'Murphionic fields' that gather around mortal practitioners of magic, making it an ideal place for wizards and other mortal magicians to hang out without worrying about causing property damage.%0a%0a!!!The Aspect%0aJust Like Mama Used to Make%0a%0a!!!The Face%0a[[Characters/Mama Bertucci]], Paranetter and Panomancer
+time=1411248374
+author:1411248374=ChrisJ
+diff:1411248374:1411203630:=3c3%0a%3c A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local [[Factions/Paranet]], a woman who wants nothing more than to keep everyone around her safe.%0a---%0a> A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local [[Factions/The Paranet | Paranet]], a woman who wants nothing more than to keep everyone around her safe.%0a
+host:1411248374=68.7.85.243
+author:1411203630=ChrisJ
+diff:1411203630:1376866800:=3c3%0a%3c A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local [[Factions/The Paranet | Paranet]], a woman who wants nothing more than to keep everyone around her safe.%0a---%0a> A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local Paranet, a woman who wants nothing more than to keep everyone around her safe.%0a
+host:1411203630=68.7.85.243
+author:1376866800=JillA
+diff:1376866800:1376863268:=1c1%0a%3c Attach:bertuccis.jpg%0a---%0a> http://imageshack.us/a/img51/5374/p456.jpg%0a12c12%0a%3c [[Characters/Mama Bertucci]], Paranetter and Panomancer%0a\ No newline at end of file%0a---%0a> [[Mama Bertucci]], Paranetter and Panomancer%0a\ No newline at end of file%0a
+host:1376866800=24.20.151.3
+author:1376863268=JillA
+diff:1376863268:1376863268:=1,12d0%0a%3c http://imageshack.us/a/img51/5374/p456.jpg%0a%3c !!Bertucci's Cafe%0a%3c A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local Paranet, a woman who wants nothing more than to keep everyone around her safe.%0a%3c %0a%3c !!!The Idea%0a%3c Bertucci's interior is designed to break up the 'Murphionic fields' that gather around mortal practitioners of magic, making it an ideal place for wizards and other mortal magicians to hang out without worrying about causing property damage.%0a%3c %0a%3c !!!The Aspect%0a%3c Just Like Mama Used to Make%0a%3c %0a%3c !!!The Face%0a%3c [[Mama Bertucci]], Paranetter and Panomancer%0a\ No newline at end of file%0a
+host:1376863268=24.20.151.3

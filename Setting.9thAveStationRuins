@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1411176048
+host=68.7.85.243
+name=Setting.9thAveStationRuins
+rev=2
+targets=Characters.Elena,Setting.BlackRoseSociety
+text=Attach:9thavenuestation.jpg%0a!!9th Avenue Station, Lower Level (Ruins)%0aA disused subway station closed to the public since 1975. Unbeknownst tot he public, this is a meeting place for the supernatural. %0a%0a''Secondary Accorded Neutral Grounds.''%0a%0a!!!The Idea%0aThe real dirty deals and hard decisions are made in the abandoned subway beneath the notice of mortals and supernaturals; a great place to get things done.%0a%0a!!!The Aspect%0aPolitical Underground%0a%0a!!!The Face%0a[[Characters/Elena]], Living Dead Girl%0a%0a!!!Current Events%0aThe 9th Ave Station is currently in ruins following an attack by the [[Setting/Black Rose Society]], and Elena has been declared officially dead.  Construction has begun on the ruins, and a sign is posted nearby that reads COMING SOON: ELENA'S
+time=1411176185
+author:1411176185=ChrisJ
+diff:1411176185:1411176048:=17c17%0a%3c The 9th Ave Station is currently in ruins following an attack by the [[Setting/Black Rose Society]], and Elena has been declared officially dead.  Construction has begun on the ruins, and a sign is posted nearby that reads COMING SOON: ELENA'S%0a\ No newline at end of file%0a---%0a> The 9th Ave Station is currently in ruins following an attack by the [[Black Rose Society]], and Elena has been declared officially dead.  Construction has begun on the ruins, and a sign is posted nearby that reads COMING SOON: ELENA'S%0a\ No newline at end of file%0a
+host:1411176185=68.7.85.243
+author:1411176048=ChrisJ
+diff:1411176048:1411176048:=1,17d0%0a%3c Attach:9thavenuestation.jpg%0a%3c !!9th Avenue Station, Lower Level (Ruins)%0a%3c A disused subway station closed to the public since 1975. Unbeknownst tot he public, this is a meeting place for the supernatural. %0a%3c %0a%3c ''Secondary Accorded Neutral Grounds.''%0a%3c %0a%3c !!!The Idea%0a%3c The real dirty deals and hard decisions are made in the abandoned subway beneath the notice of mortals and supernaturals; a great place to get things done.%0a%3c %0a%3c !!!The Aspect%0a%3c Political Underground%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Elena]], Living Dead Girl%0a%3c %0a%3c !!!Current Events%0a%3c The 9th Ave Station is currently in ruins following an attack by the [[Black Rose Society]], and Elena has been declared officially dead.  Construction has begun on the ruins, and a sign is posted nearby that reads COMING SOON: ELENA'S%0a\ No newline at end of file%0a
+host:1411176048=68.7.85.243

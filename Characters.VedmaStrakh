@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376872732
+host=209.6.95.48
+name=Characters.VedmaStrakh
+rev=2
+targets=
+text=Attach:CharacterImage.gif%0a!!Ved'ma Strakh%0aHedge witch
+time=1405831978
+author:1405831978=OwleIsohos
+diff:1405831978:1376872732:=3c3,9%0a%3c Hedge witch%0a\ No newline at end of file%0a---%0a> Description Here%0a> %0a> !!!Public Knowledge%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405831978=209.6.95.48
+author:1376872732=JillA
+diff:1376872732:1376872732:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Ved'ma Strakh%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872732=24.20.151.3

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; Android 4.4.2; SM-G860P Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
+author=Ebram
+charset=UTF-8
+csum=
+ctime=1419711245
+host=66.87.74.137
+name=Factions.BoardmanFoundation
+rev=2
+targets=
+text=The Boardman Foundation is an international corporation that has recently branched out into the United States with it's recent acquisition of multiple floors of 1 World Trade Center.%0a%0aThe company boasts a CEO who cares more about his employees than he does about his profit margin. Rhys, the son of the creators of the Foundation has spent his time running the company more as a means to an end, donating generously from his own pocket as well as from the coffers of the Foundation itself to help the city of New York and it's supernatural inhabitants. From funding the creation of other businesses, to employing those who need work, to even generous donations to the poor and homeless of the city, the charismatic leader of the Foundation has been working to keep the reputation of his family as polished as can be in these dangerous and seditious times.
+time=1419718646
+author:1419718646=Ebram
+diff:1419718646:1419711245:=3c3%0a%3c The company boasts a CEO who cares more about his employees than he does about his profit margin. Rhys, the son of the creators of the Foundation has spent his time running the company more as a means to an end, donating generously from his own pocket as well as from the coffers of the Foundation itself to help the city of New York and it's supernatural inhabitants. From funding the creation of other businesses, to employing those who need work, to even generous donations to the poor and homeless of the city, the charismatic leader of the Foundation has been working to keep the reputation of his family as polished as can be in these dangerous and seditious times.%0a\ No newline at end of file%0a---%0a> The company boasts a CEO who cares more about his employees than he does about his profit margin. Rhys, the son of the creators of the Foundation has spent his time running the company more as a means to an end, donating generously from his own pocket as well as from the coffers of the Foundation of itself to help the city of New York and it's supernatural inhabitants. From funding the creation of other businesses, to employing those who need work, to even generous donations to the poor and homeless of the city, the charismatic leader of the Foundation has been working to keep the reputation of his family as polished as can be in these dangerous and seditious times.%0a\ No newline at end of file%0a
+host:1419718646=66.87.74.137
+author:1419711245=Ebram
+diff:1419711245:1419711245:=1,3d0%0a%3c The Boardman Foundation is an international corporation that has recently branched out into the United States with it's recent acquisition of multiple floors of 1 World Trade Center.%0a%3c %0a%3c The company boasts a CEO who cares more about his employees than he does about his profit margin. Rhys, the son of the creators of the Foundation has spent his time running the company more as a means to an end, donating generously from his own pocket as well as from the coffers of the Foundation of itself to help the city of New York and it's supernatural inhabitants. From funding the creation of other businesses, to employing those who need work, to even generous donations to the poor and homeless of the city, the charismatic leader of the Foundation has been working to keep the reputation of his family as polished as can be in these dangerous and seditious times.%0a\ No newline at end of file%0a
+host:1419711245=66.87.74.137

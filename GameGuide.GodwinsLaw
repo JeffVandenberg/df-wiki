@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485291971
+host=4.15.247.35
+name=GameGuide.GodwinsLaw
+rev=1
+targets=
+text=!!Godwin's Law%0a!!!AKA "Don't Be a Jerk!"%0a%0aWe follow "Godwin's Law" here at Dominium Fuego, which can be simply restated as "Don't Be a Jerk!" Respect the community and the staff. Please be conscious of the fact that we have players from all walks of life from all over the world, and that part of engendering a strong, open community is the fact that we do not offend or disparage each other. %0a%0aThis is part of the core ideals surrounding Dominium Fuego and is at the center of our ability to build open and close communities.
+time=1485291971
+author:1485291971=ChrisJ
+diff:1485291971:1485291971:minor=1,6d0%0a%3c !!Godwin's Law%0a%3c !!!AKA "Don't Be a Jerk!"%0a%3c %0a%3c We follow "Godwin's Law" here at Dominium Fuego, which can be simply restated as "Don't Be a Jerk!" Respect the community and the staff. Please be conscious of the fact that we have players from all walks of life from all over the world, and that part of engendering a strong, open community is the fact that we do not offend or disparage each other. %0a%3c %0a%3c This is part of the core ideals surrounding Dominium Fuego and is at the center of our ability to build open and close communities.%0a\ No newline at end of file%0a
+host:1485291971=4.15.247.35

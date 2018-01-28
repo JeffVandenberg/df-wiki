@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ZRTAssassin
+charset=UTF-8
+csum=
+ctime=1460605882
+host=72.222.119.120
+name=Characters.JackMacTaggert
+rev=1
+targets=Setting.PrometheanLabs,Factions.PrometheanLabs
+text=!!Jack MacTaggert%0a%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Genetic Engineering Genius] ||[[Setting/Promethean Labs]] ||[[Factions/Promethean Labs]] ||%0a%0a----%0a%0a!!!Motivation%0a%0a%0a!!!Status Quo%0aFounder and lead scientist of Promethean Labs, and with a goal like "giving people fire to rival the gods," Promethean Labs is definitely interested in shaking things up.%0a%0a!!!Description%0a%0a%0a!!!Public Relationships%0a
+time=1460605882
+author:1460605882=ZRTAssassin
+diff:1460605882:1460605882:=1,20d0%0a%3c !!Jack MacTaggert%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Genetic Engineering Genius] ||[[Setting/Promethean Labs]] ||[[Factions/Promethean Labs]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c %0a%3c %0a%3c !!!Status Quo%0a%3c Founder and lead scientist of Promethean Labs, and with a goal like "giving people fire to rival the gods," Promethean Labs is definitely interested in shaking things up.%0a%3c %0a%3c !!!Description%0a%3c %0a%3c %0a%3c !!!Public Relationships%0a
+host:1460605882=72.222.119.120

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376864011
+host=68.7.85.243
+name=Setting.Epicurious
+rev=4
+targets=Factions.WhiteCourt
+text=!!Epicurious%0aTrendy, high class restaurant and [[Factions/White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a%0a!!!The Idea%0aDeals are brokered, favors repaid. Hospitality, however is Rule One.%0a%0a!!!The Aspect%0aWe Take Care of Our Own
+time=1411249027
+author:1411249027=ChrisJ
+diff:1411249027:1411203130:minor=2c2%0a%3c Trendy, high class restaurant and [[Factions/White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a---%0a> Trendy, high class restaurant and [[Factions/White Court of Vampires | White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a
+host:1411249027=68.7.85.243
+author:1411203130=ChrisJ
+diff:1411203130:1405826746:=2c2%0a%3c Trendy, high class restaurant and [[Factions/White Court of Vampires | White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a---%0a> Trendy, high class restaurant and [[White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a
+host:1411203130=68.7.85.243
+author:1405826746=OwleIsohos
+diff:1405826746:1376864011:=0a1%0a> Attach:locationpic.jpg%0a8c9,12%0a%3c We Take Care of Our Own%0a\ No newline at end of file%0a---%0a> We Take Care of Our Own%0a> %0a> !!!The Face%0a> [[Ashley Milliner]], Scion of a Lesser House%0a\ No newline at end of file%0a
+host:1405826746=209.6.95.48
+author:1376864011=JillA
+diff:1376864011:1376864011:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!Epicurious%0a%3c Trendy, high class restaurant and [[White Court]] hangout. The rivalries between the Lesser Houses and Major Houses are played out behind the scenes.%0a%3c %0a%3c !!!The Idea%0a%3c Deals are brokered, favors repaid. Hospitality, however is Rule One.%0a%3c %0a%3c !!!The Aspect%0a%3c We Take Care of Our Own%0a%3c %0a%3c !!!The Face%0a%3c [[Ashley Milliner]], Scion of a Lesser House%0a\ No newline at end of file%0a
+host:1376864011=24.20.151.3

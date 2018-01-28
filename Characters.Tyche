@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376872663
+host=68.7.85.243
+name=Characters.Tyche
+rev=5
+targets=Characters.Eris
+text=Attach:CharacterImage.gif%0a!!Tyche%0aThe Refugee Goddess of NYC, Tyche is a goddess of fortune and claims to be the patron goddess of NYC.%0a%0a!!!Public Knowledge%0aTyche rarely appears herself, often sending her Emissary to deal with threats to the city.%0a%0a!!!Public Relationships%0a*[[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is the Emissary of Tyche%0a*Tyche is niece and rival of [[Characters/Eris]], Goddess of Discord
+time=1411203335
+author:1411203335=ChrisJ
+diff:1411203335:1405831997:=10c10%0a%3c *Tyche is niece and rival of [[Characters/Eris]], Goddess of Discord%0a\ No newline at end of file%0a---%0a> *Tyche is niece and rival of [[Eris]], Goddess of Discord%0a\ No newline at end of file%0a
+host:1411203335=68.7.85.243
+author:1405831997=ZDracolis
+diff:1405831997:1405831937:=10c10%0a%3c *Tyche is niece and rival of [[Eris]], Goddess of Discord%0a\ No newline at end of file%0a---%0a> *Tyche is niece of rival of [[Eris]], Goddess of Discord%0a\ No newline at end of file%0a
+host:1405831997=24.240.85.206
+author:1405831937=OwleIsohos
+diff:1405831937:1405831837:=9,10c9%0a%3c *[[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is the Emissary of Tyche%0a%3c *Tyche is niece of rival of [[Eris]], Goddess of Discord%0a\ No newline at end of file%0a---%0a> [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]], Emissary of Tyche%0a
+host:1405831937=209.6.95.48
+author:1405831837=OwleIsohos
+diff:1405831837:1376872663:=3,4c3,4%0a%3c The Refugee Goddess of NYC, Tyche is a goddess of fortune and claims to be the patron goddess of NYC.%0a%3c %0a---%0a> Description Here%0a> %0a6,7c6,7%0a%3c Tyche rarely appears herself, often sending her Emissary to deal with threats to the city.%0a%3c %0a---%0a> WIP%0a> %0a9c9%0a%3c [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]], Emissary of Tyche%0a---%0a> WIP%0a
+host:1405831837=209.6.95.48
+author:1376872663=JillA
+diff:1376872663:1376872663:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Tyche%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872663=24.20.151.3

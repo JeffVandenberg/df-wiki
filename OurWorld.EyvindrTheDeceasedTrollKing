@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1485406759
+host=99.100.145.126
+name=OurWorld.EyvindrTheDeceasedTrollKing
+rev=1
+targets=OurWorld.Hyvandra
+text=!!Eyvindr%0a%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[The Deceased Troll King of the Potomac] || || ||%0a%0a----%0a%0a!!!Motivation%0aEyvindr is irritated at having such a weak hold on D.C., but is comfortable with his position. He would rather stay at his current level of power than risk it to acquire more.%0a%0a!!!Status Quo%0aWishes things to remain the same, so that he may continue to enjoy his position without much effort.%0a%0a!!!Description%0aHuge and hideous, Eyvindr has grown fat and lazy over the years as he no longer leaves his cavern unless forced. His throne room sits underneath where the Theodore Roosevelt Memorial Bridge cross the island, but he no longer catches naughty children who may cross it. He cares not for etiquette or niceties, beyond that which is required of him.%0a%0a!!!The Battle of Ice and Iron%0aDuring the first battle of the war, Eyvindr fell to his death, and has been replaced by [[Hyvandra | Hyvandra]]%0a
+time=1485406759
+author:1485406759=JayJ
+diff:1485406759:1485406759:=1,21d0%0a%3c !!Eyvindr%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[The Deceased Troll King of the Potomac] || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Eyvindr is irritated at having such a weak hold on D.C., but is comfortable with his position. He would rather stay at his current level of power than risk it to acquire more.%0a%3c %0a%3c !!!Status Quo%0a%3c Wishes things to remain the same, so that he may continue to enjoy his position without much effort.%0a%3c %0a%3c !!!Description%0a%3c Huge and hideous, Eyvindr has grown fat and lazy over the years as he no longer leaves his cavern unless forced. His throne room sits underneath where the Theodore Roosevelt Memorial Bridge cross the island, but he no longer catches naughty children who may cross it. He cares not for etiquette or niceties, beyond that which is required of him.%0a%3c %0a%3c !!!The Battle of Ice and Iron%0a%3c During the first battle of the war, Eyvindr fell to his death, and has been replaced by [[Hyvandra | Hyvandra]]%0a
+host:1485406759=99.100.145.126

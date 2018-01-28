@@ -1,0 +1,42 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485145464
+host=98.176.135.178
+name=GameGuide.SideBar
+rev=10
+targets=GameGuide.GameGuide,GameGuide.NewPlayerGuide,GameGuide.SiteRulesAndConventions,GameGuide.RoleplayingEtiquette,GameGuide.PvP,GameGuide.PlayerRunScenes,GameGuide.SanctionedCharacterThreads,OurWorld.OurWorld,HouseRules.GameConfiguration,GameGuide.SideBar
+text=%25sidehead%25 Game Guide:%0a* [[Game Guide | What is Dominium Fuego?]]%0a* [[New Player Guide]]%0a* [[Site Rules and Conventions]]%0a* [[Roleplaying Etiquette | Roleplaying Etiquette & Tips]]%0a* [[PvP | PvP Policy]]%0a* [[Player Run Scenes]]%0a* [[Sanctioned Character Threads]]%0a%0a%25sidehead%25 Other Groups:%0a*[[Our World/]]%0a*[[House Rules/GameConfiguration | House Rules]]%0a%0a%25right%25 [-[[Game Guide.SideBar?action=edit | edit SideBar]]-]
+time=1488866939
+author:1488866939=ChrisJ
+diff:1488866939:1485548813:minor=5c5%0a%3c * [[Roleplaying Etiquette | Roleplaying Etiquette & Tips]]%0a---%0a> * [[Roleplaying Etiquette]]%0a
+host:1488866939=98.176.135.178
+author:1485548813=ChrisJ
+diff:1485548813:1485468237:minor=5d4%0a%3c * [[Roleplaying Etiquette]]%0a
+host:1485548813=130.191.187.42
+author:1485468237=ChrisJ
+diff:1485468237:1485466500:minor=7d6%0a%3c * [[Sanctioned Character Threads]]%0a
+host:1485468237=4.15.247.35
+author:1485466500=ChrisJ
+diff:1485466500:1485466479:minor=10c10%0a%3c *[[House Rules/GameConfiguration | House Rules]]%0a---%0a> *[[House Rules/GameConfiguration]]%0a
+host:1485466500=4.15.247.35
+author:1485466479=ChrisJ
+diff:1485466479:1485202630:minor=10c10%0a%3c *[[House Rules/GameConfiguration]]%0a---%0a> *[[House Rules/]]%0a
+host:1485466479=4.15.247.35
+author:1485202630=ChrisJ
+diff:1485202630:1485202614:minor=5c5%0a%3c * [[PvP | PvP Policy]]%0a---%0a> * [[PvP]] Policy%0a
+host:1485202630=4.15.247.35
+author:1485202614=ChrisJ
+diff:1485202614:1485147488:minor=5,6d4%0a%3c * [[PvP]] Policy%0a%3c * [[Player Run Scenes]]%0a
+host:1485202614=4.15.247.35
+author:1485147488=ChrisJ
+diff:1485147488:1485147398:minor=
+host:1485147488=98.176.135.178
+author:1485147398=ChrisJ
+diff:1485147398:1485145464:minor=10c10%0a%3c %25right%25 [-[[Game Guide.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a---%0a> %25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1485147398=98.176.135.178
+author:1485145464=ChrisJ
+diff:1485145464:1485145464:minor=1,10d0%0a%3c %25sidehead%25 Game Guide:%0a%3c * [[Game Guide | What is Dominium Fuego?]]%0a%3c * [[New Player Guide]]%0a%3c * [[Site Rules and Conventions]]%0a%3c %0a%3c %25sidehead%25 Other Groups:%0a%3c *[[Our World/]]%0a%3c *[[House Rules/]]%0a%3c %0a%3c %25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1485145464=98.176.135.178

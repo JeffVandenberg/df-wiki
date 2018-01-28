@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1465087671
+host=74.215.115.143
+name=Characters.MackenzieAbernathy
+rev=1
+targets=Setting.SutersTavern,Factions.ANG
+text=!!Mackenzie Abernathy%0a%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Old World Bartender] ||[[Setting/Suter's Tavern]] ||[[Factions/ANG]] ||%0a%0a----%0a%0a!!!Motivation%0aTo keep the Fountain Inn running. She is the new owner of the Inn after her mother, who inherited it from Clement Sewall in December of 1796.%0a%0a!!!Status Quo%0aAs an owner of an ANG, Kenzie doesn't care much about the status quo of the city, so long as her bar doesn't come under fire as a result.%0a%0a!!!Description%0aA tall, regal, woman with dark brunette hair. Mackenzie is an expert cook and bartender. Her dark blue eyes are a bit unsettling to look it if looked at for too long. She's tough, stout, and doesn't seem to age a day. It's been that way for a few hundred years now. Kenzie does not appreciate anyone disrespecting her, or her bar, and will deal with those that cross her appropriately.
+time=1465087671
+author:1465087671=NGodfrey
+diff:1465087671:1465087671:=1,18d0%0a%3c !!Mackenzie Abernathy%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Old World Bartender] ||[[Setting/Suter's Tavern]] ||[[Factions/ANG]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To keep the Fountain Inn running. She is the new owner of the Inn after her mother, who inherited it from Clement Sewall in December of 1796.%0a%3c %0a%3c !!!Status Quo%0a%3c As an owner of an ANG, Kenzie doesn't care much about the status quo of the city, so long as her bar doesn't come under fire as a result.%0a%3c %0a%3c !!!Description%0a%3c A tall, regal, woman with dark brunette hair. Mackenzie is an expert cook and bartender. Her dark blue eyes are a bit unsettling to look it if looked at for too long. She's tough, stout, and doesn't seem to age a day. It's been that way for a few hundred years now. Kenzie does not appreciate anyone disrespecting her, or her bar, and will deal with those that cross her appropriately.%0a\ No newline at end of file%0a
+host:1465087671=74.215.115.143

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1463188125
+host=74.215.115.143
+name=Factions.SummerCourtOfFae
+rev=1
+targets=
+text=!!Name%0a%0a%0a----%0a%0a!!!The Idea%0a''''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a|| || || ||%0a%0a----%0a%0a!!!Status Quo%0a%0a!!!Description%0a
+time=1463188125
+author:1463188125=NGodfrey
+diff:1463188125:1463188125:=1,17d0%0a%3c !!Name%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c %0a%3c !!!Description%0a
+host:1463188125=74.215.115.143

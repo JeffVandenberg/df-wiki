@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460517241
+host=68.7.33.92
+name=Setting.TheodoreRooseveltIsland
+rev=4
+targets=Characters.EyvindrTheTrollKing,Factions.WinterCourtOfFae
+text=!!Theodore Roosevelt Island%0a%0aAttach:RooseveltIsland.jpg%0a%0a----%0a%0a!!!The Idea%0a'' This island represents a small bastion of Winter power, and is assaulted by Summer power most of the year. ''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Eyvindr the Troll King]] ||[Island in a Summer Storm] ||[[Factions/Winter Court of Fae]] ||%0a%0a----%0a%0a!!!Description%0aAn 88.5 acre piece of land in the middle of the Potomac River that serves as a memorial and park. A bridge crosses over it, but besides that only foot traffic is allowed. The only features on the island are the memorial and sidewalks. On the surface, nature abounds with beauty and survives floods. Under the island, a large cavern exists where the troll Eyvindr holds court. Parts of the cave have collapsed due to experiments with explosives conducted by chemists during the Spanish-American War.%0a%0a!!!Notable Events%0a
+time=1460529739
+author:1460529739=ChrisJ
+diff:1460529739:1460529736:minor=
+host:1460529739=68.7.33.92
+author:1460529736=ChrisJ
+diff:1460529736:1460517251:minor=3c3%0a%3c Attach:RooseveltIsland.jpg%0a---%0a> Attach:centralpark.jpg%0a
+host:1460529736=68.7.33.92
+author:1460517251=ChrisJ
+diff:1460517251:1460517241:minor=19a20%0a> Have any notable events occurred here?%0a\ No newline at end of file%0a
+host:1460517251=4.15.247.35
+author:1460517241=ChrisJ
+diff:1460517241:1460517241:minor=1,20d0%0a%3c !!Theodore Roosevelt Island%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c '' This island represents a small bastion of Winter power, and is assaulted by Summer power most of the year. ''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Eyvindr the Troll King]] ||[Island in a Summer Storm] ||[[Factions/Winter Court of Fae]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c An 88.5 acre piece of land in the middle of the Potomac River that serves as a memorial and park. A bridge crosses over it, but besides that only foot traffic is allowed. The only features on the island are the memorial and sidewalks. On the surface, nature abounds with beauty and survives floods. Under the island, a large cavern exists where the troll Eyvindr holds court. Parts of the cave have collapsed due to experiments with explosives conducted by chemists during the Spanish-American War.%0a%3c %0a%3c !!!Notable Events%0a%3c Have any notable events occurred here?%0a\ No newline at end of file%0a
+host:1460517241=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1419421227
+host=76.176.214.6
+name=Characters.ValBraddock
+rev=1
+targets=
+text=Val Braddock is Titania's Summer Knight, whose primary residence is 55 Central Park West. 
+time=1419421227
+author:1419421227=ChrisJ
+diff:1419421227:1419421227:=1d0%0a%3c Val Braddock is Titania's Summer Knight, whose primary residence is 55 Central Park West. %0a\ No newline at end of file%0a
+host:1419421227=76.176.214.6

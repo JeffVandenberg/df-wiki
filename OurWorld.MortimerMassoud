@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486042000
+host=109.201.143.196
+name=OurWorld.MortimerMassoud
+rev=1
+targets=OurWorld.MassoudFamilyAntiqueAndPawn,OurWorld.TheParanet
+text=!!Mortimer Massoud%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Were-Rat Pawnbroker] ||[[Massoud Family Antique and Pawn | Massoud Family Antique and Pawn]] ||[[The Paranet | The Paranet]] ||%0a%0a----%0a%0a!!!Motivation%0aTo support his family by keeping his business open and moving.%0a%0a!!!Status Quo%0aMortimer enjoys the status quo because upsetting it is bad for business. People get scared and they stay home instead of shopping.%0a%0a!!!Description%0aMortimer is a nervous, excitable man who talks fast and has several verbal and facial ticks. His store is an impossible maze of clutter, but he always seems to know where to find anything in it. He is a third-generation American with a large family he supports with his family's store, many of whom are also were-rats. %0a%0a!!!Public Relationships%0a
+time=1486042000
+author:1486042000=JayJ
+diff:1486042000:1486042000:=1,19d0%0a%3c !!Mortimer Massoud%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Were-Rat Pawnbroker] ||[[Massoud Family Antique and Pawn | Massoud Family Antique and Pawn]] ||[[The Paranet | The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To support his family by keeping his business open and moving.%0a%3c %0a%3c !!!Status Quo%0a%3c Mortimer enjoys the status quo because upsetting it is bad for business. People get scared and they stay home instead of shopping.%0a%3c %0a%3c !!!Description%0a%3c Mortimer is a nervous, excitable man who talks fast and has several verbal and facial ticks. His store is an impossible maze of clutter, but he always seems to know where to find anything in it. He is a third-generation American with a large family he supports with his family's store, many of whom are also were-rats. %0a%3c %0a%3c !!!Public Relationships%0a
+host:1486042000=109.201.143.196

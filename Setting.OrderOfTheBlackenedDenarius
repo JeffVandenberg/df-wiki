@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1411199968
+host=68.7.85.243
+name=Setting.OrderOfTheBlackenedDenarius
+rev=1
+targets=
+text=Test
+time=1411199968
+author:1411199968=ChrisJ
+diff:1411199968:1411199968:=1d0%0a%3c Test%0a\ No newline at end of file%0a
+host:1411199968=68.7.85.243

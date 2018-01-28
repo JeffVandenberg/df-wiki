@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486069183
+host=128.227.14.255
+name=OurWorld.GreyCourt
+rev=1
+targets=Characters.KokuOpoku
+text=!!Grey Court of Vampires%0a%0a----%0a%0a!!!The Idea%0a''Monstrous creatures that feed on humanity and wish to lord over all.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Koku Opoku]]||Unknown||[TBD]||%0a%0a!!!Status Quo%0aWith businessmen, diplomats, and warlords, they seek control over everything, in order to enact the chaos they need to feast upon humankind without worry of interruption.%0a%0a!!!Description%0aThe Grey Court hails from West Africa, where they control most everything. They have started to expand their territory to other nations and continents, and seem very interested in D.C. as of late. They resemble humans while in disguise, but when using their powers, they take on an appearance more like a midnight-skinned ogre. Their teeth and the hooks that tip their legs instead of feet are made of iron.%0a%0a!!!Public Relationships%0aUnknown.
+time=1486069183
+author:1486069183=OTD
+diff:1486069183:1486069183:=1,19d0%0a%3c !!Grey Court of Vampires%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Monstrous creatures that feed on humanity and wish to lord over all.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Koku Opoku]]||Unknown||[TBD]||%0a%3c %0a%3c !!!Status Quo%0a%3c With businessmen, diplomats, and warlords, they seek control over everything, in order to enact the chaos they need to feast upon humankind without worry of interruption.%0a%3c %0a%3c !!!Description%0a%3c The Grey Court hails from West Africa, where they control most everything. They have started to expand their territory to other nations and continents, and seem very interested in D.C. as of late. They resemble humans while in disguise, but when using their powers, they take on an appearance more like a midnight-skinned ogre. Their teeth and the hooks that tip their legs instead of feet are made of iron.%0a%3c %0a%3c !!!Public Relationships%0a%3c Unknown.%0a\ No newline at end of file%0a
+host:1486069183=128.227.14.255

@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460514338
+host=4.15.247.35
+name=Factions.TheParanet
+rev=5
+targets=Setting.BoughmanAcademyForSuperiorEducation,Characters.MortimerMassoud,Setting.MassoudFamilyAntiqueAndPawn
+text=!!The Paranet%0a%0a%0a----%0a%0a!!!The Idea%0a''The lesser talents in the city communicate through the Paranet to share strategies and information. ''%0a%0a!!!Status Quo%0aParanetters have a variety of interests in maintaining or upsetting the status quo. There is no central organization %0a%0a(:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a||class=sortable id=thetable%0a||!Notable Paranetters ||!Location ||!Aspect ||%0a||Dr. Aaron Boughman ||[[Setting/Boughman Academy for Superior Education]] ||? ||%0a||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||[Hidden Treasures] ||%0a%0a----%0a%0a!!!Description%0a
+time=1460754603
+author:1460754603=ChrisJ
+diff:1460754603:1460754589:minor=16c16%0a%3c ||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||[Hidden Treasures] ||%0a---%0a> ||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||? ||%0a
+host:1460754603=4.15.247.35
+author:1460754589=ChrisJ
+diff:1460754589:1460520216:minor=16c16%0a%3c ||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||? ||%0a---%0a> ||[[Characters/Mortimer Reed]] ||[[Setting/Reed Family Pawn & Resale]] ||? ||%0a
+host:1460754589=4.15.247.35
+author:1460520216=ChrisJ
+diff:1460520216:1460520048:minor=15d14%0a%3c ||Dr. Aaron Boughman ||[[Setting/Boughman Academy for Superior Education]] ||? ||%0a
+host:1460520216=68.7.33.92
+author:1460520048=ChrisJ
+diff:1460520048:1460514338:minor=15c15%0a%3c ||[[Characters/Mortimer Reed]] ||[[Setting/Reed Family Pawn & Resale]] ||? ||%0a---%0a> ||[[Characters/Mortimer Reed]] ||[[Locations/Reed Family Pawn & Resale]] ||? ||%0a
+host:1460520048=68.7.33.92
+author:1460514338=ChrisJ
+diff:1460514338:1460514338:minor=1,19d0%0a%3c !!The Paranet%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The lesser talents in the city communicate through the Paranet to share strategies and information. ''%0a%3c %0a%3c !!!Status Quo%0a%3c Paranetters have a variety of interests in maintaining or upsetting the status quo. There is no central organization %0a%3c %0a%3c (:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c ||class=sortable id=thetable%0a%3c ||!Notable Paranetters ||!Location ||!Aspect ||%0a%3c ||[[Characters/Mortimer Reed]] ||[[Locations/Reed Family Pawn & Resale]] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a
+host:1460514338=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486070155
+host=128.227.14.255
+name=OurWorld.TuathaDéDanann
+rev=1
+targets=Characters.Ogma,Setting.FortDupontPark
+text=!!Tuatha De Danann%0a%0a%0a----%0a%0a!!!The Idea%0aIn heading west, the Tuatha try and watch out for the nation so heavily influenced by the Celts who came here%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Ogma]] ||[[Setting/Fort Dupont Park]] ||[We Came From Distant Shores] ||%0a%0a----%0a%0a!!!Status Quo%0a?%0a%0a!!!Description%0aWhen the Tuatha headed west, they followed their worshippers, namely Madoc Skean, the king who led his people to America, but they were lost to history. When the Irish came to this and, the Tuatha were here, and the Celts were in dire straights. Oghma finally took the throne, and began to inspire the Celts of America to work together to fight the English. In the two centuries since, the Tuatha stopped retreating. Oghma still holds the throne, and the pantheon has spread out. They no longer fight mortal battles alongside their people, but they remember that what you do makes you a hero or a god, not what you are. And they always fight the uphill battle so that mortals remember that lesson.%0a %0a!!!Public Relationships%0a
+time=1486070155
+author:1486070155=OTD
+diff:1486070155:1486070155:=1,21d0%0a%3c !!Tuatha De Danann%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c In heading west, the Tuatha try and watch out for the nation so heavily influenced by the Celts who came here%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Ogma]] ||[[Setting/Fort Dupont Park]] ||[We Came From Distant Shores] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c ?%0a%3c %0a%3c !!!Description%0a%3c When the Tuatha headed west, they followed their worshippers, namely Madoc Skean, the king who led his people to America, but they were lost to history. When the Irish came to this and, the Tuatha were here, and the Celts were in dire straights. Oghma finally took the throne, and began to inspire the Celts of America to work together to fight the English. In the two centuries since, the Tuatha stopped retreating. Oghma still holds the throne, and the pantheon has spread out. They no longer fight mortal battles alongside their people, but they remember that what you do makes you a hero or a god, not what you are. And they always fight the uphill battle so that mortals remember that lesson.%0a%3c  %0a%3c !!!Public Relationships%0a
+host:1486070155=128.227.14.255

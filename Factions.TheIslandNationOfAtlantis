@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1428646918
+host=64.134.223.208
+name=Factions.TheIslandNationOfAtlantis
+rev=3
+targets=Characters.TexArkanon,Setting.TheMermaidInn
+text=!!The Island Nation of Atlantis%0a''The arrival of Tex Arkanon in New York has revealed the truth: Atlantis yet exists; the Sinking having actually been a sham, accomplished through a Greater Veiling. Few remain that remember the true circumstances of exactly ''why'' they felt the need to do this. ''%0a%0a!!!The Idea%0aThe Island Nation of Atlantis is a long-hidden society of humans living in an ancient but incredibly advanced civilization. Magic permeates their island and every day life, and as a result, Atlanteans as a whole are a bit...more...than your typical mundane mortal. %0a%0a!!!The Aspect%0aAncient Ties %0a%0a!!!The Face%0a[[Characters/Tex Arkanon]]%0a%0a!!!Location%0a[[Setting/The Mermaid Inn]]
+time=1428647350
+author:1428647350=ChrisJ
+diff:1428647350:1428647266:=11,14c11%0a%3c [[Characters/Tex Arkanon]]%0a%3c %0a%3c !!!Location%0a%3c [[Setting/The Mermaid Inn]]%0a\ No newline at end of file%0a---%0a> [[Characters/Tex Arkanon]]%0a\ No newline at end of file%0a
+host:1428647350=64.134.223.208
+author:1428647266=ChrisJ
+diff:1428647266:1428646918:=2c2,3%0a%3c ''The arrival of Tex Arkanon in New York has revealed the truth: Atlantis yet exists; the Sinking having actually been a sham, accomplished through a Greater Veiling. Few remain that remember the true circumstances of exactly ''why'' they felt the need to do this. ''%0a---%0a> %0a> The arrival of Tex Arkanon in New York has revealed the truth: Atlantis yet exists; the Sinking having actually been accomplished through a Greater Veiling. Few remain that remember the true circumstances of %0a
+host:1428647266=64.134.223.208
+author:1428646918=ChrisJ
+diff:1428646918:1428646918:=1,12d0%0a%3c !!The Island Nation of Atlantis%0a%3c %0a%3c The arrival of Tex Arkanon in New York has revealed the truth: Atlantis yet exists; the Sinking having actually been accomplished through a Greater Veiling. Few remain that remember the true circumstances of %0a%3c %0a%3c !!!The Idea%0a%3c The Island Nation of Atlantis is a long-hidden society of humans living in an ancient but incredibly advanced civilization. Magic permeates their island and every day life, and as a result, Atlanteans as a whole are a bit...more...than your typical mundane mortal. %0a%3c %0a%3c !!!The Aspect%0a%3c Ancient Ties %0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Tex Arkanon]]%0a\ No newline at end of file%0a
+host:1428646918=64.134.223.208

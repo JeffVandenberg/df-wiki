@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376867834
+host=68.7.85.243
+name=Characters.ChristianKassel
+rev=4
+targets=Factions.WhiteCourtOfVampires,Setting.HouseKassel,Setting.Lexicon,Characters.AugustusKassel
+text=Attach:CharacterImage.gif%0a!!Christian Kassel%0a:The Face: Blood in The Water (Threat)%0a''A charismatic young member of [[Setting/House Kassel]] who thinks the [[Factions/White Court of Vampires | White Court]] should do things his way.''%0a%0a!!!Public Knowledge%0a*Christian has been slowly building his power base in House Kassel.%0a%0a*Rumor has it that he plans to challenge Augustus Kassel for control of House Kassel and, by extension, the local White Court.%0a%0a*Christian has expressed disgust toward House Kassel's current policy of cooperation with other supernatural groups against the [[Setting/Lexicon|Outsider]] threat, saying that the White Court needs to look to its own interests first.%0a%0a*He is rumored to be behind several attacks on White Court Virgins, meant to force them into their first kill.%0a%0a*Rumor has it that he was involved with the demons who attacked NYU in the fall of '13.%0a%0a!!!Public Relationships%0a* Nephew of [[Augustus Kassel]]%0a* Member in good standing of [[Setting/House Kassel]] and the [[Factions/White Court of Vampires | White Court]]
+time=1411204022
+author:1411204022=ChrisJ
+diff:1411204022:1405829925:=4,5c4,5%0a%3c ''A charismatic young member of [[Setting/House Kassel]] who thinks the [[Factions/White Court of Vampires | White Court]] should do things his way.''%0a%3c %0a---%0a> ''A charismatic young member of [[Setting/House Kassel]] who thinks the [[Setting/White Court]] should do things his way.''%0a> %0a19c19%0a%3c * Member in good standing of [[Setting/House Kassel]] and the [[Factions/White Court of Vampires | White Court]]%0a\ No newline at end of file%0a---%0a> * Member in good standing of [[Setting/House Kassel]] and the [[Setting/White Court]]%0a\ No newline at end of file%0a
+host:1411204022=68.7.85.243
+author:1405829925=OwleIsohos
+diff:1405829925:1377025747:=15,16d14%0a%3c *Rumor has it that he was involved with the demons who attacked NYU in the fall of '13.%0a%3c %0a18a17%0a> * Allied with [[Rebecca Malvora]]%0a
+host:1405829925=209.6.95.48
+author:1377025747=JillA
+diff:1377025747:1376867834:=3,5c3,4%0a%3c :The Face: Blood in The Water (Threat)%0a%3c ''A charismatic young member of [[Setting/House Kassel]] who thinks the [[Setting/White Court]] should do things his way.''%0a%3c %0a---%0a> Description Here%0a> %0a7,14c6,7%0a%3c *Christian has been slowly building his power base in House Kassel.%0a%3c %0a%3c *Rumor has it that he plans to challenge Augustus Kassel for control of House Kassel and, by extension, the local White Court.%0a%3c %0a%3c *Christian has expressed disgust toward House Kassel's current policy of cooperation with other supernatural groups against the [[Setting/Lexicon|Outsider]] threat, saying that the White Court needs to look to its own interests first.%0a%3c %0a%3c *He is rumored to be behind several attacks on White Court Virgins, meant to force them into their first kill.%0a%3c %0a---%0a> WIP%0a> %0a16,18c9%0a%3c * Nephew of [[Augustus Kassel]]%0a%3c * Allied with [[Rebecca Malvora]]%0a%3c * Member in good standing of [[Setting/House Kassel]] and the [[Setting/White Court]]%0a\ No newline at end of file%0a---%0a> WIP%0a
+host:1377025747=24.20.151.3
+author:1376867834=JillA
+diff:1376867834:1376867834:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Christian Kassel%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867834=24.20.151.3

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1486056274
+host=130.191.253.209
+name=OurWorld.DupontCircleSubway
+rev=4
+targets=OurWorld.Phil-with-the-Beard
+text=!!Dupont Circle Subway%0a%0a%0a----%0a%0a!!!The Idea%0a''A coven of dark sorcerers have begun using these tunnels to practice their dark arts. It's unknown what exactly is happening down there, but it could be anything from demon-calling to necromancy to murder.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Phil-with-the-Beard]] ||[Tunnels of Darkness] ||??? ||%0a%0a----%0a%0a!!!Description%0aThe Dupont Circle subway closed down in 1962, and has been abandoned ever since. Tours recently have seen strange symbols and pentagrams in the tunnels, though most think it's simply harmless graffiti. (Here is a [[http://farm9.staticflickr.com/8490/8267096325_2aa13f8e71_b.jpg|map]] of the tunnels.)%0a%0a!!!Notable Events
+time=1486089390
+author:1486089390=ChrisJ
+diff:1486089390:1486056431:minor=11c11%0a%3c ||[[Phil-with-the-Beard]] ||[Tunnels of Darkness] ||??? ||%0a---%0a> ||??? ||[Tunnels of Darkness] ||??? ||%0a
+host:1486089390=130.191.253.209
+author:1486056431=JayJ
+diff:1486056431:1486056289:=11c11%0a%3c ||??? ||[Tunnels of Darkness] ||??? ||%0a---%0a> ||  ||[Tunnels of Darkness] ||[[Unaffiliated | Unaffiliated]] ||%0a
+host:1486056431=85.17.26.10
+author:1486056289=JayJ
+diff:1486056289:1486056274:=11c11%0a%3c ||  ||[Tunnels of Darkness] ||[[Unaffiliated | Unaffiliated]] ||%0a---%0a> ||  ||[Tunnels of Darkness] ||[[Unaffiliated | Unaffiliated ||%0a
+host:1486056289=85.17.26.10
+author:1486056274=JayJ
+diff:1486056274:1486056274:=1,18d0%0a%3c !!Dupont Circle Subway%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A coven of dark sorcerers have begun using these tunnels to practice their dark arts. It's unknown what exactly is happening down there, but it could be anything from demon-calling to necromancy to murder.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||  ||[Tunnels of Darkness] ||[[Unaffiliated | Unaffiliated ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c The Dupont Circle subway closed down in 1962, and has been abandoned ever since. Tours recently have seen strange symbols and pentagrams in the tunnels, though most think it's simply harmless graffiti. (Here is a [[http://farm9.staticflickr.com/8490/8267096325_2aa13f8e71_b.jpg|map]] of the tunnels.)%0a%3c %0a%3c !!!Notable Events%0a\ No newline at end of file%0a
+host:1486056274=85.17.26.10

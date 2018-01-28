@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485465560
+host=4.15.247.35
+name=MagicRules.ThaumaturgyGuide
+rev=1
+targets=
+text=!!Thaumaturgy Guide%0a%0aThis article is a stub.
+time=1485465560
+author:1485465560=ChrisJ
+diff:1485465560:1485465560:=1,3d0%0a%3c !!Thaumaturgy Guide%0a%3c %0a%3c This article is a stub.%0a\ No newline at end of file%0a
+host:1485465560=4.15.247.35

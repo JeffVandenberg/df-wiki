@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1467232393
+host=74.215.115.143
+name=Characters.MarianetteDeLîle
+rev=1
+targets=Factions.TheWhiteCouncilOfWizards
+text=----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Commander of the Seaboard Wardens] ||[The Wardens] ||[[Factions/The White Council of Wizards]] ||%0a%0a----%0a%0a!!!Motivation%0aTo purge corruption at all levels.%0a%0a!!!Status Quo%0aAs the Leader of the few remaining Wardens in the Eastern United States, she only comes to town once or twice a month, unless called on business. %0a%0a!!!Description%0aBorn in Haiti during the Revolution, she feels very strongly about fighting corruption in both a spiritual and political capacity due to the dictators her nation faced as she grew up. After a few decades as a Wizard, she was promoted to Warden, and after a century's service, she became a commander, eventually assigned to the Eastern Seaboard of the United States of America.%0a%0a!!!Public Relationships%0a
+time=1467232393
+author:1467232393=NGodfrey
+diff:1467232393:1467232393:=1,17d0%0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Commander of the Seaboard Wardens] ||[The Wardens] ||[[Factions/The White Council of Wizards]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To purge corruption at all levels.%0a%3c %0a%3c !!!Status Quo%0a%3c As the Leader of the few remaining Wardens in the Eastern United States, she only comes to town once or twice a month, unless called on business. %0a%3c %0a%3c !!!Description%0a%3c Born in Haiti during the Revolution, she feels very strongly about fighting corruption in both a spiritual and political capacity due to the dictators her nation faced as she grew up. After a few decades as a Wizard, she was promoted to Warden, and after a century's service, she became a commander, eventually assigned to the Eastern Seaboard of the United States of America.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1467232393=74.215.115.143

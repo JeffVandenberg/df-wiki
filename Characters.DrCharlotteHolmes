@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376867889
+host=209.6.95.48
+name=Characters.DrCharlotteHolmes
+rev=2
+targets=Setting.NYU
+text=Attach:CharacterImage.gif%0a!!Dr. Charlotte Holmes%0a'''The Face''' of [[Setting/NYU]]\\%0aA skeptical professor of abnormal psychology.%0a%0a!!!Public Knowledge%0aHolmes was present during the demon attack on NYU, but she's rationalized the events as a lone student having a mental breakdown at the Candlelight Vigil.%0a
+time=1405829134
+author:1405829134=OwleIsohos
+diff:1405829134:1376867889:=4,5c4,5%0a%3c A skeptical professor of abnormal psychology.%0a%3c %0a---%0a> Description Here%0a> %0a7c7,10%0a%3c Holmes was present during the demon attack on NYU, but she's rationalized the events as a lone student having a mental breakdown at the Candlelight Vigil.%0a---%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405829134=209.6.95.48
+author:1376867889=JillA
+diff:1376867889:1376867889:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Dr. Charlotte Holmes%0a%3c '''The Face''' of [[Setting/NYU]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867889=24.20.151.3

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486043886
+host=109.201.143.196
+name=OurWorld.WillowMorning
+rev=1
+targets=OurWorld.NationalSmithsonianZoo,OurWorld.ANG
+text=!!Willow Morning%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Horned Hippie Caretaker] ||[[National Smithsonian Zoo | National Smithsonian Zoo]] ||[[ANG | ANG]] ||%0a%0a----%0a%0a!!!Motivation%0aWillow wants to make sure the animals are well taken care of, and that no one is anything but cheerful and chill while at the zoo.%0a%0a!!!Status Quo%0aThe zoo is an ANG, and as such both mortal and supernatural types go there for a stress free time, taking in the wonders of nature.%0a%0a!!!Description%0aWillow has long hair and a beard, both brown and reaching to his mid-chest. His ethnicity is hard to determine, but definitely a mix of several things. Usually dressed in loose, soft clothing, he has an odd walk, almost a limp, almost a bit of swagger, one can't be certain. He always remains happy, to the point that it's mildly off-putting. Violence is completely outside of his comfort zone, and he will neither partake in it nor allow others to do so within the zoo. No one is quite sure how he cleans the zoo so quickly each night, since he will only answer 'squirrels'.%0a%0a!!!Public Relationships%0a- Orson Ward, Marshall%0a
+time=1486043886
+author:1486043886=JayJ
+diff:1486043886:1486043886:=1,20d0%0a%3c !!Willow Morning%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Horned Hippie Caretaker] ||[[National Smithsonian Zoo | National Smithsonian Zoo]] ||[[ANG | ANG]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Willow wants to make sure the animals are well taken care of, and that no one is anything but cheerful and chill while at the zoo.%0a%3c %0a%3c !!!Status Quo%0a%3c The zoo is an ANG, and as such both mortal and supernatural types go there for a stress free time, taking in the wonders of nature.%0a%3c %0a%3c !!!Description%0a%3c Willow has long hair and a beard, both brown and reaching to his mid-chest. His ethnicity is hard to determine, but definitely a mix of several things. Usually dressed in loose, soft clothing, he has an odd walk, almost a limp, almost a bit of swagger, one can't be certain. He always remains happy, to the point that it's mildly off-putting. Violence is completely outside of his comfort zone, and he will neither partake in it nor allow others to do so within the zoo. No one is quite sure how he cleans the zoo so quickly each night, since he will only answer 'squirrels'.%0a%3c %0a%3c !!!Public Relationships%0a%3c - Orson Ward, Marshall%0a
+host:1486043886=109.201.143.196

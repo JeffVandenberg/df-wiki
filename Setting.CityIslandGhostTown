@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376863548
+host=209.6.95.48
+name=Setting.CityIslandGhostTown
+rev=3
+targets=
+text=!!City Island Ghost Town%0aA typical New England fishing village... in the Bronx. The place has been abandoned for years, and no one knows why. They say that when the fog rolls in the town comes to life. Just an urban legend, right?%0a%0a!!!The Idea%0aCity Island and its residents float aimlessly in the Nevernever, only becoming "real" at certain times when "the stars are right."%0a%0a!!!The Aspect%0aA Place Out of Time
+time=1405826774
+author:1405826774=OwleIsohos
+diff:1405826774:1376863570:=0a1%0a> Attach:locationpic.jpg%0a
+host:1405826774=209.6.95.48
+author:1376863570=JillA
+diff:1376863570:1376863548:=5c5%0a%3c !!!The Idea%0a---%0a> !!The Idea%0a8c8%0a%3c !!!The Aspect%0a---%0a> !!The Aspect%0a
+host:1376863570=24.20.151.3
+author:1376863548=JillA
+diff:1376863548:1376863548:=1,9d0%0a%3c Attach:locationpic.jpg%0a%3c !!City Island Ghost Town%0a%3c A typical New England fishing village... in the Bronx. The place has been abandoned for years, and no one knows why. They say that when the fog rolls in the town comes to life. Just an urban legend, right?%0a%3c %0a%3c !!The Idea%0a%3c City Island and its residents float aimlessly in the Nevernever, only becoming "real" at certain times when "the stars are right."%0a%3c %0a%3c !!The Aspect%0a%3c A Place Out of Time%0a\ No newline at end of file%0a
+host:1376863548=24.20.151.3

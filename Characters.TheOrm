@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1424652594
+host=64.134.239.44
+name=Characters.TheOrm
+rev=1
+targets=Setting.TheRagingWaters,Setting.RagingWaters
+text=Attach:CharacterImage.gif%0a!!The Orm%0a:The Face:[[Setting/The Raging Waters]]%0a''Ruler of the [[Setting/Raging Waters]], a tumultuous Demesne in the NeverNever, the Orm is the primordial progenitor of Sea Serpents. The Orm usually appears as a short, incredibly muscular man with dark bronze skin and green eyes. He dresses in linen slacks and loose silk shirts with a few buttons at the top unbuttoned.''%0a%0a!!!Public Knowledge%0a*The Orm rarely appears in the mortal realm these days, and has lost most of his power since Man stopped believing in Sea Serpents. %0a%0a*The Orm has a short temper--moreso since his power has eroded to the degree that it has. That said, he is still a formidable opponent, physically.%0a%0a%0a!!!Public Relationships%0a*The Orm publicly apologized to the Trapped Serpent after attacking the dragon's treasure-ship. %0a
+time=1424652594
+author:1424652594=ChrisJ
+diff:1424652594:1424652594:=1,13d0%0a%3c Attach:CharacterImage.gif%0a%3c !!The Orm%0a%3c :The Face:[[Setting/The Raging Waters]]%0a%3c ''Ruler of the [[Setting/Raging Waters]], a tumultuous Demesne in the NeverNever, the Orm is the primordial progenitor of Sea Serpents. The Orm usually appears as a short, incredibly muscular man with dark bronze skin and green eyes. He dresses in linen slacks and loose silk shirts with a few buttons at the top unbuttoned.''%0a%3c %0a%3c !!!Public Knowledge%0a%3c *The Orm rarely appears in the mortal realm these days, and has lost most of his power since Man stopped believing in Sea Serpents. %0a%3c %0a%3c *The Orm has a short temper--moreso since his power has eroded to the degree that it has. That said, he is still a formidable opponent, physically.%0a%3c %0a%3c %0a%3c !!!Public Relationships%0a%3c *The Orm publicly apologized to the Trapped Serpent after attacking the dragon's treasure-ship. %0a
+host:1424652594=64.134.239.44

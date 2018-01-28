@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376864997
+host=68.7.33.92
+name=Setting.SeaGate
+rev=3
+targets=Setting.Lexicon
+text=!!Sea Gate%0aAn orderly, polite, seaside, gated community next door to Coney Island. The upper middle class residents are hiding something.%0a%0aSea Gate was largely destroyed during the [[http://ragnarok.gamingsandbox.com/forum/viewtopic.php?f=31&t=1159|Battle of New York.]]%0a%0a!!!The Idea%0aA secret cult in the community hides and protects a gateway to the depths of the [[Lexicon|Nevernever]] where [[Lexicon|Outsiders]] lurk.%0a%0a!!!The Aspect%0aScorched Battlesite%0a
+time=1448874108
+author:1448874108=ChrisJ
+diff:1448874108:1405827118:minor=0a1%0a> %0a4,5d4%0a%3c Sea Gate was largely destroyed during the [[http://ragnarok.gamingsandbox.com/forum/viewtopic.php?f=31&t=1159|Battle of New York.]]%0a%3c %0a10c9%0a%3c Scorched Battlesite%0a---%0a> Stay Off the Grass%0a
+host:1448874108=68.7.33.92
+author:1405827118=OwleIsohos
+diff:1405827118:1376864997:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1405827118=209.6.95.48
+author:1376864997=JillA
+diff:1376864997:1376864997:=1,9d0%0a%3c Attach:locationpic.jpg%0a%3c !!Sea Gate%0a%3c An orderly, polite, seaside, gated community next door to Coney Island. The upper middle class residents are hiding something.%0a%3c %0a%3c !!!The Idea%0a%3c A secret cult in the community hides and protects a gateway to the depths of the [[Lexicon|Nevernever]] where [[Lexicon|Outsiders]] lurk.%0a%3c %0a%3c !!!The Aspect%0a%3c Stay Off the Grass%0a
+host:1376864997=24.20.151.3

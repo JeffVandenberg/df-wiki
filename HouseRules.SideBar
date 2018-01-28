@@ -1,0 +1,43 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485145649
+host=4.15.247.35
+name=HouseRules.SideBar
+rev=10
+targets=HouseRules.GameConfiguration,HouseRules.CharacterCreation,HouseRules.RecoveryAmpHealing,HouseRules.ModifiedPowers,HouseRules.ContestsAmpConflicts,MagicRules.MagicRules,GameGuide.GameGuide,OurWorld.OurWorld,HouseRules.SideBar
+text=%25sidehead%25 House Rules:%0a*[[Game Configuration]]%0a*[[Character Creation]]%0a*[[Recovery & Healing]]%0a*[[Modified Powers]]%0a*[[Contests & Conflicts]]%0a*[[Magic Rules/]]%0a%0a%0a%0a%25sidehead%25 Other Groups:%0a*[[Game Guide/]]%0a*[[Our World/]]%0a%0a%25right%25 [-[[House Rules.SideBar?action=edit | edit SideBar]]-]
+time=1485466314
+author:1485466314=ChrisJ
+diff:1485466314:1485285050:minor=7,8c7,14%0a%3c *[[Magic Rules/]]%0a%3c %0a---%0a> *[[Magic]]%0a> *%25right%25 [-[[Lawbreaking]]-]%0a> *%25right%25 [-[[Evocation]]-]%0a> *%25right%25 [-[[Thaumaturgy]]-]%0a> *%25right%25 [-[[Crafting]]-]%0a> *%25right%25 [-[[Sponsored Magic]]-]%0a> *%25right%25 [-[[Evothaum]]-]%0a> *%25right%25 [-[[Maneuvers]]-]%0a
+host:1485466314=4.15.247.35
+author:1485285050=ChrisJ
+diff:1485285050:1485219029:minor=8,15d7%0a%3c *%25right%25 [-[[Lawbreaking]]-]%0a%3c *%25right%25 [-[[Evocation]]-]%0a%3c *%25right%25 [-[[Thaumaturgy]]-]%0a%3c *%25right%25 [-[[Crafting]]-]%0a%3c *%25right%25 [-[[Sponsored Magic]]-]%0a%3c *%25right%25 [-[[Evothaum]]-]%0a%3c *%25right%25 [-[[Maneuvers]]-]%0a%3c %0a
+host:1485285050=4.15.247.35
+author:1485219029=ChrisJ
+diff:1485219029:1485218471:minor=7a8%0a> *[[Miscellaneous]]%0a
+host:1485219029=146.244.146.159
+author:1485218471=ChrisJ
+diff:1485218471:1485218445:minor=8a9%0a> *[[Overflow, Success with Style, Success at a Cost]]%0a
+host:1485218471=146.244.146.159
+author:1485218445=ChrisJ
+diff:1485218445:1485218430:minor=9c9%0a%3c *[[Overflow, Success with Style, Success at a Cost]]%0a---%0a> *[[Overflow, Success with Style/at a Cost]]%0a
+host:1485218445=146.244.146.159
+author:1485218430=ChrisJ
+diff:1485218430:1485213341:minor=9d8%0a%3c *[[Overflow, Success with Style/at a Cost]]%0a
+host:1485218430=146.244.146.159
+author:1485213341=ChrisJ
+diff:1485213341:1485147420:minor=8d7%0a%3c *[[Miscellaneous]]%0a
+host:1485213341=146.244.146.159
+author:1485147420=ChrisJ
+diff:1485147420:1485145701:minor=13c13%0a%3c %25right%25 [-[[House Rules.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a---%0a> %25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1485147420=98.176.135.178
+author:1485145701=ChrisJ
+diff:1485145701:1485145649:minor=5c5%0a%3c *[[Modified Powers]]%0a---%0a> *[[Powers | Limited/Modified/Disallowed Powers]]%0a
+host:1485145701=98.176.135.178
+author:1485145649=ChrisJ
+csum:1485145649=Primary sidebar setup
+diff:1485145649:1485145649:=1,13d0%0a%3c %25sidehead%25 House Rules:%0a%3c *[[Game Configuration]]%0a%3c *[[Character Creation]]%0a%3c *[[Recovery & Healing]]%0a%3c *[[Powers | Limited/Modified/Disallowed Powers]]%0a%3c *[[Contests & Conflicts]]%0a%3c *[[Magic]]%0a%3c %0a%3c %25sidehead%25 Other Groups:%0a%3c *[[Game Guide/]]%0a%3c *[[Our World/]]%0a%3c %0a%3c %25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1485145649=98.176.135.178

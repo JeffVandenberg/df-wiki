@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1424571792
+host=76.176.214.6
+name=Characters.Badger
+rev=1
+targets=Setting.InFireForged
+text=Attach:CharacterImage.gif%0a!!Badger%0a:The Face:[[Setting/In Fire Forged]]%0a''Enigmatic Wyldfae that runs the fight club, [[Setting/In Fire Forged]].''%0a%0a!!!Public Knowledge%0a*Badger serves as the Erlking's representative in New York.%0a%0a*Hates mortal magic%0a%0a!!!Public Relationships%0a
+time=1424571792
+author:1424571792=ChrisJ
+diff:1424571792:1424571792:=1,11d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Badger%0a%3c :The Face:[[Setting/In Fire Forged]]%0a%3c ''Enigmatic Wyldfae that runs the fight club, [[Setting/In Fire Forged]].''%0a%3c %0a%3c !!!Public Knowledge%0a%3c *Badger serves as the Erlking's representative in New York.%0a%3c %0a%3c *Hates mortal magic%0a%3c %0a%3c !!!Public Relationships%0a
+host:1424571792=76.176.214.6

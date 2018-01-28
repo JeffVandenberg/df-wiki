@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376867935
+host=68.7.85.243
+name=Characters.Elena
+rev=5
+targets=Setting.9thAveStationLowerLevel,Factions.BlackRoseSociety
+text=Attach:CharacterImage.gif%0a!!Elena%0a'''The Face''' of [[Setting/9th Ave Station, Lower Level]]\\%0aThe Living Dead Girl, Elena didn't let her vitally challenged status get in the way of running the 9th Ave ANG.  She was friend to many of the regular patrons, and a fixture of the supernatural scene in NYC.%0a%0a!!!Public Knowledge%0aElena went missing after an attack by the [[Factions/Black Rose Society]], and was pronounced well and truly dead, her soul stolen by the Black Court Society for use in their attempted Rite of Ascension. During the Rite, Cassandra Malvora successfully recaptured Elena's spirit and restored it to her body (which had been kept preserved by the White Council in the meantime); since then, Elena has resumed stewardship of the 9th Ave ANG.
+time=1413653514
+author:1413653514=ChrisJ
+diff:1413653514:1411202845:=7c7%0a%3c Elena went missing after an attack by the [[Factions/Black Rose Society]], and was pronounced well and truly dead, her soul stolen by the Black Court Society for use in their attempted Rite of Ascension. During the Rite, Cassandra Malvora successfully recaptured Elena's spirit and restored it to her body (which had been kept preserved by the White Council in the meantime); since then, Elena has resumed stewardship of the 9th Ave ANG.%0a\ No newline at end of file%0a---%0a> Elena went missing after an attack by the [[Factions/Black Rose Society]], and has now been announced to be well and truly dead.  Her body is in the custody of the White Council.  Rumors are spreading that [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is researching how her life energy was stolen, and whether or not there is some way to restore it to her without breaking the Laws of Magic.%0a
+host:1413653514=68.7.85.243
+author:1411202845=ChrisJ
+diff:1411202845:1405828158:minor=7c7%0a%3c Elena went missing after an attack by the [[Factions/Black Rose Society]], and has now been announced to be well and truly dead.  Her body is in the custody of the White Council.  Rumors are spreading that [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is researching how her life energy was stolen, and whether or not there is some way to restore it to her without breaking the Laws of Magic.%0a---%0a> Elena went missing after an attack by the [[Black Rose Society]], and has now been announced to be well and truly dead.  Her body is in the custody of the White Council.  Rumors are spreading that [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is researching how her life energy was stolen, and whether or not there is some way to restore it to her without breaking the Laws of Magic.%0a
+host:1411202845=68.7.85.243
+author:1405828158=OwleIsohos
+diff:1405828158:1376867977:=4,5c4,5%0a%3c The Living Dead Girl, Elena didn't let her vitally challenged status get in the way of running the 9th Ave ANG.  She was friend to many of the regular patrons, and a fixture of the supernatural scene in NYC.%0a%3c %0a---%0a> Description Here%0a> %0a7c7,10%0a%3c Elena went missing after an attack by the [[Black Rose Society]], and has now been announced to be well and truly dead.  Her body is in the custody of the White Council.  Rumors are spreading that [[http://ragnarok.gamingsandbox.com/characters/view/7 | Cassandra Malvora (PC)]] is researching how her life energy was stolen, and whether or not there is some way to restore it to her without breaking the Laws of Magic.%0a---%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405828158=209.6.95.48
+author:1376867977=JillA
+diff:1376867977:1376867935:=3c3%0a%3c '''The Face''' of [[Setting/9th Ave Station, Lower Level]]\\%0a---%0a> '''The Face''' of [[Setting/9th Avenue Station Lower Level]]\\%0a
+host:1376867977=24.20.151.3
+author:1376867935=JillA
+diff:1376867935:1376867935:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Elena%0a%3c '''The Face''' of [[Setting/9th Avenue Station Lower Level]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867935=24.20.151.3

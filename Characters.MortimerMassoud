@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460754909
+host=4.15.247.35
+name=Characters.MortimerMassoud
+rev=2
+targets=Setting.MassoudFamilyAntiqueAndPawn,Factions.TheParanet
+text=!!Mortimer Massoud%0aAttach:MortyMass1.jpg%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Were-Rat Pawnbroker] ||[[Setting/Massoud Family Antique and Pawn]] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Motivation%0aTo support his family by keeping his business open and moving.%0a%0a!!!Status Quo%0aMortimer enjoys the status quo because upsetting it is bad for business. People get scared and they stay home instead of shopping.%0a%0a!!!Description%0aMortimer is a nervous, excitable man who talks fast and has several verbal and facial ticks. His store is an impossible maze of clutter, but he always seems to know where to find anything in it. He is a third-generation American with a large family he supports with his family's store, many of whom are also were-rats. %0a%0a!!!Public Relationships%0a
+time=1460756689
+author:1460756689=ChrisJ
+diff:1460756689:1460754909:minor=7,8c7,8%0a%3c ||[Were-Rat Pawnbroker] ||[[Setting/Massoud Family Antique and Pawn]] ||[[Factions/The Paranet]] ||%0a%3c %0a---%0a> ||[Were-Rat Pawnbroker] ||[[Setting/Massoud Family Antique & Pawn]] ||[[Factions/The Paranet]] ||%0a> %0a12,13c12,13%0a%3c To support his family by keeping his business open and moving.%0a%3c %0a---%0a> What is this NPC's motivation?%0a> %0a15,16c15,16%0a%3c Mortimer enjoys the status quo because upsetting it is bad for business. People get scared and they stay home instead of shopping.%0a%3c %0a---%0a> What is this NPC's interest in the status quo?%0a> %0a18,19c18,19%0a%3c Mortimer is a nervous, excitable man who talks fast and has several verbal and facial ticks. His store is an impossible maze of clutter, but he always seems to know where to find anything in it. He is a third-generation American with a large family he supports with his family's store, many of whom are also were-rats. %0a%3c %0a---%0a> Describe this NPC more. %0a> %0a20a21%0a> Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1460756689=4.15.247.35
+author:1460754909=ChrisJ
+diff:1460754909:1460754909:minor=1,21d0%0a%3c !!Mortimer Massoud%0a%3c Attach:MortyMass1.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Were-Rat Pawnbroker] ||[[Setting/Massoud Family Antique & Pawn]] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c What is this NPC's motivation?%0a%3c %0a%3c !!!Status Quo%0a%3c What is this NPC's interest in the status quo?%0a%3c %0a%3c !!!Description%0a%3c Describe this NPC more. %0a%3c %0a%3c !!!Public Relationships%0a%3c Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1460754909=4.15.247.35

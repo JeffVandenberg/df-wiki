@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376863892
+host=68.7.85.243
+name=Setting.EastHarlem
+rev=5
+targets=Factions.RedCourt,Characters.Hernandez
+text=!!East Harlem%0aSpanish Harlem is one of the most culturally rich areas of Manhattan, and is densely populated by Americans of Latin descent. Great food, great music, great nightlife - but not everything is what it seems.%0a%0a!!!The Idea%0aEl Barrio is the seat of [[Factions/Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a%0a!!!The Aspect%0aThese Streets Bleed Red%0a%0a!!!The Face%0a[[Characters/Hernandez]], Red Court Gang Leader
+time=1411248978
+author:1411248978=ChrisJ
+diff:1411248978:1411204114:=5,6c5,6%0a%3c El Barrio is the seat of [[Factions/Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a%3c %0a---%0a> El Barrio is the seat of [[Factions/Red Court of Vampires | Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a> %0a11c11%0a%3c [[Characters/Hernandez]], Red Court Gang Leader%0a\ No newline at end of file%0a---%0a> [[Characters/Hernandez|Hernandez]], Red Court Gang Leader%0a\ No newline at end of file%0a
+host:1411248978=68.7.85.243
+author:1411204114=ChrisJ
+diff:1411204114:1411203090:=0a1%0a> Attach:locationpic.jpg%0a
+host:1411204114=68.7.85.243
+author:1411203090=ChrisJ
+diff:1411203090:1405826637:=6c6%0a%3c El Barrio is the seat of [[Factions/Red Court of Vampires | Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a---%0a> El Barrio is the seat of [[Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a
+host:1411203090=68.7.85.243
+author:1405826637=OwleIsohos
+diff:1405826637:1376863892:=12c12%0a%3c [[Characters/Hernandez|Hernandez]], Red Court Gang Leader%0a\ No newline at end of file%0a---%0a> [[Characters/Diego|Diego]], Vampire-Hating Gang Leader%0a\ No newline at end of file%0a
+host:1405826637=209.6.95.48
+author:1376863892=JillA
+diff:1376863892:1376863892:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!East Harlem%0a%3c Spanish Harlem is one of the most culturally rich areas of Manhattan, and is densely populated by Americans of Latin descent. Great food, great music, great nightlife - but not everything is what it seems.%0a%3c %0a%3c !!!The Idea%0a%3c El Barrio is the seat of [[Red Court]] power in the city. That would explain why it has the highest violent crime rate in the NYC.%0a%3c %0a%3c !!!The Aspect%0a%3c These Streets Bleed Red%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Diego|Diego]], Vampire-Hating Gang Leader%0a\ No newline at end of file%0a
+host:1376863892=24.20.151.3

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486052577
+host=85.17.26.10
+name=OurWorld.BASE
+rev=2
+targets=OurWorld.TheParanet
+text=!!Boughman Academy for Superior Education (BASE)%0a%0a%0a----%0a%0a!!!The Idea%0a''Create a place for the "misfits" of the supernatural society to go.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||Dr. Aaron Boughman ||[Misfits of the Melting Pot] ||[[The Paranet | The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aA boarding school created to help "troubled teens" (read: gifted and supernaturally inclined teens) and adults. The school was established by Dr. Aaron Boughman along with a handful of Wizards and other members of the Supernatural Community. It deals with legitimate education as well as things you wouldn't find normally within other schools, such as Magical theory and about how to use and control their powers, be it magical or otherwise. %0a%0a!!!Notable Events%0aThe Boughman Academy for Superior Education was attacked on Halloween night by a group of Black Court Vampires, Renfields, and Darkhounds. The group was lead by a Black Court Sorceress known as Mavra. %0a%0aThe attack was launched during the Halloween party. A fifth of the students and staff were either killed or rendered non responsive due to mental torture in an attempt to thrall the students.%0a%0aA select few groups of students took it upon themselves to fight back, and eventually took back their school from the intruders. %0a%0aAfter negotiations with the Black Court, Mavra has been excommunicated and a Wereguild has been paid to the White Council for the infraction of the Accords.
+time=1486052589
+author:1486052589=JayJ
+diff:1486052589:1486052577:=2a3%0a> Attach:Boughman.jpg%0a
+host:1486052589=85.17.26.10
+author:1486052577=JayJ
+diff:1486052577:1486052577:=1,26d0%0a%3c !!Boughman Academy for Superior Education (BASE)%0a%3c %0a%3c Attach:Boughman.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Create a place for the "misfits" of the supernatural society to go.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||Dr. Aaron Boughman ||[Misfits of the Melting Pot] ||[[The Paranet | The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A boarding school created to help "troubled teens" (read: gifted and supernaturally inclined teens) and adults. The school was established by Dr. Aaron Boughman along with a handful of Wizards and other members of the Supernatural Community. It deals with legitimate education as well as things you wouldn't find normally within other schools, such as Magical theory and about how to use and control their powers, be it magical or otherwise. %0a%3c %0a%3c !!!Notable Events%0a%3c The Boughman Academy for Superior Education was attacked on Halloween night by a group of Black Court Vampires, Renfields, and Darkhounds. The group was lead by a Black Court Sorceress known as Mavra. %0a%3c %0a%3c The attack was launched during the Halloween party. A fifth of the students and staff were either killed or rendered non responsive due to mental torture in an attempt to thrall the students.%0a%3c %0a%3c A select few groups of students took it upon themselves to fight back, and eventually took back their school from the intruders. %0a%3c %0a%3c After negotiations with the Black Court, Mavra has been excommunicated and a Wereguild has been paid to the White Council for the infraction of the Accords.%0a\ No newline at end of file%0a
+host:1486052577=85.17.26.10

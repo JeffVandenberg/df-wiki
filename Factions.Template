@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460511019
+host=4.15.247.35
+name=Factions.Template
+rev=4
+targets=
+text=!!Name%0a%0a%0a----%0a%0a!!!The Idea%0a''The Idea''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a|| || || ||%0a%0a----%0a%0a!!!Status Quo%0aDescribe this Faction's interest in the Status Quo%0a%0a!!!Description%0aDescribe this faction more fully%0a%0a!!!Public Relationships%0aAre there any PCs or NPCs from other Factions with ties to this faction?
+time=1460512083
+author:1460512083=ChrisJ
+diff:1460512083:1460512061:minor=2d1%0a%3c %0a
+host:1460512083=4.15.247.35
+author:1460512061=ChrisJ
+diff:1460512061:1460511359:minor=11,12d10%0a%3c %0a%3c ----%0a
+host:1460512061=4.15.247.35
+author:1460511359=ChrisJ
+diff:1460511359:1460511019:minor=19c19%0a%3c Are there any PCs or NPCs from other Factions with ties to this faction?%0a\ No newline at end of file%0a---%0a> Are there any PCs or non-Winter NPCs with ties to this faction?%0a\ No newline at end of file%0a
+host:1460511359=4.15.247.35
+author:1460511019=ChrisJ
+diff:1460511019:1460511019:=1,19d0%0a%3c !!Name%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The Idea''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c || || || ||%0a%3c %0a%3c !!!Status Quo%0a%3c Describe this Faction's interest in the Status Quo%0a%3c %0a%3c !!!Description%0a%3c Describe this faction more fully%0a%3c %0a%3c !!!Public Relationships%0a%3c Are there any PCs or non-Winter NPCs with ties to this faction?%0a\ No newline at end of file%0a
+host:1460511019=4.15.247.35

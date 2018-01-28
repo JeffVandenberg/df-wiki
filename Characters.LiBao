@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1463702954
+host=74.215.115.143
+name=Characters.LiBao
+rev=2
+targets=Setting.Pandamonium,Factions.Unaffiliated
+text=----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Proprietor of Pandamonium] ||[[Setting/Pandamonium]] ||[[Factions/Unaffiliated]] ||%0a%0a----%0a%0a!!!Motivation%0aKeeping her restaurant afloat, minimizing her grandfather's constant stream of complaints, and generally adding a little more brightness to the world%0a%0a!!!Status Quo%0aAs long as her family and her restaurant stay safe, Li Bao is content with the status quo.%0a%0a!!!Description%0aLi Bao might look a bit young to be the sole owner of a restaurant, but her business acumen, willingness to put in a little elbow grease, and sheer dedication to her job have kept the little Chinese food place thriving.  Though the large number of tasks she's set for herself often leave her seeming harried, she usually manages to keep a smile on her face.  At work she wears a simple uniform with Pandamonium's logo and keeps her dark hair bound in a high ponytail.%0a%0aThough she's not in the know, rumor in the supernatural community has it that she's a minor talent.  They say she sometimes complains of migraines, and sometimes the fortunes she gives out are a little too accurate...
+time=1463702965
+author:1463702965=NGodfrey
+diff:1463702965:1463702954:=4c4%0a%3c ||[Proprietor of Pandamonium] ||[[Setting/Pandamonium]] ||[[Factions/Unaffiliated]] ||%0a---%0a> ||[Proprietor of Pandamonium] ||[[Setting/Pandamonium]] ||[[Factions/BASE]] ||%0a
+host:1463702965=74.215.115.143
+author:1463702954=NGodfrey
+diff:1463702954:1463702954:=1,17d0%0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Proprietor of Pandamonium] ||[[Setting/Pandamonium]] ||[[Factions/BASE]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Keeping her restaurant afloat, minimizing her grandfather's constant stream of complaints, and generally adding a little more brightness to the world%0a%3c %0a%3c !!!Status Quo%0a%3c As long as her family and her restaurant stay safe, Li Bao is content with the status quo.%0a%3c %0a%3c !!!Description%0a%3c Li Bao might look a bit young to be the sole owner of a restaurant, but her business acumen, willingness to put in a little elbow grease, and sheer dedication to her job have kept the little Chinese food place thriving.  Though the large number of tasks she's set for herself often leave her seeming harried, she usually manages to keep a smile on her face.  At work she wears a simple uniform with Pandamonium's logo and keeps her dark hair bound in a high ponytail.%0a%3c %0a%3c Though she's not in the know, rumor in the supernatural community has it that she's a minor talent.  They say she sometimes complains of migraines, and sometimes the fortunes she gives out are a little too accurate...%0a\ No newline at end of file%0a
+host:1463702954=74.215.115.143

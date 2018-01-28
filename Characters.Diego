@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376867860
+host=68.7.85.243
+name=Characters.Diego
+rev=3
+targets=Factions.RedCourtOfVampires
+text=Attach:CharacterImage.gif%0a!!Diego%0aVampire-hating gang leader%0a%0a!!!Public Knowledge%0aDiego runs a gang in East Harlem.  He knows that vampires are real, and he hates the [[Factions/Red Court of Vampires | Red Court]] gangs with a passion.%0a
+time=1411204064
+author:1411204064=ChrisJ
+diff:1411204064:1405830084:=6c6%0a%3c Diego runs a gang in East Harlem.  He knows that vampires are real, and he hates the [[Factions/Red Court of Vampires | Red Court]] gangs with a passion.%0a---%0a> Diego runs a gang in East Harlem.  He knows that vampires are real, and he hates the Red Court gangs with a passion.%0a
+host:1411204064=68.7.85.243
+author:1405830084=OwleIsohos
+diff:1405830084:1376867860:=3,4c3,5%0a%3c Vampire-hating gang leader%0a%3c %0a---%0a> '''The Face''' of [[Setting/East Harlem]]\\%0a> Description Here%0a> %0a6c7,10%0a%3c Diego runs a gang in East Harlem.  He knows that vampires are real, and he hates the Red Court gangs with a passion.%0a---%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405830084=209.6.95.48
+author:1376867860=JillA
+diff:1376867860:1376867860:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Diego%0a%3c '''The Face''' of [[Setting/East Harlem]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867860=24.20.151.3

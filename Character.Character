@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+author=JeffV
+charset=UTF-8
+csum=
+ctime=1375824847
+host=209.181.207.21
+name=Character.Character
+rev=1
+targets=
+text=This is the root for the Character Section.%0a%0aIt's also a way for me to show off the urls.
+time=1375824847
+author:1375824847=JeffV
+diff:1375824847:1375824847:=1,3d0%0a%3c This is the root for the Character Section.%0a%3c %0a%3c It's also a way for me to show off the urls.%0a\ No newline at end of file%0a
+host:1375824847=209.181.207.21

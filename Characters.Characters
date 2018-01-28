@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1377026229
+host=4.15.247.35
+name=Characters.Characters
+rev=5
+targets=Characters.Castlist
+text=!!Character Pages%0a%0a[[Characters/Castlist|Cast List]]: Locate information about Player and Non-Player characters who inhabit Dominium Fuego. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a%0a
+time=1466813678
+author:1466813678=ChrisJ
+diff:1466813678:1377026366:minor=3c3,8%0a%3c [[Characters/Castlist|Cast List]]: Locate information about Player and Non-Player characters who inhabit Dominium Fuego. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a---%0a> [[Characters/Castlist|Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a> %0a> [[Characters/PC Groups]]: Locate information about specific groups to which Player characters are members, or about groups that Player characters have formed independently. %0a> %0a> [[Characters/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a> %0a
+host:1466813678=4.15.247.35
+author:1377026366=JillA
+diff:1377026366:1377026320:=7c7,9%0a%3c [[Characters/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a---%0a> !!Elsewhere%0a> %0a> [[Setting/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a
+host:1377026366=24.20.151.3
+author:1377026320=JillA
+diff:1377026320:1377026281:=3c3%0a%3c [[Characters/Castlist|Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a---%0a> [[Characters/Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a
+host:1377026320=24.20.151.3
+author:1377026281=JillA
+diff:1377026281:1377026229:=3,6c3,6%0a%3c [[Characters/Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a%3c %0a%3c [[Characters/PC Groups]]: Locate information about specific groups to which Player characters are members, or about groups that Player characters have formed independently. %0a%3c %0a---%0a> :[[Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a> %0a> :[[PC Groups]]: Locate information about specific groups to which Player characters are members, or about groups that Player characters have formed independently. %0a> %0a9c9%0a%3c [[Setting/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a---%0a> :[[Setting/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a
+host:1377026281=24.20.151.3
+author:1377026229=JillA
+diff:1377026229:1377026229:=1,11d0%0a%3c !!Character Pages%0a%3c %0a%3c :[[Cast List]]: Locate information about Player and Non-Player characters who inhabit Ragnarok NYC. Please note that information posted on a character page is considered public information and is therefore easily discovered with no great effort by another character.%0a%3c %0a%3c :[[PC Groups]]: Locate information about specific groups to which Player characters are members, or about groups that Player characters have formed independently. %0a%3c %0a%3c !!Elsewhere%0a%3c %0a%3c :[[Setting/Influential Groups]]: Locate setting information about groups who influence Ragnarok NYC.%0a%3c %0a%3c %0a
+host:1377026229=24.20.151.3

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486069999
+host=128.227.14.255
+name=OurWorld.TheParanet
+rev=1
+targets=Setting.BoughmanAcademyForSuperiorEducation,Characters.MortimerMassoud,Setting.MassoudFamilyAntiqueAndPawn
+text=!!The Paranet%0a%0a%0a----%0a%0a!!!The Idea%0a''The lesser talents in the city communicate through the Paranet to share strategies and information. ''%0a%0a!!!Status Quo%0aParanetters have a variety of interests in maintaining or upsetting the status quo. There is no central organization %0a%0a(:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a||class=sortable id=thetable%0a||!Notable Paranetters ||!Location ||!Aspect ||%0a||Dr. Aaron Boughman ||[[Setting/Boughman Academy for Superior Education]] ||? ||%0a||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||[Hidden Treasures] ||%0a%0a----%0a%0a!!!Description%0a
+time=1486069999
+author:1486069999=OTD
+diff:1486069999:1486069999:=1,20d0%0a%3c !!The Paranet%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The lesser talents in the city communicate through the Paranet to share strategies and information. ''%0a%3c %0a%3c !!!Status Quo%0a%3c Paranetters have a variety of interests in maintaining or upsetting the status quo. There is no central organization %0a%3c %0a%3c (:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c ||class=sortable id=thetable%0a%3c ||!Notable Paranetters ||!Location ||!Aspect ||%0a%3c ||Dr. Aaron Boughman ||[[Setting/Boughman Academy for Superior Education]] ||? ||%0a%3c ||[[Characters/Mortimer Massoud]] ||[[Setting/Massoud Family Antique and Pawn]] ||[Hidden Treasures] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a
+host:1486069999=128.227.14.255

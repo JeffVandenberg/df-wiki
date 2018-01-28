@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376872581
+host=209.6.95.48
+name=Characters.RickWeaver
+rev=2
+targets=Setting.55CentralParkWest
+text=Attach:CharacterImage.gif%0a!!Rick Weaver%0a'''The Face''' of [[Setting/55 Central Park West]]\\%0aAn affluent socialite, Rick Weaver is seldom seen without a champagne glass in one hand.%0a%0a!!!Public Knowledge%0aRick Weaver spends his money throwing lavish parties, to which he invites anyone that strikes his fancy.  It's rumored he once invited the entire population of Queens to one of his shindigs.%0a%0a!!!Public Relationships%0aRick considers himself a close personal friend to every tenant in his building.%0a
+time=1405827676
+author:1405827676=OwleIsohos
+diff:1405827676:1376872581:=4,5c4,5%0a%3c An affluent socialite, Rick Weaver is seldom seen without a champagne glass in one hand.%0a%3c %0a---%0a> Description Here%0a> %0a7,8c7,8%0a%3c Rick Weaver spends his money throwing lavish parties, to which he invites anyone that strikes his fancy.  It's rumored he once invited the entire population of Queens to one of his shindigs.%0a%3c %0a---%0a> WIP%0a> %0a10c10%0a%3c Rick considers himself a close personal friend to every tenant in his building.%0a---%0a> WIP%0a
+host:1405827676=209.6.95.48
+author:1376872581=JillA
+diff:1376872581:1376872581:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Rick Weaver%0a%3c '''The Face''' of [[Setting/55 Central Park West]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872581=24.20.151.3

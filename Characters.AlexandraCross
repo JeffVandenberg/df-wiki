@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1463091431
+host=74.215.115.143
+name=Characters.AlexandraCross
+rev=5
+targets=Factions.TheParanet
+text=----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Dean of Boughman Academy] ||[BASE] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Motivation%0aAlexandra has been at BASE for quite a long time, and acts as the Dean and leader of the school whenever Professor Boughman is away. She is committed to teaching the students to the best of her and their ability. However, her methods are more militant than Boughman's.%0a%0a!!!Status Quo%0aStatus Quo: Alexandra is more concerned with the students and school than the status quo. She will use whatever influence she has to ensure that mortal and supernatural organizations do not interfere with the Academy.%0a%0a!!!Description%0aAlexandra is a tall attractive woman with reddish-brown hair. Obviously incredibly fit. However, she is also an extremely no nonsense individual. In her case being "called to the Dean's office" is something that most people would actively avoid. Only Professor Boughman commands enough of her respect to mitigate this attitude.%0a%0a!!!Public Relationships%0a
+time=1463703132
+author:1463703132=NGodfrey
+diff:1463703132:1463703009:=4c4%0a%3c ||[Dean of Boughman Academy] ||[BASE] ||[[Factions/The Paranet]] ||%0a---%0a> ||[Dean of Boughman Academy] ||[BASE] ||[[Factions/Unaffiliated]] ||%0a
+host:1463703132=74.215.115.143
+author:1463703009=NGodfrey
+diff:1463703009:1463092146:=4c4%0a%3c ||[Dean of Boughman Academy] ||[BASE] ||[[Factions/Unaffiliated]] ||%0a---%0a> ||[Dean of Boughman Academy] ||[BASE] ||[Factions/BASE] ||%0a
+host:1463703009=74.215.115.143
+author:1463092146=NGodfrey
+diff:1463092146:1463091454:=1,11c1,6%0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Dean of Boughman Academy] ||[BASE] ||[Factions/BASE] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Alexandra has been at BASE for quite a long time, and acts as the Dean and leader of the school whenever Professor Boughman is away. She is committed to teaching the students to the best of her and their ability. However, her methods are more militant than Boughman's.%0a%3c %0a%3c !!!Status Quo%0a---%0a> Name: Alexandra Cross%0a> %0a> High Concept: Dean of Boughman Academy (BASE)%0a> %0a> Motivation: Alexandra has been at BASE for quite a long time, and acts as the Dean and leader of the school whenever Professor Boughman is away. She is committed to teaching the students to the best of her and their ability. However, her methods are more militant than Boughman's.%0a> %0a14,17c9,11%0a%3c !!!Description%0a%3c Alexandra is a tall attractive woman with reddish-brown hair. Obviously incredibly fit. However, she is also an extremely no nonsense individual. In her case being "called to the Dean's office" is something that most people would actively avoid. Only Professor Boughman commands enough of her respect to mitigate this attitude.%0a%3c %0a%3c !!!Public Relationships%0a---%0a> The Face Of: Boughman Academy (BASE)%0a> %0a> Description: Alexandra is a tall attractive woman with reddish-brown hair. Obviously incredibly fit. However, she is also an extremely no nonsense individual. In her case being "called to the Dean's office" is something that most people would actively avoid. Only Professor Boughman commands enough of her respect to mitigate this attitude.%0a\ No newline at end of file%0a
+host:1463092146=74.215.115.143
+author:1463091454=NGodfrey
+diff:1463091454:1463091431:=2d1%0a%3c %0a4d2%0a%3c %0a6d3%0a%3c %0a8d4%0a%3c %0a10d5%0a%3c %0a
+host:1463091454=74.215.115.143
+author:1463091431=NGodfrey
+diff:1463091431:1463091431:=1,6d0%0a%3c Name: Alexandra Cross%0a%3c High Concept: Dean of Boughman Academy (BASE)%0a%3c Motivation: Alexandra has been at BASE for quite a long time, and acts as the Dean and leader of the school whenever Professor Boughman is away. She is committed to teaching the students to the best of her and their ability. However, her methods are more militant than Boughman's.%0a%3c Status Quo: Alexandra is more concerned with the students and school than the status quo. She will use whatever influence she has to ensure that mortal and supernatural organizations do not interfere with the Academy.%0a%3c The Face Of: Boughman Academy (BASE)%0a%3c Description: Alexandra is a tall attractive woman with reddish-brown hair. Obviously incredibly fit. However, she is also an extremely no nonsense individual. In her case being "called to the Dean's office" is something that most people would actively avoid. Only Professor Boughman commands enough of her respect to mitigate this attitude.%0a\ No newline at end of file%0a
+host:1463091431=74.215.115.143

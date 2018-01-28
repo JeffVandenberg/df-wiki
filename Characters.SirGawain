@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1461524888
+host=4.15.247.35
+name=Characters.SirGawain
+rev=4
+targets=Locations.RockCreekPark,Factions.Avalon
+text=!!Sir Gawain%0aAttach:CharacterImage.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Round Table Knight of Legend] ||[[Locations/Rock Creek Park]] ||[[Factions/Avalon]] ||%0a%0a----%0a%0a!!!Motivation%0aGawain is interested in order and law within the city, and country. Pushing Avalon's goals at every opportunity. To accomplish this he heads a small but very well-funded foundation that is extremely active among the lobbyists.%0a%0a!!!Status Quo%0aGawain, and Avalon, is more interested in fostering order rather than the status quo. As a result, the actions of the government will cause him to change his position frequently.%0a%0a!!!Description%0aGawain's early history with Camelot and Avalon is well known, although slightly exaggerated by time and legend. Since that time however, he has continued his service to Arthur and Avalon. He has always been more interested in the mortal world instead of the Fae Courts and his position as primary contact for Avalon in Washington is no surprise. He heads one of the foundations that supports the activities in Rock Creek Park. %0a%0aHis foundation is a small but influential lobby within the system and has been since the '60s. Pushing for stability within the government, and the country. He takes great interest in anyone with a connection to Avalon that is operating within the city.  Making sure that they are adhering to Avalon's goals within the city, and not hesitating to speak to them in person if he finds they are not.%0a%0a!!!Public Relationships%0aGawain will maintain an interest in any PC affiliated with Avalon%0a%0aMaxwell King (PC)
+time=1463442844
+author:1463442844=ChrisJ
+diff:1463442844:1463442700:minor=1c1%0a%3c !!Sir Gawain%0a---%0a> !!Name%0a
+host:1463442844=4.15.247.35
+author:1463442700=ChrisJ
+diff:1463442700:1463442629:minor=7c7%0a%3c ||[Round Table Knight of Legend] ||[[Locations/Rock Creek Park]] ||[[Factions/Avalon]] ||%0a---%0a> ||[Round Table Knight of Legend] ||[[Locations/Rock Creek Park]] ||[Factions/Avalon] ||%0a
+host:1463442700=4.15.247.35
+author:1463442629=ChrisJ
+diff:1463442629:1461524888:minor=7c7%0a%3c ||[Round Table Knight of Legend] ||[[Locations/Rock Creek Park]] ||[Factions/Avalon] ||%0a---%0a> ||[Round Table Knight of Legend] ||[Wyldfae Court of Avalon] ||[Factions/Avalon] ||%0a
+host:1463442629=4.15.247.35
+author:1461524888=Dramin
+diff:1461524888:1461524888:=1,25d0%0a%3c !!Name%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Round Table Knight of Legend] ||[Wyldfae Court of Avalon] ||[Factions/Avalon] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Gawain is interested in order and law within the city, and country. Pushing Avalon's goals at every opportunity. To accomplish this he heads a small but very well-funded foundation that is extremely active among the lobbyists.%0a%3c %0a%3c !!!Status Quo%0a%3c Gawain, and Avalon, is more interested in fostering order rather than the status quo. As a result, the actions of the government will cause him to change his position frequently.%0a%3c %0a%3c !!!Description%0a%3c Gawain's early history with Camelot and Avalon is well known, although slightly exaggerated by time and legend. Since that time however, he has continued his service to Arthur and Avalon. He has always been more interested in the mortal world instead of the Fae Courts and his position as primary contact for Avalon in Washington is no surprise. He heads one of the foundations that supports the activities in Rock Creek Park. %0a%3c %0a%3c His foundation is a small but influential lobby within the system and has been since the '60s. Pushing for stability within the government, and the country. He takes great interest in anyone with a connection to Avalon that is operating within the city.  Making sure that they are adhering to Avalon's goals within the city, and not hesitating to speak to them in person if he finds they are not.%0a%3c %0a%3c !!!Public Relationships%0a%3c Gawain will maintain an interest in any PC affiliated with Avalon%0a%3c %0a%3c Maxwell King (PC)%0a\ No newline at end of file%0a
+host:1461524888=24.231.175.131

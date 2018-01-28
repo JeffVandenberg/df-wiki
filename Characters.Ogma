@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1463437467
+host=74.215.115.143
+name=Characters.Ogma
+rev=2
+targets=Setting.FortDupontPark,Factions.TuathaDéDanann
+text=!!Ogma%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[God of Knowledge and Writing] ||[[Setting/Fort Dupont Park]] ||[[Factions/Tuatha Dé Danann]] ||%0a%0a----%0a%0a!!!Motivation%0aTo do better this time.%0a%0a!!!Status Quo%0aAs long as those who seek the protection of the Tuatha are safe, the status quo works. Should the status Quo fail, he is his father's son, but he's not going to be an idiot about it.%0a%0a!!!Description%0aRegularly appearing as an older, bald gentleman with a beard and an easy smile, Oghma tends to like meeting people and getting to know them. The area around the park the Tuatha hide their gathering place in has several schools, and on any given day, you might find him teaching in one of them, even the Catholic school. Fort Dupont Park was there first, he'll insist, it's not his fault everyone keeps bringing him students. There are rumors that in the time he's been in DC, he's known and influenced world leaders and great presidents. His only response to that is a sad shake of the head, and a raised glass in memory of lost friends.
+time=1463437478
+author:1463437478=NGodfrey
+diff:1463437478:1463437467:=1c1%0a%3c !!Ogma%0a---%0a> !!Name%0a
+host:1463437478=74.215.115.143
+author:1463437467=NGodfrey
+diff:1463437467:1463437467:=1,17d0%0a%3c !!Name%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[God of Knowledge and Writing] ||[[Setting/Fort Dupont Park]] ||[[Factions/Tuatha Dé Danann]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To do better this time.%0a%3c %0a%3c !!!Status Quo%0a%3c As long as those who seek the protection of the Tuatha are safe, the status quo works. Should the status Quo fail, he is his father's son, but he's not going to be an idiot about it.%0a%3c %0a%3c !!!Description%0a%3c Regularly appearing as an older, bald gentleman with a beard and an easy smile, Oghma tends to like meeting people and getting to know them. The area around the park the Tuatha hide their gathering place in has several schools, and on any given day, you might find him teaching in one of them, even the Catholic school. Fort Dupont Park was there first, he'll insist, it's not his fault everyone keeps bringing him students. There are rumors that in the time he's been in DC, he's known and influenced world leaders and great presidents. His only response to that is a sad shake of the head, and a raised glass in memory of lost friends.%0a\ No newline at end of file%0a
+host:1463437467=74.215.115.143

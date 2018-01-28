@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376864390
+host=209.6.95.48
+name=Setting.Inferno
+rev=2
+targets=Characters.Beldam
+text=%0a!!Inferno%0aA trendy nightclub located in downtown Manhattan. You can count on the dance floor to be filled with neon lights and the thrum of bass and the bar to be well-stocked with drinks. The place is dotted with cushioned alcoves to provide a place for club-goers to sit and talk in relative privacy.%0a%0a!!!The Idea%0aThe club connects to a realm of the dead in Nevernever.%0a%0a!!!The Aspect%0aDead Man's Party%0a%0a!!!The Face%0a[[Characters/Beldam|Beldam]], Queen of the Inferno
+time=1405826846
+author:1405826846=OwleIsohos
+diff:1405826846:1376864390:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1405826846=209.6.95.48
+author:1376864390=JillA
+diff:1376864390:1376864390:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!Inferno%0a%3c A trendy nightclub located in downtown Manhattan. You can count on the dance floor to be filled with neon lights and the thrum of bass and the bar to be well-stocked with drinks. The place is dotted with cushioned alcoves to provide a place for club-goers to sit and talk in relative privacy.%0a%3c %0a%3c !!!The Idea%0a%3c The club connects to a realm of the dead in Nevernever.%0a%3c %0a%3c !!!The Aspect%0a%3c Dead Man's Party%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Beldam|Beldam]], Queen of the Inferno%0a\ No newline at end of file%0a
+host:1376864390=24.20.151.3

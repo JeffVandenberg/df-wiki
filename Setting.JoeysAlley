@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1466812954
+host=4.15.247.35
+name=Setting.JoeysAlley
+rev=2
+targets=Characters.SlickWilly,Factions.CriminalUnderworld
+text=!!Joey's Alley%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''An old bowling alley taken over by a local gang for their base of operations.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Slick Willy]] ||[Dim and Dusty Criminal Hideout] ||[[Factions/Criminal Underworld]] ||%0a%0a----%0a%0a!!!Description%0aA dim and dusty bowling alley taken over by Slick Willy and the Demons. Willy is usually found bowling alone inside while several of his underlings watch. The front door is often guarded by two dim mooks named Rob and Don.%0a%0a!!!Notable Events%0a%0a%0a
+time=1466812985
+author:1466812985=ChrisJ
+diff:1466812985:1466812954:minor=12c12%0a%3c ||[[Characters/Slick Willy]] ||[Dim and Dusty Criminal Hideout] ||[[Factions/Criminal Underworld]] ||%0a---%0a> ||[[Characters/Slick Willy]] ||[A Little Dab'll Do Ya] ||[[Factions/Criminal Underworld]] ||%0a
+host:1466812985=4.15.247.35
+author:1466812954=ChrisJ
+diff:1466812954:1466812954:minor=1,21d0%0a%3c !!Joey's Alley%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''An old bowling alley taken over by a local gang for their base of operations.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Slick Willy]] ||[A Little Dab'll Do Ya] ||[[Factions/Criminal Underworld]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A dim and dusty bowling alley taken over by Slick Willy and the Demons. Willy is usually found bowling alone inside while several of his underlings watch. The front door is often guarded by two dim mooks named Rob and Don.%0a%3c %0a%3c !!!Notable Events%0a%3c %0a%3c %0a
+host:1466812954=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1419421129
+host=76.176.214.6
+name=Characters.Solomon
+rev=1
+targets=
+text=Solomon is an old Black Court Vampire that has come to New York City after several of the city's Accorded signatories formed a coalition to remove them and the Czernobog. Solomon has been tasked with improving the Black Court's relationship with the other Signatories of the Accords. 
+time=1419421129
+author:1419421129=ChrisJ
+diff:1419421129:1419421129:=1d0%0a%3c Solomon is an old Black Court Vampire that has come to New York City after several of the city's Accorded signatories formed a coalition to remove them and the Czernobog. Solomon has been tasked with improving the Black Court's relationship with the other Signatories of the Accords. %0a\ No newline at end of file%0a
+host:1419421129=76.176.214.6

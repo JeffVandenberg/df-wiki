@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376872645
+host=209.6.95.48
+name=Characters.TheCzernobog
+rev=2
+targets=Characters.Solomon
+text=Attach:CharacterImage.gif%0a!!The Czernobog%0aAn ancient, monstrous Black Court Vampire, and the mastermind behind the Black Court threat in NYC.%0a%0a!!!Public Knowledge%0aThe Czernobog has been killed by an alliance between the White Council, the White Court, the Red Court, and the East Village Freehold, with help from the Catholic Church and several unaffiliated parties.  The Black Court is scattered and disorganized with their leader gone.%0a%0a!!!Public Relationships%0a[[Solomon]] has been sent over from the Old World to rebuild the Black Court's reputation in NYC.%0a
+time=1405831626
+author:1405831626=OwleIsohos
+diff:1405831626:1376872645:=3,4c3,4%0a%3c An ancient, monstrous Black Court Vampire, and the mastermind behind the Black Court threat in NYC.%0a%3c %0a---%0a> Description Here%0a> %0a6,7c6,7%0a%3c The Czernobog has been killed by an alliance between the White Council, the White Court, the Red Court, and the East Village Freehold, with help from the Catholic Church and several unaffiliated parties.  The Black Court is scattered and disorganized with their leader gone.%0a%3c %0a---%0a> WIP%0a> %0a9c9%0a%3c [[Solomon]] has been sent over from the Old World to rebuild the Black Court's reputation in NYC.%0a---%0a> WIP%0a
+host:1405831626=209.6.95.48
+author:1376872645=JillA
+diff:1376872645:1376872645:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!The Czernobog%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872645=24.20.151.3

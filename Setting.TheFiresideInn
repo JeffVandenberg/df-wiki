@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1377026468
+host=209.6.95.48
+name=Setting.TheFiresideInn
+rev=3
+targets=Setting.Lexicon,Characters.Porcia
+text=%0a!!The Fireside Inn%0aA beautiful hotel with surprisingly affordable prices, that doesn't show up on any maps...%0a%0a!!!The Idea%0aSometimes the [[Lexicon|Nevernever]] opens up and plunks a building down where there never was one before: the Fireside Inn is one such building. Hapless mortals seduced by the hotel's warmth and low prices never check out again. The place is too homey and welcoming for them to ever want to leave leave.%0a%0a!!!The Aspect%0aInvisible Skyline%0a%0a!!!The Face%0a[[Characters/Porcia|Porcia]], Zealous Servant of the Hearth Goddess Hestia
+time=1405827273
+author:1405827273=OwleIsohos
+diff:1405827273:1377043140:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1405827273=209.6.95.48
+author:1377043140=JillA
+diff:1377043140:1377026468:=2c2%0a%3c !!The Fireside Inn%0a---%0a> !!The Fireside Hotel%0a6c6%0a%3c Sometimes the [[Lexicon|Nevernever]] opens up and plunks a building down where there never was one before: the Fireside Inn is one such building. Hapless mortals seduced by the hotel's warmth and low prices never check out again. The place is too homey and welcoming for them to ever want to leave leave.%0a---%0a> Sometimes the [[Lexicon|Nevernever]] opens up and plunks a building down where there never was one before: the Fireside Hotel is one such building. Hapless mortals seduced by the hotel's warmth and low prices never check out again. The place is too homey and welcoming for them to ever want to leave leave.%0a
+host:1377043140=24.20.151.3
+author:1377026468=JillA
+diff:1377026468:1377026468:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!The Fireside Hotel%0a%3c A beautiful hotel with surprisingly affordable prices, that doesn't show up on any maps...%0a%3c %0a%3c !!!The Idea%0a%3c Sometimes the [[Lexicon|Nevernever]] opens up and plunks a building down where there never was one before: the Fireside Hotel is one such building. Hapless mortals seduced by the hotel's warmth and low prices never check out again. The place is too homey and welcoming for them to ever want to leave leave.%0a%3c %0a%3c !!!The Aspect%0a%3c Invisible Skyline%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Porcia|Porcia]], Zealous Servant of the Hearth Goddess Hestia%0a\ No newline at end of file%0a
+host:1377026468=24.20.151.3

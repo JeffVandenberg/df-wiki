@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376864539
+host=209.6.95.48
+name=Setting.NewYorkPresbyterianHospital
+rev=4
+targets=
+text=%0a!!New York Presbyterian Hospital%0aThe New York Hospital, before it merged with Presbyterian Hospital, was given royal charter by King George III in the 1700s. Today, standing among other giants like the Children's Hospital or Columbia Medical School, one of the best in the country, it is simultaneously an extremely old and surprisingly modern building.%0a%0a!!!The Idea%0aSecond oldest hospital in the United States, this place has seen it all many times over and has a few skeletons in its closet.%0a%0a!!!The Aspect%0aFirst, Do No Harm%0a%0a!!!The Face%0a[[http://ragnarok.gamingsandbox.com/characters/publicView/21 | Dr. Annabelle Rhodes (PC)]]
+time=1405826899
+author:1405826899=OwleIsohos
+diff:1405826899:1400285743:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a12c12%0a%3c [[http://ragnarok.gamingsandbox.com/characters/publicView/21 | Dr. Annabelle Rhodes (PC)]]%0a\ No newline at end of file%0a---%0a> Dr. Annabelle Rhodes (PC)%0a\ No newline at end of file%0a
+host:1405826899=209.6.95.48
+author:1400285743=PatchR
+diff:1400285743:1377042399:=9,12c9%0a%3c First, Do No Harm%0a%3c %0a%3c !!!The Face%0a%3c Dr. Annabelle Rhodes (PC)%0a\ No newline at end of file%0a---%0a> First, Do No Harm%0a\ No newline at end of file%0a
+host:1400285743=24.240.85.206
+author:1377042399=JillA
+diff:1377042399:1376864539:=3,4c3,4%0a%3c The New York Hospital, before it merged with Presbyterian Hospital, was given royal charter by King George III in the 1700s. Today, standing among other giants like the Children's Hospital or Columbia Medical School, one of the best in the country, it is simultaneously an extremely old and surprisingly modern building.%0a%3c %0a---%0a> The New York Hospital, before it merged with PResbyterian Hospital, was given royal charter by King George III in the 1700s. Today, standing amongst other giants like the Children's Hospital or Columbia Medical School, one of the best in the country, it is simultaneously an extremely old and surprisingly modern building.%0a> %0a9c9%0a%3c First, Do No Harm%0a\ No newline at end of file%0a---%0a> First, Do No Harm%0a
+host:1377042399=24.20.151.3
+author:1376864539=JillA
+diff:1376864539:1376864539:=1,9d0%0a%3c Attach:locationpic.jpg%0a%3c !!New York Presbyterian Hospital%0a%3c The New York Hospital, before it merged with PResbyterian Hospital, was given royal charter by King George III in the 1700s. Today, standing amongst other giants like the Children's Hospital or Columbia Medical School, one of the best in the country, it is simultaneously an extremely old and surprisingly modern building.%0a%3c %0a%3c !!!The Idea%0a%3c Second oldest hospital in the United States, this place has seen it all many times over and has a few skeletons in its closet.%0a%3c %0a%3c !!!The Aspect%0a%3c First, Do No Harm%0a
+host:1376864539=24.20.151.3

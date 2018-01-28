@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1462844547
+host=74.215.115.143
+name=Setting.AmbarRestaurant
+rev=1
+targets=Setting.AdelaideAmbar,Setting.Unaffiliated
+text=!!!The Idea%0a"A very expensive, top of the line restaurant downtown."%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Adelaide Ambar]] ||[Fanciest Restaurant in Town] ||[[Unaffiliated]] ||%0a%0a----%0a%0a!!!Description%0aThe Ambar restaurant was one that could boast of Having 5 stars, not from trivial places like 'Yelp!' or 'Google Reviews' but from critics from the New York Times, Washington Post, and from a few top chefs themselves. It was set in downtown, having a beautiful neon sign out front of it that read "Ambar" and under it, "A Place of Finesse". There are beautiful chandeliers that reflected light from the sun, as well as smaller lights the placed around the bar, light shooting in different directions in gold, silver, and white, lighting the place up brilliantly. The place has only a few table in the middle of the floor, those that were there were set close to the wall, and were meant for two people. Most of the seating arrangements were booths, some being able to sit two, most of them being able to seat four, and some of the bigger "U" shaped ones, being able to seat 6 or 8.
+time=1462844547
+author:1462844547=NGodfrey
+diff:1462844547:1462844547:=1,11d0%0a%3c !!!The Idea%0a%3c "A very expensive, top of the line restaurant downtown."%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Adelaide Ambar]] ||[Fanciest Restaurant in Town] ||[[Unaffiliated]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c The Ambar restaurant was one that could boast of Having 5 stars, not from trivial places like 'Yelp!' or 'Google Reviews' but from critics from the New York Times, Washington Post, and from a few top chefs themselves. It was set in downtown, having a beautiful neon sign out front of it that read "Ambar" and under it, "A Place of Finesse". There are beautiful chandeliers that reflected light from the sun, as well as smaller lights the placed around the bar, light shooting in different directions in gold, silver, and white, lighting the place up brilliantly. The place has only a few table in the middle of the floor, those that were there were set close to the wall, and were meant for two people. Most of the seating arrangements were booths, some being able to sit two, most of them being able to seat four, and some of the bigger "U" shaped ones, being able to seat 6 or 8.%0a\ No newline at end of file%0a
+host:1462844547=74.215.115.143

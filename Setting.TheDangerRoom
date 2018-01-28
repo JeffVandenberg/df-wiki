@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1435354642
+host=199.106.103.59
+name=Setting.TheDangerRoom
+rev=2
+targets=
+text=!!The Danger Room%0aTraining grounds for the city's protectors.%0a%0a!!!The Idea%0aLocated near the waterfront inside an old warehouse owned by Cassandra Malvora, the Danger Room is a large metallic dome that is able to project the users thoughts into solid objects...use at your own risk.%0a%0a!!!The Aspect%0a[Use At Your Own Risk]%0a%0a!!!The Face%0a[[http://ragnarok.gamingsandbox.com/characters/publicView/61 | Sergio Moretti (PC) ]]
+time=1435354654
+author:1435354654=ChrisJ
+diff:1435354654:1435354642:minor=0a1%0a> Attach:default.jpg%0a
+host:1435354654=199.106.103.59
+author:1435354642=ChrisJ
+diff:1435354642:1435354642:minor=1,12d0%0a%3c Attach:default.jpg%0a%3c !!The Danger Room%0a%3c Training grounds for the city's protectors.%0a%3c %0a%3c !!!The Idea%0a%3c Located near the waterfront inside an old warehouse owned by Cassandra Malvora, the Danger Room is a large metallic dome that is able to project the users thoughts into solid objects...use at your own risk.%0a%3c %0a%3c !!!The Aspect%0a%3c [Use At Your Own Risk]%0a%3c %0a%3c !!!The Face%0a%3c [[http://ragnarok.gamingsandbox.com/characters/publicView/61 | Sergio Moretti (PC) ]]%0a\ No newline at end of file%0a
+host:1435354642=199.106.103.59

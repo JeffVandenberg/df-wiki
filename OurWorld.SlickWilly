@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486043796
+host=109.201.143.196
+name=OurWorld.SlickWilly
+rev=1
+targets=OurWorld.JoeysAlley,OurWorld.CriminalUnderworld
+text=!!Slick Willy%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[D.C.'s Criminal Information Broker] ||[[Joey's Alley | Joey's Alley]] ||[[Criminal Underworld | Criminal Underworld]] ||%0a%0a----%0a%0a!!!Motivation%0aSlick Willy is motivated to make money and collect/dispense with information. %0a%0a!!!Status Quo%0aWilly enjoys the status quo because it provides him plenty of opportunity to make money and trade information/favors--but if disturbing the status quo might provide him a better opportunity for these things, he'd do it in a heartbeat.%0a%0a!!!Description%0aWilly usually wears a pair of black slacks and a white, long-sleeved collared shirt with the sleeves rolled up to his elbows. While not particularly large, he's clearly muscular and in good shape. His black, bottomless eyes draw onlookers in so deep they worry about drowning, and he tends to wear a shit-eating grin. A snake in human clothes, Willy has no loyalty to himself and there's very little he won't do to make a buck. There is clearly more to him than meets the eye, though ''what'' that is remains up for debate. Currently, he runs a gang calling themselves "the Demons."%0a%0a!!!Public Relationships%0a- Willy has various relationships with most of the major players in the city, mundane and supernatural.
+time=1486043796
+author:1486043796=JayJ
+diff:1486043796:1486043796:=1,20d0%0a%3c !!Slick Willy%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[D.C.'s Criminal Information Broker] ||[[Joey's Alley | Joey's Alley]] ||[[Criminal Underworld | Criminal Underworld]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Slick Willy is motivated to make money and collect/dispense with information. %0a%3c %0a%3c !!!Status Quo%0a%3c Willy enjoys the status quo because it provides him plenty of opportunity to make money and trade information/favors--but if disturbing the status quo might provide him a better opportunity for these things, he'd do it in a heartbeat.%0a%3c %0a%3c !!!Description%0a%3c Willy usually wears a pair of black slacks and a white, long-sleeved collared shirt with the sleeves rolled up to his elbows. While not particularly large, he's clearly muscular and in good shape. His black, bottomless eyes draw onlookers in so deep they worry about drowning, and he tends to wear a shit-eating grin. A snake in human clothes, Willy has no loyalty to himself and there's very little he won't do to make a buck. There is clearly more to him than meets the eye, though ''what'' that is remains up for debate. Currently, he runs a gang calling themselves "the Demons."%0a%3c %0a%3c !!!Public Relationships%0a%3c - Willy has various relationships with most of the major players in the city, mundane and supernatural.%0a\ No newline at end of file%0a
+host:1486043796=109.201.143.196

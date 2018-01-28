@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460749509
+host=4.15.247.35
+name=Setting.ExterFoundation
+rev=1
+targets=
+text=!!The Exter Foundation%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''The Exter Foundation is a front where a Dragon builds resources from and grows resources from. Knowledge and Favors being the horde this think tank represents.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||W. Victor Fox ||[Knowledge is Power] ||? ||%0a%0a----%0a%0a!!!Description%0aThe Exter Foundation is a non-partisan think tank with branches into public/private partnerships all over the United States. If there is something to be known, they have the researchers to crack into it, and they exchange information to various parties in the district to grow their influence.%0a%0a!!!Notable Events%0a
+time=1460749509
+author:1460749509=ChrisJ
+diff:1460749509:1460749509:minor=1,19d0%0a%3c !!The Exter Foundation%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The Exter Foundation is a front where a Dragon builds resources from and grows resources from. Knowledge and Favors being the horde this think tank represents.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||W. Victor Fox ||[Knowledge is Power] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c The Exter Foundation is a non-partisan think tank with branches into public/private partnerships all over the United States. If there is something to be known, they have the researchers to crack into it, and they exchange information to various parties in the district to grow their influence.%0a%3c %0a%3c !!!Notable Events%0a
+host:1460749509=4.15.247.35

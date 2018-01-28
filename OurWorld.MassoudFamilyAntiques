@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487278937
+host=128.227.11.255
+name=OurWorld.MassoudFamilyAntiques
+rev=1
+targets=Characters.MortimerMassoud,Factions.TheParanet
+text=!!Massoud Family Antiques%0a%0aAttach:AntiquePawn.jpg%0a%0a----%0a%0a!!!The Idea%0a''An antique/pawn shop where the supernatural community goes for the occasional hidden treasure.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Mortimer Massoud]] ||[Hidden Treasures] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aMassoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. It's full of all kinds of junk stacked and strewn throughout the store with no apparent organizing scheme, though Mortimer always seems to know where to find anything. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a%0a!!!Notable Events%0a
+time=1487278937
+author:1487278937=OTD
+diff:1487278937:1487278937:=1,19d0%0a%3c !!Massoud Family Antiques%0a%3c %0a%3c Attach:AntiquePawn.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''An antique/pawn shop where the supernatural community goes for the occasional hidden treasure.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Mortimer Massoud]] ||[Hidden Treasures] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c Massoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. It's full of all kinds of junk stacked and strewn throughout the store with no apparent organizing scheme, though Mortimer always seems to know where to find anything. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a%3c %0a%3c !!!Notable Events%0a
+host:1487278937=128.227.11.255

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1428645504
+host=64.134.223.208
+name=Characters.TexArkanon
+rev=1
+targets=Setting.TheMermaidInn,Factions.TheIslandNationOfAtlantis
+text=Attach:CharacterImage.gif%0a!!Tex Arkanon %0a:The Face:[[Setting/The Mermaid Inn]]%0a''Self-titled "Tattooed Man" and Ambassador in service of the [[Factions/The Island Nation of Atlantis]], Tex is a tall, broadly muscular man with a dark complexion, grey eyes and black hair, and who is completely covered in all manner of tattoos, from fireballs to weapons, animals real and imagined, complex runes and sigils, eyeballs and bloody stakes and plenty more.''%0a%0a!!!Public Knowledge%0a*-Ambassador in service of the [[Factions/The Island Nation of Atlantis]].%0a%0a*-Established a Pact of Friendship with and Embassy within the East Village Freehold%0a%0a*-Wields a strange and powerful sword, [[http://www.armaitus.co.uk/b3ta/sword1.jpg | ''Swordbreaker'']]%0a%0a!!!Public Relationships%0a*Tex lost in the first round of the second Iron Tournament against Peter Wolfe, and the two have remained friendly since.%0a%0a*
+time=1428645504
+author:1428645504=ChrisJ
+diff:1428645504:1428645504:=1,16d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Tex Arkanon %0a%3c :The Face:[[Setting/The Mermaid Inn]]%0a%3c ''Self-titled "Tattooed Man" and Ambassador in service of the [[Factions/The Island Nation of Atlantis]], Tex is a tall, broadly muscular man with a dark complexion, grey eyes and black hair, and who is completely covered in all manner of tattoos, from fireballs to weapons, animals real and imagined, complex runes and sigils, eyeballs and bloody stakes and plenty more.''%0a%3c %0a%3c !!!Public Knowledge%0a%3c *-Ambassador in service of the [[Factions/The Island Nation of Atlantis]].%0a%3c %0a%3c *-Established a Pact of Friendship with and Embassy within the East Village Freehold%0a%3c %0a%3c *-Wields a strange and powerful sword, [[http://www.armaitus.co.uk/b3ta/sword1.jpg | ''Swordbreaker'']]%0a%3c %0a%3c !!!Public Relationships%0a%3c *Tex lost in the first round of the second Iron Tournament against Peter Wolfe, and the two have remained friendly since.%0a%3c %0a%3c *%0a\ No newline at end of file%0a
+host:1428645504=64.134.223.208

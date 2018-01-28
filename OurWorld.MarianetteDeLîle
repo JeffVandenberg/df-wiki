@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486041946
+host=128.227.11.255
+name=OurWorld.MarianetteDeLîle
+rev=3
+targets=OurWorld.TheWhiteCouncilOfWizards
+text=----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Commander of the Seaboard Wardens] ||[The Wardens] ||[[The White Council of Wizards | The White Council of Wizards]] ||%0a%0a----%0a%0a!!!Motivation%0aTo purge corruption at all levels.%0a%0a!!!Status Quo%0aAs the Leader of the few remaining Wardens in the Eastern United States, she only comes to town once or twice a month, unless called on business. %0a%0a!!!Description%0aBorn in Haiti during the Revolution, she feels very strongly about fighting corruption in both a spiritual and political capacity due to the dictators her nation faced as she grew up. After a few decades as a Wizard, she was promoted to Warden, and after a century's service, she became a commander, eventually assigned to the Eastern Seaboard of the United States of America.%0a%0a!!!Public Relationships%0aEvvy Godfrey - Warden under her command.%0a%0aMarkus Strom - Warden under her command.%0a%0aMaxwell King - Warden under her command.%0a%0aMatthew Nuacht - Warden under her command.
+time=1487279608
+author:1487279608=OTD
+diff:1487279608:1487279592:=19d18%0a%3c %0a21d19%0a%3c %0a23d20%0a%3c %0a
+host:1487279608=128.227.11.255
+author:1487279592=OTD
+diff:1487279592:1486041946:=18,21d17%0a%3c Evvy Godfrey - Warden under her command.%0a%3c Markus Strom - Warden under her command.%0a%3c Maxwell King - Warden under her command.%0a%3c Matthew Nuacht - Warden under her command.%0a\ No newline at end of file%0a
+host:1487279592=128.227.11.255
+author:1486041946=JayJ
+diff:1486041946:1486041946:=1,17d0%0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Commander of the Seaboard Wardens] ||[The Wardens] ||[[The White Council of Wizards | The White Council of Wizards]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To purge corruption at all levels.%0a%3c %0a%3c !!!Status Quo%0a%3c As the Leader of the few remaining Wardens in the Eastern United States, she only comes to town once or twice a month, unless called on business. %0a%3c %0a%3c !!!Description%0a%3c Born in Haiti during the Revolution, she feels very strongly about fighting corruption in both a spiritual and political capacity due to the dictators her nation faced as she grew up. After a few decades as a Wizard, she was promoted to Warden, and after a century's service, she became a commander, eventually assigned to the Eastern Seaboard of the United States of America.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1486041946=109.201.143.196

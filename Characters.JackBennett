@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376868063
+host=209.6.95.48
+name=Characters.JackBennett
+rev=2
+targets=Characters.KathleenAlexander
+text=Attach:CharacterImage.gif%0a!!Jack Bennett%0aDetective-Sergeant of the Anomalous Crimes Taskforce,the division of the NYPD that deals with supernatural crimes within the city.%0a%0a!!!Public Knowledge%0aJack Bennett is an old hand at working supernatural crime scenes, and an ally to many in the supernatural community.%0a%0a!!!Public Relationships%0aHe has a working relationship with [[Kathleen Alexander]], Warden Commander of NYC%0a
+time=1405830644
+author:1405830644=OwleIsohos
+diff:1405830644:1376868063:=3,4c3,4%0a%3c Detective-Sergeant of the Anomalous Crimes Taskforce,the division of the NYPD that deals with supernatural crimes within the city.%0a%3c %0a---%0a> Description Here%0a> %0a6,7c6,7%0a%3c Jack Bennett is an old hand at working supernatural crime scenes, and an ally to many in the supernatural community.%0a%3c %0a---%0a> WIP%0a> %0a9c9%0a%3c He has a working relationship with [[Kathleen Alexander]], Warden Commander of NYC%0a---%0a> WIP%0a
+host:1405830644=209.6.95.48
+author:1376868063=JillA
+diff:1376868063:1376868063:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Jack Bennett%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376868063=24.20.151.3

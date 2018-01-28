@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486068940
+host=128.227.14.255
+name=OurWorld.ANG
+rev=1
+targets=Setting.NationalSmithsonianZoo,Characters.WillowMorning,Setting.SutersTavern
+text=!!Accorded Neutral Ground%0a%0a%0a----%0a%0a!!!The Idea%0a''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%0a!!!Status Quo%0aAccorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%0a!!!The Aspect%0aIn addition to their specific Scene Aspect, all ANGs have the aspect [No Fighting Allowed] attached to them.%0a%0a%0a(:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a||class=sortable id=thetable%0a||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a||[[Setting/National Smithsonian Zoo]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a||[[Setting/Suter's Tavern | Suter's Tavern/Fountain Inn]] ||? ||? ||
+time=1486068940
+author:1486068940=OTD
+diff:1486068940:1486068940:=1,20d0%0a%3c !!Accorded Neutral Ground%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%3c %0a%3c !!!Status Quo%0a%3c Accorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%3c %0a%3c !!!The Aspect%0a%3c In addition to their specific Scene Aspect, all ANGs have the aspect [No Fighting Allowed] attached to them.%0a%3c %0a%3c %0a%3c (:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c ||class=sortable id=thetable%0a%3c ||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a%3c ||[[Setting/National Smithsonian Zoo]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a%3c ||[[Setting/Suter's Tavern | Suter's Tavern/Fountain Inn]] ||? ||? ||%0a\ No newline at end of file%0a
+host:1486068940=128.227.14.255

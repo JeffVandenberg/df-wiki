@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486070263
+host=128.227.14.255
+name=OurWorld.WinterCourtOfFae
+rev=1
+targets=Characters.EyvindrTheTrollKing,Setting.TheodoreRooseveltIsland
+text=!!Winter Court%0a%0a----%0a%0a!!!The Idea%0a''Winter controls the natural forces aligned with their season, and works as the counter-balance to Summer.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Eyvindr the Troll King]] ||[[Setting/Theodore Roosevelt Island]] ||? ||%0a%0a!!!Status Quo%0aThere is perhaps no faction more interested in maintaining the status quo than Winter, since it was Mab herself who created the Unseelie Accords. The Fae in general care about preserving balance in the world, due to their natures and laws.%0a%0a!!!Description%0aRuled over by Queen Mab and Lady Maeve, the fae of Winter tend towards themes of ice, death, and decay. They are more ruthless than Summer, and less emotional.%0a%0a!!!Public Relationships%0aLiam Bryne
+time=1486070263
+author:1486070263=OTD
+diff:1486070263:1486070263:=1,19d0%0a%3c !!Winter Court%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Winter controls the natural forces aligned with their season, and works as the counter-balance to Summer.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Eyvindr the Troll King]] ||[[Setting/Theodore Roosevelt Island]] ||? ||%0a%3c %0a%3c !!!Status Quo%0a%3c There is perhaps no faction more interested in maintaining the status quo than Winter, since it was Mab herself who created the Unseelie Accords. The Fae in general care about preserving balance in the world, due to their natures and laws.%0a%3c %0a%3c !!!Description%0a%3c Ruled over by Queen Mab and Lady Maeve, the fae of Winter tend towards themes of ice, death, and decay. They are more ruthless than Summer, and less emotional.%0a%3c %0a%3c !!!Public Relationships%0a%3c Liam Bryne%0a\ No newline at end of file%0a
+host:1486070263=128.227.14.255

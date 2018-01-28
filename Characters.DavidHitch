@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;ENCAWOL; rv:11.0) like Gecko
+author=DaveM
+charset=UTF-8
+csum=
+ctime=1462670719
+host=24.231.175.131
+name=Characters.DavidHitch
+rev=1
+targets=
+text=!!David Hitch%0aAttach:CharacterImage.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Psychic Soldier] ||[Homeland Security: Division 13] ||[Factions/Division 13] ||%0a%0a----%0a%0a!!!Motivation%0aDavid's primary motivation is protecting his country from supernatural threats. He has seen the effects of these threats while in the military and later while in the NSA. Since being assigned to Division 13 he has become very militant in his pursuit of this goal.%0a%0a!!!Status Quo%0aDavid is willing to do nearly anything to protect his country. His actions towards supernatural beings he has encountered are evidence of this.%0a%0a!!!Description%0aNo one is sure where David's psychic abilities came from. However, he has used them in both his military career and in both the NSA and Homeland Security. He has used these abilities to capture various supernaturals for testing recently. %0a%0a!!!Public Relationships%0aNone known
+time=1462670719
+author:1462670719=DaveM
+diff:1462670719:1462670719:=1,21d0%0a%3c !!David Hitch%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Psychic Soldier] ||[Homeland Security: Division 13] ||[Factions/Division 13] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c David's primary motivation is protecting his country from supernatural threats. He has seen the effects of these threats while in the military and later while in the NSA. Since being assigned to Division 13 he has become very militant in his pursuit of this goal.%0a%3c %0a%3c !!!Status Quo%0a%3c David is willing to do nearly anything to protect his country. His actions towards supernatural beings he has encountered are evidence of this.%0a%3c %0a%3c !!!Description%0a%3c No one is sure where David's psychic abilities came from. However, he has used them in both his military career and in both the NSA and Homeland Security. He has used these abilities to capture various supernaturals for testing recently. %0a%3c %0a%3c !!!Public Relationships%0a%3c None known%0a\ No newline at end of file%0a
+host:1462670719=24.231.175.131

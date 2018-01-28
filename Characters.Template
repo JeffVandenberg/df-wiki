@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460511843
+host=4.15.247.35
+name=Characters.Template
+rev=4
+targets=
+text=!!Name%0aAttach:CharacterImage.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a|| || || ||%0a%0a----%0a%0a!!!Motivation%0aWhat is this NPC's motivation?%0a%0a!!!Status Quo%0aWhat is this NPC's interest in the status quo?%0a%0a!!!Description%0aDescribe this NPC more. %0a%0a!!!Public Relationships%0aDoes this NPC have any public relations with PCs or other NPCs?
+time=1460512881
+author:1460512881=ChrisJ
+diff:1460512881:1460512626:minor=2,3c2,3%0a%3c Attach:CharacterImage.gif%0a%3c %0a---%0a> Attach:MarvinJohnson.jpeg%0a> %0a7,8c7,8%0a%3c || || || ||%0a%3c %0a---%0a> ||[Long-Lived LoC Chief of Operations, Supernatural Division] ||[[Locations/Library of Congress]] ||[[Factions/Library of Congress]] ||%0a> %0a12,13c12,13%0a%3c What is this NPC's motivation?%0a%3c %0a---%0a> Marvin’s motivations are unknown; he is zealous in carrying out the Supernatural Division’s mission.%0a> %0a15,16c15,16%0a%3c What is this NPC's interest in the status quo?%0a%3c %0a---%0a> The Library of Congress is apolitical and attempts to remain as much of a secret as they can within the supernatural community, so they tend to remain outside of trying to maintain or upset the status quo.%0a> %0a18,19c18,19%0a%3c Describe this NPC more. %0a%3c %0a---%0a> Marvin is always seen in an impeccable suit without wrinkles, regardless of the time of day. He is an affable person, generally, though he tends to grow focused and more remote when he’s on the job, and he never discusses his personal life. Marvin has been the Chief of Operations at the Supernatural Division for as long as anyone there can remember, and hasn’t aged but for a few more grey hairs and another wrinkle or two. Marvin is polite, cultured, well-educated, speaks with a mildly British accent, and remains unfazed whether talking to Special Forces soldiers, Senators, demons, or so-called “gods.” He’s deadly accurate with a pistol, and moves just a bit too fast to be just a vanilla human.%0a> %0a21c21%0a%3c Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a---%0a> - Oliver and Lane%0a\ No newline at end of file%0a
+host:1460512881=4.15.247.35
+author:1460512626=ChrisJ
+diff:1460512626:1460511973:=2,3c2,3%0a%3c Attach:MarvinJohnson.jpeg%0a%3c %0a---%0a> Attach:CharacterImage.gif%0a> %0a7,8c7,8%0a%3c ||[Long-Lived LoC Chief of Operations, Supernatural Division] ||[[Locations/Library of Congress]] ||[[Factions/Library of Congress]] ||%0a%3c %0a---%0a> || || || ||%0a> %0a12,13c12,13%0a%3c Marvin’s motivations are unknown; he is zealous in carrying out the Supernatural Division’s mission.%0a%3c %0a---%0a> What is this NPC's motivation?%0a> %0a15,16c15,16%0a%3c The Library of Congress is apolitical and attempts to remain as much of a secret as they can within the supernatural community, so they tend to remain outside of trying to maintain or upset the status quo.%0a%3c %0a---%0a> Describe this NPC's interest in the Status Quo.%0a> %0a18,19c18,19%0a%3c Marvin is always seen in an impeccable suit without wrinkles, regardless of the time of day. He is an affable person, generally, though he tends to grow focused and more remote when he’s on the job, and he never discusses his personal life. Marvin has been the Chief of Operations at the Supernatural Division for as long as anyone there can remember, and hasn’t aged but for a few more grey hairs and another wrinkle or two. Marvin is polite, cultured, well-educated, speaks with a mildly British accent, and remains unfazed whether talking to Special Forces soldiers, Senators, demons, or so-called “gods.” He’s deadly accurate with a pistol, and moves just a bit too fast to be just a vanilla human.%0a%3c %0a---%0a> Describe this NPC more fully.%0a> %0a21c21%0a%3c - Oliver and Lane%0a\ No newline at end of file%0a---%0a> Are there any PCs or other NPCs with ties to this NPC?%0a
+host:1460512626=4.15.247.35
+author:1460511973=ChrisJ
+diff:1460511973:1460511843:minor=8,9d7%0a%3c %0a%3c ----%0a
+host:1460511973=4.15.247.35
+author:1460511843=ChrisJ
+diff:1460511843:1460511843:minor=1,19d0%0a%3c !!Name%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c || || || ||%0a%3c %0a%3c !!!Motivation%0a%3c What is this NPC's motivation?%0a%3c %0a%3c !!!Status Quo%0a%3c Describe this NPC's interest in the Status Quo.%0a%3c %0a%3c !!!Description%0a%3c Describe this NPC more fully.%0a%3c %0a%3c !!!Public Relationships%0a%3c Are there any PCs or other NPCs with ties to this NPC?%0a
+host:1460511843=4.15.247.35

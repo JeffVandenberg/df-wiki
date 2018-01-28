@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376863693
+host=68.7.85.243
+name=Setting.DistrictCouncil37
+rev=5
+targets=Factions.WhiteCourt,Characters.AugustusKassel
+text=!!District Council 37%0aHeadquarters of the largest municipal workers union in New York City. Located at 125 Barclay Street, it is an unassuming, concrete building nestled among the skyscrapers.%0a%0a!!!The Idea%0aThe union headquarters is the seat of the [[Factions/White Court]] power in the city. There are many secrets hidden within its halls.%0a%0a!!!The Aspect%0aBetter the Devil You Know%0a%0a!!!The Face%0a[[Characters/Augustus Kassel|Augustus Kassel]], Tolerant White Court Patriarch
+time=1411248874
+author:1411248874=ChrisJ
+diff:1411248874:1411203066:=5c5%0a%3c The union headquarters is the seat of the [[Factions/White Court]] power in the city. There are many secrets hidden within its halls.%0a---%0a> The union headquarters is the seat of the [[Factions/White Court of Vampires | White Court]] power in the city. There are many secrets hidden within its halls.%0a
+host:1411248874=68.7.85.243
+author:1411203066=ChrisJ
+diff:1411203066:1394408668:minor=0a1%0a> %0a5c6%0a%3c The union headquarters is the seat of the [[Factions/White Court of Vampires | White Court]] power in the city. There are many secrets hidden within its halls.%0a---%0a> The union headquarters is the seat of the [[White Court]] power in the city. There are many secrets hidden within its halls.%0a
+host:1411203066=68.7.85.243
+author:1394408668=JillA
+diff:1394408668:1376863741:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1394408668=67.189.63.5
+author:1376863741=JillA
+diff:1376863741:1376863693:=12c12%0a%3c [[Characters/Augustus Kassel|Augustus Kassel]], Tolerant White Court Patriarch%0a\ No newline at end of file%0a---%0a> [[Augustus Kassel]], Tolerant White Court Patriarch%0a\ No newline at end of file%0a
+host:1376863741=24.20.151.3
+author:1376863693=JillA
+diff:1376863693:1376863693:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!District Council 37%0a%3c Headquarters of the largest municipal workers union in New York City. Located at 125 Barclay Street, it is an unassuming, concrete building nestled among the skyscrapers.%0a%3c %0a%3c !!!The Idea%0a%3c The union headquarters is the seat of the [[White Court]] power in the city. There are many secrets hidden within its halls.%0a%3c %0a%3c !!!The Aspect%0a%3c Better the Devil You Know%0a%3c %0a%3c !!!The Face%0a%3c [[Augustus Kassel]], Tolerant White Court Patriarch%0a\ No newline at end of file%0a
+host:1376863693=24.20.151.3

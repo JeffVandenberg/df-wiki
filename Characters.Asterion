@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1405832875
+host=68.7.85.243
+name=Characters.Asterion
+rev=2
+targets=Factions.OrderOfTheBlackenedDenarius
+text=Attach:CharacterImage.gif%0a!!Asterion%0aThe silver-tongued representative of the [[Factions/Order of the Blackened Denarius]], Asterion is quick to offer power to those who wish it.
+time=1411203892
+author:1411203892=ChrisJ
+diff:1411203892:1405832875:=3c3%0a%3c The silver-tongued representative of the [[Factions/Order of the Blackened Denarius]], Asterion is quick to offer power to those who wish it.%0a\ No newline at end of file%0a---%0a> The silver-tongued representative of the Order of the Blackened Denarius, Asterion is quick to offer power to those who wish it.%0a\ No newline at end of file%0a
+host:1411203892=68.7.85.243
+author:1405832875=OwleIsohos
+diff:1405832875:1405832875:=1,3d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Asterion%0a%3c The silver-tongued representative of the Order of the Blackened Denarius, Asterion is quick to offer power to those who wish it.%0a\ No newline at end of file%0a
+host:1405832875=209.6.95.48

@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1376868008
+host=68.7.85.243
+name=Characters.GregorySpeck
+rev=4
+targets=Factions.BlackRoseSociety
+text=Attach:CharacterImage.gif%0a!!Gregory Speck%0aMember of the [[Factions/Black Rose Society]]. (Deceased)
+time=1413653593
+author:1413653593=ChrisJ
+diff:1413653593:1410920272:minor=3c3%0a%3c Member of the [[Factions/Black Rose Society]]. (Deceased)%0a\ No newline at end of file%0a---%0a> Member of the Black Rose Society (Deceased)%0a\ No newline at end of file%0a
+host:1413653593=68.7.85.243
+author:1410920272=ChrisJ
+diff:1410920272:1405830221:=3c3%0a%3c Member of the Black Rose Society (Deceased)%0a\ No newline at end of file%0a---%0a> Member of the Black Rose Society%0a\ No newline at end of file%0a
+host:1410920272=68.7.85.243
+author:1405830221=OwleIsohos
+diff:1405830221:1376868008:=3c3,9%0a%3c Member of the Black Rose Society%0a\ No newline at end of file%0a---%0a> Description Here%0a> %0a> !!!Public Knowledge%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405830221=209.6.95.48
+author:1376868008=JillA
+diff:1376868008:1376868008:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Gregory Speck%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376868008=24.20.151.3

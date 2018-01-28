@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485467239
+host=4.15.247.35
+name=GameGuide.Yesand
+rev=1
+targets=
+text=!!"Yes, and..."%0a%0a"Yes, and..." is a phrase tossed about in the improv community that applies equally here. It means that when roleplaying, you should try to adopt a "yes, and..." attitude as much as possible. When someone provides a detail during roleplay, don't shut it down or deny it, seek a way to say "yes, and..."%0a%0a'''Bad example:'''%0aTom: "Ha, look at that dog with the frisbee!"%0aSally: "That's not a frisbee, that's a big stick!"%0a%0a'''Good example:'''%0aTom: "Ha, look at that dog with the frisbee!"%0aSally: "Yeah, looks like he stole it from those guys over there!"%0a%0a%0aSeek to use someone's details as a way of adding more to the original detail, or as a jumping off point to add more details to the scene. %0a%0a"Yes, and..." is discussed more in this [[http://www.dangoldstein.com/howtoimprovise.html | article on improv]].
+time=1485467239
+author:1485467239=ChrisJ
+diff:1485467239:1485467239:minor=1,16d0%0a%3c !!"Yes, and..."%0a%3c %0a%3c "Yes, and..." is a phrase tossed about in the improv community that applies equally here. It means that when roleplaying, you should try to adopt a "yes, and..." attitude as much as possible. When someone provides a detail during roleplay, don't shut it down or deny it, seek a way to say "yes, and..."%0a%3c %0a%3c '''Bad example:'''%0a%3c Tom: "Ha, look at that dog with the frisbee!"%0a%3c Sally: "That's not a frisbee, that's a big stick!"%0a%3c %0a%3c '''Good example:'''%0a%3c Tom: "Ha, look at that dog with the frisbee!"%0a%3c Sally: "Yeah, looks like he stole it from those guys over there!"%0a%3c %0a%3c %0a%3c Seek to use someone's details as a way of adding more to the original detail, or as a jumping off point to add more details to the scene. %0a%3c %0a%3c "Yes, and..." is discussed more in this [[http://www.dangoldstein.com/howtoimprovise.html | article on improv]].%0a\ No newline at end of file%0a
+host:1485467239=4.15.247.35

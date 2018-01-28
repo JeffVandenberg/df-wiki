@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485145487
+host=4.15.247.35
+name=HouseRules.HouseRules
+rev=3
+targets=HouseRules.GroupHeader
+text=[[GroupHeader]]
+time=1485466414
+author:1485466414=ChrisJ
+diff:1485466414:1485199267:minor=1c1,3%0a%3c [[GroupHeader]]%0a\ No newline at end of file%0a---%0a> (:notitle:)%0a> http://ragnarok.gamingsandbox.com/wiki/images/ragny_houserules.png%0a> %0a
+host:1485466414=4.15.247.35
+author:1485199267=ChrisJ
+diff:1485199267:1485145487:=1,3c1%0a%3c (:notitle:)%0a%3c http://ragnarok.gamingsandbox.com/wiki/images/ragny_houserules.png%0a%3c %0a---%0a> Test%0a\ No newline at end of file%0a
+host:1485199267=4.15.247.35
+author:1485145487=ChrisJ
+diff:1485145487:1485145487:minor=1d0%0a%3c Test%0a\ No newline at end of file%0a
+host:1485145487=98.176.135.178

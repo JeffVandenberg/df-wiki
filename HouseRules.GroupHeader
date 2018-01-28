@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485466420
+host=4.15.247.35
+name=HouseRules.GroupHeader
+rev=1
+targets=
+text=(:notitle:)%0ahttp://ragnarok.gamingsandbox.com/wiki/images/ragny_houserules.png%0a%0a
+time=1485466420
+author:1485466420=ChrisJ
+diff:1485466420:1485466420:minor=1,3d0%0a%3c (:notitle:)%0a%3c http://ragnarok.gamingsandbox.com/wiki/images/ragny_houserules.png%0a%3c %0a
+host:1485466420=4.15.247.35

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460515756
+host=4.15.247.35
+name=Setting.DupontCircleSubway
+rev=1
+targets=
+text=!!Dupont Circle Subway%0a%0aAttach:DupontCircle.jpg%0a%0a----%0a%0a!!!The Idea%0a''A coven of dark sorcerers have begun using these tunnels to practice their dark arts. It's unknown what exactly is happening down there, but it could be anything from demon-calling to necromancy to murder.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||??? ||[Tunnels of Darkness] ||??? ||%0a%0a----%0a%0a!!!Description%0aThe Dupont Circle subway closed down in 1962, and has been abandoned ever since. Tours recently have seen strange symbols and pentagrams in the tunnels, though most think it's simply harmless graffiti. (Here is a [[http://farm9.staticflickr.com/8490/8267096325_2aa13f8e71_b.jpg|map]] of the tunnels.)%0a%0a!!!Notable Events
+time=1460515756
+author:1460515756=ChrisJ
+diff:1460515756:1460515756:minor=1,19d0%0a%3c !!Dupont Circle Subway%0a%3c %0a%3c Attach:DupontCircle.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A coven of dark sorcerers have begun using these tunnels to practice their dark arts. It's unknown what exactly is happening down there, but it could be anything from demon-calling to necromancy to murder.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||??? ||[Tunnels of Darkness] ||??? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c The Dupont Circle subway closed down in 1962, and has been abandoned ever since. Tours recently have seen strange symbols and pentagrams in the tunnels, though most think it's simply harmless graffiti. (Here is a [[http://farm9.staticflickr.com/8490/8267096325_2aa13f8e71_b.jpg|map]] of the tunnels.)%0a%3c %0a%3c !!!Notable Events%0a\ No newline at end of file%0a
+host:1460515756=4.15.247.35

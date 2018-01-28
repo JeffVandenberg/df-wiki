@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAGWJS; rv:11.0) like Gecko
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1424716878
+host=66.180.246.235
+name=Characters.FatherSwanson
+rev=1
+targets=Setting.CathedralOfStPatrick
+text=Attach:CharacterImage.gif%0a!!Father Swanson%0a:The Face:[[Setting/Cathedral of St Patrick]] (when Adam Fisher is out of town or otherwise unavailable)%0a''A friendly, grandfatherly priest who's served at the [[Setting/Cathedral of St Patrick]] for fifty years.''%0a%0a!!!Public Knowledge%0a*%0a%0a!!!Public Relationships%0a*Close with Adam Fisher%0a
+time=1424716878
+author:1424716878=ChrisJ
+diff:1424716878:1424716878:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Father Swanson%0a%3c :The Face:[[Setting/Cathedral of St Patrick]] (when Adam Fisher is out of town or otherwise unavailable)%0a%3c ''A friendly, grandfatherly priest who's served at the [[Setting/Cathedral of St Patrick]] for fifty years.''%0a%3c %0a%3c !!!Public Knowledge%0a%3c *%0a%3c %0a%3c !!!Public Relationships%0a%3c *Close with Adam Fisher%0a
+host:1424716878=66.180.246.235

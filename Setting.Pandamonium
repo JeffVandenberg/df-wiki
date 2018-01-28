@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460515177
+host=4.15.247.35
+name=Setting.Pandamonium
+rev=5
+targets=Characters.LiBao,Factions.TheParanet
+text=!!Pandamonium%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''A place where the PCs can hang out and eat Chinese food, even if they're not enough "In the Know" to go to the Fountain Inn''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Li Bao]] ||[Good Feng Shui] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aA good Chinese food place not far from the offices of the Violet Group. While not a particular gathering spot for the supernatural, the decorations and architecture in here do seem to break up the Murphionic fields around mortal spellcasters somewhat. (The story goes that Grandpa Bao got so fed up with the electronic cash register constantly failing, he kept fiddling with the Feng Shui of the place until it worked better. Now it only fails about half the time.) Li Bao, the proprietor, is rumored to be a minor talent - the fortune cookies she hands out are sometimes a little too accurate.%0a%0a!!!Notable Events%0a%0a
+time=1460515301
+author:1460515301=ChrisJ
+diff:1460515301:1460515230:minor=15a16,18%0a> !!!Status Quo%0a> Describe this Faction's interest in the Status Quo%0a> %0a17,18c20,21%0a%3c A good Chinese food place not far from the offices of the Violet Group. While not a particular gathering spot for the supernatural, the decorations and architecture in here do seem to break up the Murphionic fields around mortal spellcasters somewhat. (The story goes that Grandpa Bao got so fed up with the electronic cash register constantly failing, he kept fiddling with the Feng Shui of the place until it worked better. Now it only fails about half the time.) Li Bao, the proprietor, is rumored to be a minor talent - the fortune cookies she hands out are sometimes a little too accurate.%0a%3c %0a---%0a> Describe this faction more fully.%0a> %0a19a23%0a> Have any notable events occurred here?%0a
+host:1460515301=4.15.247.35
+author:1460515230=ChrisJ
+diff:1460515230:1460515218:minor=12c12%0a%3c ||[[Characters/Li Bao]] ||[Good Feng Shui] ||[[Factions/The Paranet]] ||%0a---%0a> ||[[Characters/Li Bao]] ||[Good Feng Shui ||[[Factions/The Paranet]] ||%0a
+host:1460515230=4.15.247.35
+author:1460515218=ChrisJ
+diff:1460515218:1460515196:minor=12c12%0a%3c ||[[Characters/Li Bao]] ||[Good Feng Shui ||[[Factions/The Paranet]] ||%0a---%0a> ||[[Characters/Li Bao]] ||[[Factions/The Paranet]] ||%0a
+host:1460515218=4.15.247.35
+author:1460515196=ChrisJ
+diff:1460515196:1460515177:minor=12c12%0a%3c ||[[Characters/Li Bao]] ||[[Factions/The Paranet]] ||%0a---%0a> ||[{Characters/Li Bao]] ||[[Factions/The Paranet]] ||%0a
+host:1460515196=4.15.247.35
+author:1460515177=ChrisJ
+diff:1460515177:1460515177:minor=1,24d0%0a%3c !!Pandamonium%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A place where the PCs can hang out and eat Chinese food, even if they're not enough "In the Know" to go to the Fountain Inn''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[{Characters/Li Bao]] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c Describe this Faction's interest in the Status Quo%0a%3c %0a%3c !!!Description%0a%3c Describe this faction more fully.%0a%3c %0a%3c !!!Notable Events%0a%3c Have any notable events occurred here?%0a%3c %0a
+host:1460515177=4.15.247.35

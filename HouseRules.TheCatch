@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485213064
+host=146.244.146.159
+name=HouseRules.TheCatch
+rev=4
+targets=
+text=!!The Catch%0a%0a•  Without exception, the Catch for changelings or anyone Sponsored by one of the Fae has a Catch of Cold Iron. Depending on backstory and circumstances, ''additional'' Catches may be appropriate.%0a%0a•  Common Catch values can be found here for reference. We have changed some of the book’s values. Occasionally one of these list Catches may be different for a specific PC (generally when their backstory makes a Catch harder or easier to research than typical):%0a%0a*+3: Holy, Fire, Cold Iron%0a*+2: True Faith, Magic (PCs are discouraged from taking "Mortal Magic" as a Catch vs "Magic" because it is comparatively rare in play), Only When Defending The Innocent, Holly/Mistletoe (common Aesir Catch)%0a*+1: White Court Vampires (True Love/Hope/Courage/etc)%0a%0a•  Location-based Catches (such as a Red Court vampire's blood sac) require an appropriate tag or invoke for effect to make "called shots" against that location. These Catches are worth +2 for 'availability,' because anyone has a chance to hit the location. The rebate for researchability will depend on the individual (N)PC.%0a%0a•  These values may be modified on a case by case basis, generally when narrative makes a Catch harder or easier to research than typical.%0a%0a
+time=1485213449
+author:1485213449=ChrisJ
+diff:1485213449:1485213380:minor=6,13d5%0a%3c %0a%3c *+3: Holy, Fire, Cold Iron%0a%3c *+2: True Faith, Magic (PCs are discouraged from taking "Mortal Magic" as a Catch vs "Magic" because it is comparatively rare in play), Only When Defending The Innocent, Holly/Mistletoe (common Aesir Catch)%0a%3c *+1: White Court Vampires (True Love/Hope/Courage/etc)%0a%3c %0a%3c •  Location-based Catches (such as a Red Court vampire's blood sac) require an appropriate tag or invoke for effect to make "called shots" against that location. These Catches are worth +2 for 'availability,' because anyone has a chance to hit the location. The rebate for researchability will depend on the individual (N)PC.%0a%3c %0a%3c •  These values may be modified on a case by case basis, generally when narrative makes a Catch harder or easier to research than typical.%0a
+host:1485213449=146.244.146.159
+author:1485213380=ChrisJ
+diff:1485213380:1485213281:minor=
+host:1485213380=146.244.146.159
+author:1485213281=ChrisJ
+diff:1485213281:1485213064:minor=
+host:1485213281=146.244.146.159
+author:1485213064=ChrisJ
+diff:1485213064:1485213064:minor=1,6d0%0a%3c !!The Catch%0a%3c %0a%3c •  Without exception, the Catch for changelings or anyone Sponsored by one of the Fae has a Catch of Cold Iron. Depending on backstory and circumstances, ''additional'' Catches may be appropriate.%0a%3c %0a%3c •  Common Catch values can be found here for reference. We have changed some of the book’s values. Occasionally one of these list Catches may be different for a specific PC (generally when their backstory makes a Catch harder or easier to research than typical):%0a%3c %0a
+host:1485213064=146.244.146.159

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+author=JillA
+charset=UTF-8
+csum=
+ctime=1376861079
+host=24.20.151.3
+name=Site.BertuccisCafe
+rev=2
+targets=
+text=
+time=1376863261
+author:1376863261=JillA
+diff:1376863261:1376861079:=0a1,12%0a> http://imageshack.us/a/img51/5374/p456.jpg%0a> !!Bertucci's Cafe%0a> A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local Paranet, a woman who wants nothing more than to keep everyone around her safe.%0a> %0a> !!!The Idea%0a> Bertucci's interior is designed to break up the 'Murphionic fields' that gather around mortal practitioners of magic, making it an ideal place for wizards and other mortal magicians to hang out without worrying about causing property damage.%0a> %0a> !!!The Aspect%0a> Just Like Mama Used to Make%0a> %0a> !!!The Face%0a> [[Mama Bertucci]], Paranetter and Panomancer%0a\ No newline at end of file%0a
+host:1376863261=24.20.151.3
+author:1376861079=JillA
+diff:1376861079:1376861079:=1,12d0%0a%3c http://imageshack.us/a/img51/5374/p456.jpg%0a%3c !!Bertucci's Cafe%0a%3c A mom and pop pizza place in downtown NYC. It's owned and operated by the most active voice on the local Paranet, a woman who wants nothing more than to keep everyone around her safe.%0a%3c %0a%3c !!!The Idea%0a%3c Bertucci's interior is designed to break up the 'Murphionic fields' that gather around mortal practitioners of magic, making it an ideal place for wizards and other mortal magicians to hang out without worrying about causing property damage.%0a%3c %0a%3c !!!The Aspect%0a%3c Just Like Mama Used to Make%0a%3c %0a%3c !!!The Face%0a%3c [[Mama Bertucci]], Paranetter and Panomancer%0a\ No newline at end of file%0a
+host:1376861079=24.20.151.3

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1463188250
+host=4.15.247.35
+name=Factions.WhiteCourt
+rev=3
+targets=Characters.GioPeretti
+text=!!The White Court%0a%0a%0a----%0a%0a!!!The Idea%0a''A cunning race of emotional vampires that appears mostly-human, the White Court have plenty to feed on in Washington and plan on keeping it that way.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Gio Peretti]] ||? ||[Power...For A Price] ||%0a%0a----%0a%0a!!!Status Quo%0aGio Peretti, upstart nephew of the head of House Peretti, is not one to take what he has and accept it--he does not plan on letting this stalemate of power with the Capellos last long.%0a%0a!!!Description%0aThe White Court in Washington, DC have a strong presence. The Capellos and Perettis war (in their White Court way, of course) over control of the powerful mortals in the city as well as the human trafficking that goes through Washington. They're masters of manipulation and 'the deal' and ''someone'' in the White Court in the city will have contacts and deals with just about anyone in DC you could name.%0a%0a%0aThe following families have a presence in Washington, DC in addition to the Raith, Malvora, and Skavis families mentioned in the books:%0a%0aKassel - Wrath/Anger%0a%0aPeretti - Envy/Greed%0a%0aCapello - Pride%0a%0aMilliner - Sloth/Gluttony
+time=1466812035
+author:1466812035=ChrisJ
+diff:1466812035:1465965852:minor=11,12c11,12%0a%3c ||[[Characters/Gio Peretti]] ||? ||[Power...For A Price] ||%0a%3c %0a---%0a> ||Gio Peretti ||? ||? ||%0a> %0a28,30c28%0a%3c Capello - Pride%0a%3c %0a%3c Milliner - Sloth/Gluttony%0a\ No newline at end of file%0a---%0a> Capello - Pride%0a\ No newline at end of file%0a
+host:1466812035=4.15.247.35
+author:1465965852=ChrisJ
+diff:1465965852:1463188250:minor=1,3c1,3%0a%3c !!The White Court%0a%3c %0a%3c %0a---%0a> !!Name%0a> %0a> %0a7,8c7,8%0a%3c ''A cunning race of emotional vampires that appears mostly-human, the White Court have plenty to feed on in Washington and plan on keeping it that way.''%0a%3c %0a---%0a> ''''%0a> %0a11,12c11,12%0a%3c ||Gio Peretti ||? ||? ||%0a%3c %0a---%0a> || || || ||%0a> %0a16,17c16%0a%3c Gio Peretti, upstart nephew of the head of House Peretti, is not one to take what he has and accept it--he does not plan on letting this stalemate of power with the Capellos last long.%0a%3c %0a---%0a> %0a19,28d17%0a%3c The White Court in Washington, DC have a strong presence. The Capellos and Perettis war (in their White Court way, of course) over control of the powerful mortals in the city as well as the human trafficking that goes through Washington. They're masters of manipulation and 'the deal' and ''someone'' in the White Court in the city will have contacts and deals with just about anyone in DC you could name.%0a%3c %0a%3c %0a%3c The following families have a presence in Washington, DC in addition to the Raith, Malvora, and Skavis families mentioned in the books:%0a%3c %0a%3c Kassel - Wrath/Anger%0a%3c %0a%3c Peretti - Envy/Greed%0a%3c %0a%3c Capello - Pride%0a\ No newline at end of file%0a
+host:1465965852=4.15.247.35
+author:1463188250=NGodfrey
+diff:1463188250:1463188250:=1,17d0%0a%3c !!Name%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c %0a%3c !!!Description%0a
+host:1463188250=74.215.115.143

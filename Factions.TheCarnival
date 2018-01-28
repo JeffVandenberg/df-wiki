@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460864442
+host=4.15.247.35
+name=Factions.TheCarnival
+rev=1
+targets=Characters.ShlomoTheClown
+text=!!The Carnival%0a%0a%0a----%0a%0a!!!The Idea%0a''A roaming bazaar for the Supernatural world.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Shlomo the Clown]] ||? ||[Everything--For A Price] ||%0a%0a----%0a%0a!!!Status Quo%0aThe Carnival remains outside of politics. It will pick up and move at the first sign of danger to it or its vendors.%0a%0a!!!Description%0aThe Carnival is the name most often given to a travelling "road show" of sorts that has achieved no small amount of infamy in the supernatural world. Travelling frequently, the Carnival will pop up in a mortal city for a few days or weeks before moving on again. It consists of a few score regular vendors and often another few dozen that appear temporarily, locals in the city the Carnival is currently working out of. All kinds of strange, wonderful, and terrible goods, services, and information can be found here--but everything comes with a price.%0a%0a!!!Public Relationships%0a
+time=1460864442
+author:1460864442=ChrisJ
+diff:1460864442:1460864442:minor=1,21d0%0a%3c !!The Carnival%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A roaming bazaar for the Supernatural world.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Shlomo the Clown]] ||? ||[Everything--For A Price] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c The Carnival remains outside of politics. It will pick up and move at the first sign of danger to it or its vendors.%0a%3c %0a%3c !!!Description%0a%3c The Carnival is the name most often given to a travelling "road show" of sorts that has achieved no small amount of infamy in the supernatural world. Travelling frequently, the Carnival will pop up in a mortal city for a few days or weeks before moving on again. It consists of a few score regular vendors and often another few dozen that appear temporarily, locals in the city the Carnival is currently working out of. All kinds of strange, wonderful, and terrible goods, services, and information can be found here--but everything comes with a price.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1460864442=4.15.247.35

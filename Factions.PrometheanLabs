@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ZRTAssassin
+charset=UTF-8
+csum=
+ctime=1460529593
+host=72.222.119.120
+name=Factions.PrometheanLabs
+rev=2
+targets=Characters.JackMacTaggert,Setting.PrometheanLabs
+text=!!Promethean Labs%0a%0a%0a----%0a%0a!!!The Idea%0a''The Promethean Labs mandate: "Giving people fire to rival the gods."''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Jack MacTaggert]] ||[[Setting/Promethean Labs]] ||[Everyone is a Potential Subject] ||%0a%0a----%0a%0a!!!Status Quo%0aWith a goal like "giving people fire to rival the gods," Promethean Labs is definitely interested in shaking things up.%0a %0a!!!Description%0aA secret, privately funded laboratory underneath part of the city of Washington, DC. A place where supernatural beings are studied and considered for "donation" and mortals are given powers through experimentation.%0a %0a!!!Public Relationships%0a
+time=1460605243
+author:1460605243=ZRTAssassin
+diff:1460605243:1460529593:=7,8c7,8%0a%3c ''The Promethean Labs mandate: "Giving people fire to rival the gods."''%0a%3c %0a---%0a> ''The Promethean Labs mandate: "Giving people fire to rival the gods.''%0a> %0a11c11%0a%3c ||[[Characters/Jack MacTaggert]] ||[[Setting/Promethean Labs]] ||[Everyone is a Potential Subject] ||%0a---%0a> ||[[Characters/Jack MacTaggert]] ||? ||[Everyone is a Potential Subject] ||%0a
+host:1460605243=72.222.119.120
+author:1460529593=ChrisJ
+diff:1460529593:1460529593:minor=1,21d0%0a%3c !!Promethean Labs%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The Promethean Labs mandate: "Giving people fire to rival the gods.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Jack MacTaggert]] ||? ||[Everyone is a Potential Subject] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c With a goal like "giving people fire to rival the gods," Promethean Labs is definitely interested in shaking things up.%0a%3c  %0a%3c !!!Description%0a%3c A secret, privately funded laboratory underneath part of the city of Washington, DC. A place where supernatural beings are studied and considered for "donation" and mortals are given powers through experimentation.%0a%3c  %0a%3c !!!Public Relationships%0a
+host:1460529593=68.7.33.92

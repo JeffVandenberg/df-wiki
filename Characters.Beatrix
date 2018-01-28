@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376867769
+host=209.6.95.48
+name=Characters.Beatrix
+rev=2
+targets=Setting.TheOtherOccultSection
+text=Attach:CharacterImage.gif%0a!!Beatrix%0a'''The Face''' of [[Setting/The Other Occult Section]]\\%0aBibiliomancer and custodian of the Other Occult Section, Beatrix has been known to launch books at people who don't know how to be quiet in the library.%0a%0a!!!Public Relationships%0aFriend of the White Council%0a
+time=1405829798
+author:1405829798=OwleIsohos
+diff:1405829798:1376867769:=4,5c4,8%0a%3c Bibiliomancer and custodian of the Other Occult Section, Beatrix has been known to launch books at people who don't know how to be quiet in the library.%0a%3c %0a---%0a> Description Here%0a> %0a> !!!Public Knowledge%0a> WIP%0a> %0a7c10%0a%3c Friend of the White Council%0a---%0a> WIP%0a
+host:1405829798=209.6.95.48
+author:1376867769=JillA
+diff:1376867769:1376867769:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Beatrix%0a%3c '''The Face''' of [[Setting/The Other Occult Section]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867769=24.20.151.3

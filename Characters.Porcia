@@ -1,0 +1,24 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376872356
+host=209.6.95.48
+name=Characters.Porcia
+rev=4
+targets=Setting.TheFiresideInn,Characters.Tyche
+text=Attach:CharacterImage.gif%0a!!Porcia%0a:The Face:[[Setting/The Fireside Inn]]%0a''A graceful hotel manager who is more than what she seems''%0a%0a!!!Public Knowledge%0a* They say that if you're weary, sometimes, down a street that wasn't there before, you'll be able to find the Fireside Inn%0a%0a* The stories say that no one who has checked in to the Fireside Inn has ever checked out again...but if that were true, who is telling the stories?%0a%0a!!!Public Relationships%0a* Porcia has mentioned that [[Tyche]] is a valued guest at the Fireside Inn
+time=1405829353
+author:1405829353=OwleIsohos
+diff:1405829353:1377026497:=12c12%0a%3c * Porcia has mentioned that [[Tyche]] is a valued guest at the Fireside Inn%0a\ No newline at end of file%0a---%0a> * None%0a\ No newline at end of file%0a
+host:1405829353=209.6.95.48
+author:1377026497=JillA
+diff:1377026497:1376872441:=3,5c3,5%0a%3c :The Face:[[Setting/The Fireside Inn]]%0a%3c ''A graceful hotel manager who is more than what she seems''%0a%3c %0a---%0a> '''The Face''' of [[Setting/The Fireside Hotel]]\\%0a> Description Here%0a> %0a7,10c7,8%0a%3c * They say that if you're weary, sometimes, down a street that wasn't there before, you'll be able to find the Fireside Inn%0a%3c %0a%3c * The stories say that no one who has checked in to the Fireside Inn has ever checked out again...but if that were true, who is telling the stories?%0a%3c %0a---%0a> WIP%0a> %0a12c10%0a%3c * None%0a\ No newline at end of file%0a---%0a> WIP%0a
+host:1377026497=24.20.151.3
+author:1376872441=JillA
+diff:1376872441:1376872356:=3c3%0a%3c '''The Face''' of [[Setting/The Fireside Hotel]]\\%0a---%0a> '''The Face''' of [[Setting/The Fireside Inn]]\\%0a
+host:1376872441=24.20.151.3
+author:1376872356=JillA
+diff:1376872356:1376872356:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Porcia%0a%3c '''The Face''' of [[Setting/The Fireside Inn]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872356=24.20.151.3

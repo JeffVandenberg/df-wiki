@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460530601
+host=4.15.247.35
+name=Characters.ShlomoTheClown
+rev=3
+targets=Factions.TheCarnival
+text=!!Shlomo the Clown%0aAttach:ShlomotheClown.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||? ||? ||[[Factions/The Carnival]] ||%0a%0a----%0a%0a!!!Motivation%0aWhat is this NPC's motivation?%0a%0a!!!Status Quo%0aWhat is this NPC's interest in the status quo?%0a%0a!!!Description%0aDescribe this NPC more. %0a%0a!!!Public Relationships%0aDoes this NPC have any public relations with PCs or other NPCs?
+time=1460864263
+author:1460864263=ChrisJ
+diff:1460864263:1460530712:minor=7c7%0a%3c ||? ||? ||[[Factions/The Carnival]] ||%0a---%0a> || ||? ||[[Factions/The Travelling Circus]] ||%0a
+host:1460864263=4.15.247.35
+author:1460530712=ChrisJ
+diff:1460530712:1460530601:minor=1c1%0a%3c !!Shlomo the Clown%0a---%0a> !!Name%0a
+host:1460530712=68.7.33.92
+author:1460530601=ChrisJ
+diff:1460530601:1460530601:minor=1,21d0%0a%3c !!Name%0a%3c Attach:ShlomotheClown.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c || ||? ||[[Factions/The Travelling Circus]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c What is this NPC's motivation?%0a%3c %0a%3c !!!Status Quo%0a%3c What is this NPC's interest in the status quo?%0a%3c %0a%3c !!!Description%0a%3c Describe this NPC more. %0a%3c %0a%3c !!!Public Relationships%0a%3c Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1460530601=68.7.33.92

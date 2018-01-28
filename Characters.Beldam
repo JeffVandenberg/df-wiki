@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+author=JillA
+charset=UTF-8
+csum=
+ctime=1376867808
+host=24.20.151.3
+name=Characters.Beldam
+rev=2
+targets=Setting.Inferno,Setting.Lexicon,Characters.Eric
+text=Attach:CharacterImage.gif%0a!!Beldam%0a:The Face:[[Setting/Inferno]]%0a''Eternally youthful, Beldam is often seen reclining on a throne of bones in the [[Setting/Lexicon|NeverNever]], or out partying in one of NYC's nightclubs. She most often chooses to appear as a tall, imposing woman with hair as black as night and eyes dark as a raven's feathers.''%0a%0a!!!Public Knowledge%0a*Whatever Beldam is, she isn't human%0a%0a*She's often accompanied by a retinue of restless dead - skeletal steeds, insane wights, and a ghoulish entourage. These take human guise when not in the NeverNever%0a%0a*They say she likes to party and is always seeking diversion - rumor has it that, in just about any club in New York, there's a chance of spotting Beldam and her host on the dance floor%0a%0a*Her realm in the NeverNever connects to the Inferno, a night club she and her court have taken over%0a%0a*If you have artistic talent, Beldam may hire you to play one night at the Inferno...and in the NeverNever beyond. Payment negotiable.%0a%0a!!!Public Relationships%0a* Employer of [[Eric]], the bartender at the [[Setting/Inferno]]
+time=1377026619
+author:1377026619=JillA
+diff:1377026619:1376867808:=3,5c3,5%0a%3c :The Face:[[Setting/Inferno]]%0a%3c ''Eternally youthful, Beldam is often seen reclining on a throne of bones in the [[Setting/Lexicon|NeverNever]], or out partying in one of NYC's nightclubs. She most often chooses to appear as a tall, imposing woman with hair as black as night and eyes dark as a raven's feathers.''%0a%3c %0a---%0a> '''The Face''' of [[Setting/Inferno]]\\%0a> Description Here%0a> %0a7,16c7,8%0a%3c *Whatever Beldam is, she isn't human%0a%3c %0a%3c *She's often accompanied by a retinue of restless dead - skeletal steeds, insane wights, and a ghoulish entourage. These take human guise when not in the NeverNever%0a%3c %0a%3c *They say she likes to party and is always seeking diversion - rumor has it that, in just about any club in New York, there's a chance of spotting Beldam and her host on the dance floor%0a%3c %0a%3c *Her realm in the NeverNever connects to the Inferno, a night club she and her court have taken over%0a%3c %0a%3c *If you have artistic talent, Beldam may hire you to play one night at the Inferno...and in the NeverNever beyond. Payment negotiable.%0a%3c %0a---%0a> WIP%0a> %0a18c10%0a%3c * Employer of [[Eric]], the bartender at the [[Setting/Inferno]]%0a\ No newline at end of file%0a---%0a> WIP%0a
+host:1377026619=24.20.151.3
+author:1376867808=JillA
+diff:1376867808:1376867808:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Beldam%0a%3c '''The Face''' of [[Setting/Inferno]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376867808=24.20.151.3

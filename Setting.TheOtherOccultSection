@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376865877
+host=209.6.95.48
+name=Setting.TheOtherOccultSection
+rev=2
+targets=Characters.Beatrix
+text=%0a!!The Other Occult Section%0aA secret sublevel floor to the Stephen A. Schwarzman Building (AKA the New York Public Library) on Fifth Avenue at 42nd Street. It looks much like pictures of the library at the turn of the last century looked: simple lamps are the only technology present (aside from an over rotating and often broken coffee station).%0a%0a!!!The Idea%0aThe Other Occult Section is meant to be accessed by anyone with a legitimate desire to research the occult and the supernatural.%0a%0a!!!The Aspect%0a"Please Respect the Silence"%0a%0a!!!The Face%0a[[Characters/Beatrix|Beatrix]], Librarian of the Hidden Floor
+time=1405827309
+author:1405827309=OwleIsohos
+diff:1405827309:1376865877:=1c1%0a%3c %0a---%0a> Attach:locationpic.jpg%0a
+host:1405827309=209.6.95.48
+author:1376865877=JillA
+diff:1376865877:1376865877:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!The Other Occult Section%0a%3c A secret sublevel floor to the Stephen A. Schwarzman Building (AKA the New York Public Library) on Fifth Avenue at 42nd Street. It looks much like pictures of the library at the turn of the last century looked: simple lamps are the only technology present (aside from an over rotating and often broken coffee station).%0a%3c %0a%3c !!!The Idea%0a%3c The Other Occult Section is meant to be accessed by anyone with a legitimate desire to research the occult and the supernatural.%0a%3c %0a%3c !!!The Aspect%0a%3c "Please Respect the Silence"%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Beatrix|Beatrix]], Librarian of the Hidden Floor%0a\ No newline at end of file%0a
+host:1376865877=24.20.151.3

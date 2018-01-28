@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486041305
+host=109.201.143.196
+name=OurWorld.KokuOpoku
+rev=1
+targets=OurWorld.GreyCourt
+text=!!Koku Opoku%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Grey Court Diplomat] ||  ||[[Grey Court | Grey Court]] ||%0a%0a----%0a%0a!!!Motivation%0aTo raise the Grey Court up in the supernatural world and increase their power.%0a%0a!!!Status Quo%0aLike the Grey Court in general, he wishes to destabilize things so that they might have a chance to take control.%0a%0a!!!Description%0aA tall Ghanaian man, with a winning smile and a deep laugh. Normally wears a suit and carries a cane with steel at both ends. Seems to take pleasure in ruffling feathers, at least with those who have declared themselves enemies to his cause. However, he is always polite, and responds to anger with simplicity and grace.%0a%0a!!!Public Relationships%0aUnknown.
+time=1486041305
+author:1486041305=JayJ
+diff:1486041305:1486041305:=1,20d0%0a%3c !!Koku Opoku%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Grey Court Diplomat] ||  ||[[Grey Court | Grey Court]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c To raise the Grey Court up in the supernatural world and increase their power.%0a%3c %0a%3c !!!Status Quo%0a%3c Like the Grey Court in general, he wishes to destabilize things so that they might have a chance to take control.%0a%3c %0a%3c !!!Description%0a%3c A tall Ghanaian man, with a winning smile and a deep laugh. Normally wears a suit and carries a cane with steel at both ends. Seems to take pleasure in ruffling feathers, at least with those who have declared themselves enemies to his cause. However, he is always polite, and responds to anger with simplicity and grace.%0a%3c %0a%3c !!!Public Relationships%0a%3c Unknown.%0a\ No newline at end of file%0a
+host:1486041305=109.201.143.196

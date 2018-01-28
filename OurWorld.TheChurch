@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486069950
+host=128.227.14.255
+name=OurWorld.TheChurch
+rev=1
+targets=
+text=!!Name%0a%0a%0a----%0a%0a!!!The Idea%0a''''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a|| || || ||%0a%0a----%0a%0a!!!Status Quo%0a%0a!!!Description%0a
+time=1486069950
+author:1486069950=OTD
+diff:1486069950:1486069950:=1,17d0%0a%3c !!Name%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c %0a%3c !!!Description%0a
+host:1486069950=128.227.14.255

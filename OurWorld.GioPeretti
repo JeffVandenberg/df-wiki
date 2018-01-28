@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1486041115
+host=109.201.143.196
+name=OurWorld.GioPeretti
+rev=2
+targets=OurWorld.TheWhiteCourt
+text=!!Gio Peretti%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||Ambitious Nephew of Lord Peretti ||  ||[[The White Court | The White Court]] ||%0a%0a----%0a%0a!!!Motivation%0aGio is highly motivated, like many White Court vampires, to increase his power and standing within the Courts by any backhanded means possible.%0a%0a!!!Status Quo%0aGio sees the Status Quo as helping others more than it helps him. He will upset the status quo to serve his purposes as long as he doesn't think he'll be caught.%0a%0a!!!Description%0aGio surrounds himself with the finer things and Very Important People. He had extensive contacts around the city, and has his claws in just about everything going on in some way or another. He is vain and thin-skinned, but very good at hiding his displeasures--until he can get revenge in an appropriately backhanded way. Gio lusts for control of his House, and eventually the entire Court, not that he'd ever say it out loud to anyone.%0a%0a!!!Public Relationships%0a- Gio is fairly famously known to have a hatred for his aunt, Damiana Capello, his primary rival in Washington.
+time=1486041129
+author:1486041129=JayJ
+diff:1486041129:1486041115:=1a2%0a> Attach:CharacterImage.gif%0a
+host:1486041129=109.201.143.196
+author:1486041115=JayJ
+diff:1486041115:1486041115:=1,21d0%0a%3c !!Gio Peretti%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||Ambitious Nephew of Lord Peretti ||  ||[[The White Court | The White Court]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Gio is highly motivated, like many White Court vampires, to increase his power and standing within the Courts by any backhanded means possible.%0a%3c %0a%3c !!!Status Quo%0a%3c Gio sees the Status Quo as helping others more than it helps him. He will upset the status quo to serve his purposes as long as he doesn't think he'll be caught.%0a%3c %0a%3c !!!Description%0a%3c Gio surrounds himself with the finer things and Very Important People. He had extensive contacts around the city, and has his claws in just about everything going on in some way or another. He is vain and thin-skinned, but very good at hiding his displeasures--until he can get revenge in an appropriately backhanded way. Gio lusts for control of his House, and eventually the entire Court, not that he'd ever say it out loud to anyone.%0a%3c %0a%3c !!!Public Relationships%0a%3c - Gio is fairly famously known to have a hatred for his aunt, Damiana Capello, his primary rival in Washington.%0a\ No newline at end of file%0a
+host:1486041115=109.201.143.196

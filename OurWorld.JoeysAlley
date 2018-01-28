@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486075355
+host=128.227.12.252
+name=OurWorld.JoeysAlley
+rev=2
+targets=Characters.SlickWilly,Factions.CriminalUnderworld
+text=!!Joey's Alley%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''An old bowling alley taken over by a local gang for their base of operations.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Slick Willy]] ||[Dim and Dusty Criminal Hideout] ||[[Factions/Criminal Underworld]] ||%0a%0a----%0a%0a!!!Description%0aA dim and dusty bowling alley taken over by Slick Willy and the Demons. Willy is usually found bowling alone inside while several of his underlings watch. The front door is often guarded by two dim mooks named Rob and Don.%0a%0a!!!Notable Events%0a%0a
+time=1486075396
+author:1486075396=OTD
+diff:1486075396:1486075355:=1,4c1,3%0a%3c !!Joey's Alley%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a---%0a> !!Name%0a> Attach:CharacterImage.gif%0a> %0a7,13c6,8%0a%3c !!!The Idea%0a%3c ''An old bowling alley taken over by a local gang for their base of operations.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Slick Willy]] ||[Dim and Dusty Criminal Hideout] ||[[Factions/Criminal Underworld]] ||%0a%3c %0a---%0a> ||!High Concept ||!The Face Of ||!Faction ||%0a> || || || ||%0a> %0a15a11,16%0a> !!!Motivation%0a> What is this NPC's motivation?%0a> %0a> !!!Status Quo%0a> What is this NPC's interest in the status quo?%0a> %0a17,20c18,21%0a%3c A dim and dusty bowling alley taken over by Slick Willy and the Demons. Willy is usually found bowling alone inside while several of his underlings watch. The front door is often guarded by two dim mooks named Rob and Don.%0a%3c %0a%3c !!!Notable Events%0a%3c %0a---%0a> Describe this NPC more. %0a> %0a> !!!Public Relationships%0a> Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1486075396=128.227.12.252
+author:1486075355=OTD
+diff:1486075355:1486075355:=1,21d0%0a%3c !!Name%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c What is this NPC's motivation?%0a%3c %0a%3c !!!Status Quo%0a%3c What is this NPC's interest in the status quo?%0a%3c %0a%3c !!!Description%0a%3c Describe this NPC more. %0a%3c %0a%3c !!!Public Relationships%0a%3c Does this NPC have any public relations with PCs or other NPCs?%0a\ No newline at end of file%0a
+host:1486075355=128.227.12.252

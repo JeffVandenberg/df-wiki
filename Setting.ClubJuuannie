@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1463186730
+host=4.15.247.35
+name=Setting.ClubJuuannie
+rev=2
+targets=Setting.Peaches
+text=!!Club Juuannie%0a%0a%0a----%0a%0a!!!The Idea%0a%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Peaches]] ||[Changes Start Small] ||? ||%0a%0a----%0a%0a!!!Description%0aTBD  %0a%0a!!!Notable Events%0a
+time=1463440795
+author:1463440795=ChrisJ
+diff:1463440795:1463186730:minor=11c11%0a%3c ||[[Peaches]] ||[Changes Start Small] ||? ||%0a---%0a> ||[[Peaches]] ||[Changes Start Small] ||[[Factions/Unaffiliated]] ||%0a
+host:1463440795=4.15.247.35
+author:1463186730=NGodfrey
+diff:1463186730:1463186730:=1,18d0%0a%3c !!Club Juuannie%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c %0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Peaches]] ||[Changes Start Small] ||[[Factions/Unaffiliated]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c TBD  %0a%3c %0a%3c !!!Notable Events%0a
+host:1463186730=74.215.115.143

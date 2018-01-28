@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485134061
+host=98.176.135.178
+name=Main.Update
+rev=3
+targets=Setting.Locations,Factions.Factions,Help.FAQ,Help.Lexicon,GameGuide.GameGuide,OurWorld.OurWorld,HouseRules.HouseRules,GameGuide.SideBar,OurWorld.SideBar,HouseRules.SideBar
+text='''This page is kept as a useful repository for old and new major pages/groups to make it easy to move stuff around!'''%0a----%0a----%0a%0a'''Old Page Links'''%0a*[[http://df.gamingsandbox.com/wiki/Main/HomePage | Introduction]]%0a*[[http://df.gamingsandbox.com/wiki/Setting/Aspects | City Aspects]]%0a*[[Setting/Locations]]%0a*[[http://df.gamingsandbox.com/wiki/Characters/Castlist | NPCs]]%0a*[[Factions]]%0a*[[http://df.gamingsandbox.com/wiki/Help/Game | About the Game]]%0a*[[http://df.gamingsandbox.com/wiki/Help/New | New Players]]%0a*[[http://df.gamingsandbox.com/wiki/Help/HouseRules | House Rules]]%0a*[[http://df.gamingsandbox.com/wiki/Help/MagicRules | Magic Rules]]%0a*[[Help/FAQ]]%0a*[[Help/Lexicon]]%0a----%0a%0a'''New Page Links'''%0a*[[Game Guide/]]%0a*[[Our World/]]%0a*[[House Rules/]]%0a*%0a*[[Game Guide.SideBar]]%0a*[[Our World.SideBar]]%0a*[[House Rules.SideBar]]%0a%0a
+time=1485145146
+author:1485145146=ChrisJ
+diff:1485145146:1485143512:minor=23,26d22%0a%3c *%0a%3c *[[Game Guide.SideBar]]%0a%3c *[[Our World.SideBar]]%0a%3c *[[House Rules.SideBar]]%0a
+host:1485145146=98.176.135.178
+author:1485143512=ChrisJ
+diff:1485143512:1485134061:minor=20,22d19%0a%3c *[[Game Guide/]]%0a%3c *[[Our World/]]%0a%3c *[[House Rules/]]%0a
+host:1485143512=98.176.135.178
+author:1485134061=ChrisJ
+diff:1485134061:1485134061:=1,20d0%0a%3c '''This page is kept as a useful repository for old and new major pages/groups to make it easy to move stuff around!'''%0a%3c ----%0a%3c ----%0a%3c %0a%3c '''Old Page Links'''%0a%3c *[[http://df.gamingsandbox.com/wiki/Main/HomePage | Introduction]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Setting/Aspects | City Aspects]]%0a%3c *[[Setting/Locations]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Characters/Castlist | NPCs]]%0a%3c *[[Factions]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Help/Game | About the Game]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Help/New | New Players]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Help/HouseRules | House Rules]]%0a%3c *[[http://df.gamingsandbox.com/wiki/Help/MagicRules | Magic Rules]]%0a%3c *[[Help/FAQ]]%0a%3c *[[Help/Lexicon]]%0a%3c ----%0a%3c %0a%3c '''New Page Links'''%0a%3c %0a
+host:1485134061=4.15.247.35

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+author=JillA
+charset=UTF-8
+csum=
+ctime=1376865574
+host=24.20.151.3
+name=Setting.TheChryslerBuilding
+rev=2
+targets=Characters.Sam
+text=%25lfloat text-align=center margin-top=5px margin-right=15px margin-bottom=5px margin-left=0px%25http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg/250px-Chrysler_Building_by_David_Shankbone_Retouched.jpg%0a!!The Chrysler Building%0aAn art deco style skyscraper located on the east side of Manhattan in Turtle Bay area at the intersection of 42nd Street and Lexington Avenue. A secret penthouse floor acts as ''Accorded Neutral Grounds''.%0a%0a!!!The Idea%0aThe beautiful people go to indulge their egos, brag about their latest conquests, and all around engage in games of social one-upsmanship; a great place for gossip and information.%0a%0a!!!The Aspect%0aTower of Babble%0a%0a!!!The Face%0a[[Characters/Sam|Sam]], More Than a Bartender
+time=1377239189
+author:1377239189=JillA
+diff:1377239189:1376865574:=1c1%0a%3c %25lfloat text-align=center margin-top=5px margin-right=15px margin-bottom=5px margin-left=0px%25http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg/250px-Chrysler_Building_by_David_Shankbone_Retouched.jpg%0a---%0a> Attach:locationpic.jpg%0a
+host:1377239189=24.20.151.3
+author:1376865574=JillA
+diff:1376865574:1376865574:=1,12d0%0a%3c Attach:locationpic.jpg%0a%3c !!The Chrysler Building%0a%3c An art deco style skyscraper located on the east side of Manhattan in Turtle Bay area at the intersection of 42nd Street and Lexington Avenue. A secret penthouse floor acts as ''Accorded Neutral Grounds''.%0a%3c %0a%3c !!!The Idea%0a%3c The beautiful people go to indulge their egos, brag about their latest conquests, and all around engage in games of social one-upsmanship; a great place for gossip and information.%0a%3c %0a%3c !!!The Aspect%0a%3c Tower of Babble%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Sam|Sam]], More Than a Bartender%0a\ No newline at end of file%0a
+host:1376865574=24.20.151.3

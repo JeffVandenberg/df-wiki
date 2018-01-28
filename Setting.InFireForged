@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1424573795
+host=76.176.214.6
+name=Setting.InFireForged
+rev=1
+targets=Characters.Badger
+text=!!In Fire Forged%0aAn underground fight club run by the Wyldfae. Once through the door in the alley you go down the steps, subtly heading into the Nevernever. The club itself is decorated in that red brick, classic dive bar type look. Every sort of supernatural being can be found there, at least the ones that enjoy bloodshed. Some come to fight, others to bet. But betting with the Fae can be dangerous....%0a%0a!!!The Idea%0aWhether you've come for a drink, a bet, to watch, or fight, In Fire Forged won't disappoint.%0a%0a!!!The Aspect%0a[Blood-Soaked Dive Bar]%0a%0a!!!The Face%0a[[Characters/Badger]]
+time=1424573795
+author:1424573795=ChrisJ
+diff:1424573795:1424573795:minor=1,11d0%0a%3c !!In Fire Forged%0a%3c An underground fight club run by the Wyldfae. Once through the door in the alley you go down the steps, subtly heading into the Nevernever. The club itself is decorated in that red brick, classic dive bar type look. Every sort of supernatural being can be found there, at least the ones that enjoy bloodshed. Some come to fight, others to bet. But betting with the Fae can be dangerous....%0a%3c %0a%3c !!!The Idea%0a%3c Whether you've come for a drink, a bet, to watch, or fight, In Fire Forged won't disappoint.%0a%3c %0a%3c !!!The Aspect%0a%3c [Blood-Soaked Dive Bar]%0a%3c %0a%3c !!!The Face%0a%3c [[Characters/Badger]]%0a\ No newline at end of file%0a
+host:1424573795=76.176.214.6

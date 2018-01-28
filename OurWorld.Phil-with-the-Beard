@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485644788
+host=4.15.247.35
+name=OurWorld.Phil-with-the-Beard
+rev=1
+targets=OurWorld.DupontCircleSubway
+text=!!Phil-with-the-Beard%0aAttach:CharacterImage.gif%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[Self-Appointed King of the Dupont Circle Homeless] ||[[Dupont Circle Subway]] || ? ||%0a%0a----%0a%0a!!!Motivation%0aPhil-with-the-Beard seeks to maintain peace for those who wish to take refuge in the Dupont Circle subway, at least without risking his own hide too much.%0a%0a!!!Status Quo%0aPhil prefers the status quo, because when things get shaken up in the supernatural world, ''Things'' tend to eat more, and that tends to affect his people the most.%0a%0a!!!Description%0aPhil-with-the-Beard is a mountain of a man of indeterminable age or heritage, with a rather mighty beard, wearing various layers of colorful aged clothing (including a tie with large sunflowers on it), currently sitting upon what could only be described as a trash throne. The term isn't an insult to most, as it is impressive in both its variety of refuse and its ability to hold up Phil.%0a%0a!!!Public Relationships%0a
+time=1485644788
+author:1485644788=ChrisJ
+diff:1485644788:1485644788:minor=1,20d0%0a%3c !!Phil-with-the-Beard%0a%3c Attach:CharacterImage.gif%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[Self-Appointed King of the Dupont Circle Homeless] ||[[Dupont Circle Subway]] || ? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Phil-with-the-Beard seeks to maintain peace for those who wish to take refuge in the Dupont Circle subway, at least without risking his own hide too much.%0a%3c %0a%3c !!!Status Quo%0a%3c Phil prefers the status quo, because when things get shaken up in the supernatural world, ''Things'' tend to eat more, and that tends to affect his people the most.%0a%3c %0a%3c !!!Description%0a%3c Phil-with-the-Beard is a mountain of a man of indeterminable age or heritage, with a rather mighty beard, wearing various layers of colorful aged clothing (including a tie with large sunflowers on it), currently sitting upon what could only be described as a trash throne. The term isn't an insult to most, as it is impressive in both its variety of refuse and its ability to hold up Phil.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1485644788=4.15.247.35

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=JayJ
+charset=UTF-8
+csum=
+ctime=1485405589
+host=85.17.26.10
+name=OurWorld.GabrielBarbosa
+rev=3
+targets=OurWorld.EmbassyOfBrazil,OurWorld.RedCourt
+text=!!Gabriel Barbosa%0a%0a----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a||[The Red Court's Brazillian Ambassador] ||[[Embassy of Brazil | Embassy of Brazil]] ||[[RedCourt | Red Court]] ||%0a%0a----%0a%0a!!!Motivation%0a*To lobby the US government to continue the Drug War.%0a*To increase the Red Court's standing and power among the Accorded Signatories.%0a%0a!!!Status Quo%0a*Gabriel is a ruthless pragmatist, and thus will keep the status quo just as long as it benefits him to do so.%0a%0a!!!Description%0aGabriel has been a Red Court Vampire for almost 200 years, whose age indicates he is a cunning, dangerous predator. Warm and pleasant on the outside, Gabriel is pure predator on the inside.%0a%0a!!!Public Relationships%0a- Gabriel's Head of Security is an Infected servant of the Red Court named Emilio Contreras
+time=1486057269
+author:1486057269=JayJ
+diff:1486057269:1486057256:=6c6%0a%3c ||[The Red Court's Brazillian Ambassador] ||[[Embassy of Brazil | Embassy of Brazil]] ||[[RedCourt | Red Court]] ||%0a---%0a> ||[The Red Court's Brazillian Ambassador] ||[[EmbassyofBrazil | Embassy of Brazil]] ||[[RedCourt | Red Court]] ||%0a
+host:1486057269=85.17.26.10
+author:1486057256=JayJ
+diff:1486057256:1485405589:=1a2%0a> Attach:GabrielBarbosa.jpg%0a
+host:1486057256=85.17.26.10
+author:1485405589=JayJ
+diff:1485405589:1485405589:=1,22d0%0a%3c !!Gabriel Barbosa%0a%3c Attach:GabrielBarbosa.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c ||[The Red Court's Brazillian Ambassador] ||[[EmbassyofBrazil | Embassy of Brazil]] ||[[RedCourt | Red Court]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c *To lobby the US government to continue the Drug War.%0a%3c *To increase the Red Court's standing and power among the Accorded Signatories.%0a%3c %0a%3c !!!Status Quo%0a%3c *Gabriel is a ruthless pragmatist, and thus will keep the status quo just as long as it benefits him to do so.%0a%3c %0a%3c !!!Description%0a%3c Gabriel has been a Red Court Vampire for almost 200 years, whose age indicates he is a cunning, dangerous predator. Warm and pleasant on the outside, Gabriel is pure predator on the inside.%0a%3c %0a%3c !!!Public Relationships%0a%3c - Gabriel's Head of Security is an Infected servant of the Red Court named Emilio Contreras%0a\ No newline at end of file%0a
+host:1485405589=99.100.145.126

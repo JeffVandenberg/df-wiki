@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460754693
+host=4.15.247.35
+name=Setting.MassoudFamilyAntiqueAndPawn
+rev=3
+targets=Characters.MortimerMassoud,Factions.TheParanet
+text=!!Massoud Family Antique and Pawn%0a%0aAttach:AntiquePawn.jpg%0a%0a----%0a%0a!!!The Idea%0a''An antique/pawn shop where the supernatural community goes for the occasional hidden treasure.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Mortimer Massoud]] ||[Hidden Treasures] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aMassoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. It's full of all kinds of junk stacked and strewn throughout the store with no apparent organizing scheme, though Mortimer always seems to know where to find anything. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a%0a!!!Notable Events%0a
+time=1460756585
+author:1460756585=ChrisJ
+diff:1460756585:1460755650:minor=17c17%0a%3c Massoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. It's full of all kinds of junk stacked and strewn throughout the store with no apparent organizing scheme, though Mortimer always seems to know where to find anything. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a---%0a> Massoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a
+host:1460756585=4.15.247.35
+author:1460755650=ChrisJ
+diff:1460755650:1460754693:minor=17c17%0a%3c Massoud Family Antique and Pawn is a dingy, cluttered antique and pawn shop run by the Massoud family in D.C. for several generations. Those who are more In the Know are often familiar with Mortimer's shop, where one can go to find unique potion ingredients and the occasional hidden treasure. %0a---%0a> Describe this location more fully.%0a
+host:1460755650=4.15.247.35
+author:1460754693=ChrisJ
+diff:1460754693:1460754693:minor=1,19d0%0a%3c !!Massoud Family Antique and Pawn%0a%3c %0a%3c Attach:AntiquePawn.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''An antique/pawn shop where the supernatural community goes for the occasional hidden treasure.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Mortimer Massoud]] ||[Hidden Treasures] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c Describe this location more fully.%0a%3c %0a%3c !!!Notable Events%0a
+host:1460754693=4.15.247.35

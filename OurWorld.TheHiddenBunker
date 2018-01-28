@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487278909
+host=128.227.11.255
+name=OurWorld.TheHiddenBunker
+rev=1
+targets=Characters.DoloresChamberlain,Factions.LibraryOfCongress
+text=!!Library of Congress, Supernatural Division%0a%0aAttach:CongressLibrary.jpg%0a%0a----%0a%0a!!!The Idea%0a''A hidden headquarters for the Library of Congress' Supernatural Division''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Dolores Chamberlain]] ||[Hidden Headquarters] ||[[Factions/Library of Congress]] ||%0a%0a----%0a%0a!!!Description%0aAccessed through a hidden elevator in the Archives department, the Supernatural Division's headquarters are buried forty stories underground--but first, you have to get past the division's Secretary, Dolores. Within lies an eclectic mix of old library, laboratories, and offices, with furnishings ranging from colonial in flavor to modern--typewriters sit next to modern PCs; some rooms are lit with modern fluorescent or LED lights while others are lit with greasy candles. Modern chemistry equipment lays near more esoteric magical potion-making ingredients. Texts and artifacts acquired throughout the Libary's two hundred years of operation are kept in special glass cases throughout the place. The Vault, where the most dangerous artifacts and manuscripts are kept, is a heavily-fortified bank vault attached to the headquarters that requires Marvin and Dolores to deactivate together.  %0a%0a!!!Notable Events%0a
+time=1487278909
+author:1487278909=OTD
+diff:1487278909:1487278909:=1,19d0%0a%3c !!Library of Congress, Supernatural Division%0a%3c %0a%3c Attach:CongressLibrary.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A hidden headquarters for the Library of Congress' Supernatural Division''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Dolores Chamberlain]] ||[Hidden Headquarters] ||[[Factions/Library of Congress]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c Accessed through a hidden elevator in the Archives department, the Supernatural Division's headquarters are buried forty stories underground--but first, you have to get past the division's Secretary, Dolores. Within lies an eclectic mix of old library, laboratories, and offices, with furnishings ranging from colonial in flavor to modern--typewriters sit next to modern PCs; some rooms are lit with modern fluorescent or LED lights while others are lit with greasy candles. Modern chemistry equipment lays near more esoteric magical potion-making ingredients. Texts and artifacts acquired throughout the Libary's two hundred years of operation are kept in special glass cases throughout the place. The Vault, where the most dangerous artifacts and manuscripts are kept, is a heavily-fortified bank vault attached to the headquarters that requires Marvin and Dolores to deactivate together.  %0a%3c %0a%3c !!!Notable Events%0a
+host:1487278909=128.227.11.255

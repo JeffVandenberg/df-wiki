@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485202241
+host=4.15.247.35
+name=GameGuide.Narrate
+rev=1
+targets=GameGuide.SocialRoleplay
+text=!!"If You Narrate It, We Can See It!"%0a%0aThis is a site policy you may or may not hear us say elsewhere. This phrase is meant to convey the fact that any details you narrate in your RP are obvious to other PCs and NPCs in the vicinity. For example, if you narrate: "Jimmy smoldered with anger, but hid it behind his newspaper," everyone knows that Jimmy is smoldering with anger. You must narrate something like "Jimmy hid his reaction behind the newspaper he held" if you want/need people to roll to find out his mood. %0a%0aNote this is often ''encouraged'' in [[social roleplay]], as frequent rolling of skills are not usually necessary during social.
+time=1485202241
+author:1485202241=ChrisJ
+diff:1485202241:1485202241:=1,5d0%0a%3c !!"If You Narrate It, We Can See It!"%0a%3c %0a%3c This is a site policy you may or may not hear us say elsewhere. This phrase is meant to convey the fact that any details you narrate in your RP are obvious to other PCs and NPCs in the vicinity. For example, if you narrate: "Jimmy smoldered with anger, but hid it behind his newspaper," everyone knows that Jimmy is smoldering with anger. You must narrate something like "Jimmy hid his reaction behind the newspaper he held" if you want/need people to roll to find out his mood. %0a%3c %0a%3c Note this is often ''encouraged'' in [[social roleplay]], as frequent rolling of skills are not usually necessary during social.%0a\ No newline at end of file%0a
+host:1485202241=4.15.247.35

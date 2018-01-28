@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1467163223
+host=74.215.115.143
+name=Characters.AlexanderMagnus
+rev=1
+targets=Factions.Unaffiliated
+text=----%0a%0a||!High Concept ||!The Face Of ||!Faction ||%0a|| || ||[[Factions/Unaffiliated]] ||%0a%0a----%0a%0a!!!Motivation%0aAlexander desires power and control. He'll do anything to maintain and increase what he's already gained.%0a%0a!!!Status Quo%0aAlexander prefers to see the city in a state of "controlled chaos". In the long run, he doesn't want anything to change, but in the meantime the chaos helps him to increase his influence.%0a%0a!!!Description%0aHe appears to be in his late 30's although he is much older than that. Average height and extremely fit. His personality draws people to him and he commands respect whenever he enters a room. He is always intense, but no one has ever seen him lose his temper. His wolf form is a powerfully built black wolf that exudes subtle menace to everyone around him.%0a%0a!!!Public Relationships%0a
+time=1467163223
+author:1467163223=NGodfrey
+diff:1467163223:1467163223:=1,17d0%0a%3c ----%0a%3c %0a%3c ||!High Concept ||!The Face Of ||!Faction ||%0a%3c || || ||[[Factions/Unaffiliated]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Motivation%0a%3c Alexander desires power and control. He'll do anything to maintain and increase what he's already gained.%0a%3c %0a%3c !!!Status Quo%0a%3c Alexander prefers to see the city in a state of "controlled chaos". In the long run, he doesn't want anything to change, but in the meantime the chaos helps him to increase his influence.%0a%3c %0a%3c !!!Description%0a%3c He appears to be in his late 30's although he is much older than that. Average height and extremely fit. His personality draws people to him and he commands respect whenever he enters a room. He is always intense, but no one has ever seen him lose his temper. His wolf form is a powerfully built black wolf that exudes subtle menace to everyone around him.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1467163223=74.215.115.143

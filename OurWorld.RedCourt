@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486069770
+host=128.227.14.255
+name=OurWorld.RedCourt
+rev=1
+targets=Characters.GabrielBarbosa,Setting.EmbassyOfBrazil
+text=!!The Red Court of Vampires%0a%0a%0a----%0a%0a!!!The Idea%0a''Ancient monsters that prey on humanity, the Red Court are a force to be reckoned with.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Gabriel Barbosa]] ||[[Setting/Embassy of Brazil]] ||? ||%0a%0a----%0a%0a!!!Status Quo%0aThe Red Court are primarily interested in making sure the War on Drugs in South American continues to be heavily funded, as the chaos is has created gives the Red Court plenty of cover.%0a%0a!!!Description%0aThe Red Court are dangerous predators. Cross them at your own peril.%0a%0a!!!Public Relationships%0a
+time=1486069770
+author:1486069770=OTD
+diff:1486069770:1486069770:=1,21d0%0a%3c !!The Red Court of Vampires%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Ancient monsters that prey on humanity, the Red Court are a force to be reckoned with.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Gabriel Barbosa]] ||[[Setting/Embassy of Brazil]] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c The Red Court are primarily interested in making sure the War on Drugs in South American continues to be heavily funded, as the chaos is has created gives the Red Court plenty of cover.%0a%3c %0a%3c !!!Description%0a%3c The Red Court are dangerous predators. Cross them at your own peril.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1486069770=128.227.14.255

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460512027
+host=4.15.247.35
+name=Setting.Template
+rev=2
+targets=
+text=!!Name%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''The Idea''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a|| || || ||%0a%0a----%0a%0a!!!Description%0aDescribe this location more fully.%0a%0a!!!Notable Events%0aHave any notable events occurred here?%0a%0a%0a
+time=1460515320
+author:1460515320=ChrisJ
+diff:1460515320:1460512027:minor=11c11%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a---%0a> ||!The Face ||!Location ||!The Aspect ||%0a15a16,18%0a> !!!Status Quo%0a> Describe this Faction's interest in the Status Quo%0a> %0a17c20%0a%3c Describe this location more fully.%0a---%0a> Describe this faction more fully.%0a
+host:1460515320=4.15.247.35
+author:1460512027=ChrisJ
+diff:1460512027:1460512027:minor=1,25d0%0a%3c !!Name%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''The Idea''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c || || || ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c Describe this Faction's interest in the Status Quo%0a%3c %0a%3c !!!Description%0a%3c Describe this faction more fully.%0a%3c %0a%3c !!!Notable Events%0a%3c Have any notable events occurred here?%0a%3c %0a%3c %0a
+host:1460512027=4.15.247.35

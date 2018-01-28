@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+author=PatchR
+charset=UTF-8
+csum=
+ctime=1404179223
+host=24.240.85.206
+name=Setting.ZamaCafe
+rev=1
+targets=
+text=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDhO3xwhdCHyzbaGJaM0riCbQwLo8JkJbobyor9fRfHsBLaFaVw%0a%0aFace: [[http://ragnarok.gamingsandbox.com/characters/publicView/73 | Jelani Yeboah]]
+time=1404179223
+author:1404179223=PatchR
+diff:1404179223:1404179223:=1,3d0%0a%3c https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDhO3xwhdCHyzbaGJaM0riCbQwLo8JkJbobyor9fRfHsBLaFaVw%0a%3c %0a%3c Face: [[http://ragnarok.gamingsandbox.com/characters/publicView/73 | Jelani Yeboah]]%0a\ No newline at end of file%0a
+host:1404179223=24.240.85.206

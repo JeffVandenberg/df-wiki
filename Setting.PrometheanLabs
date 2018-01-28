@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36
+author=ZRTAssassin
+charset=UTF-8
+csum=
+ctime=1460605700
+host=72.222.119.120
+name=Setting.PrometheanLabs
+rev=1
+targets=Characters.JackMacTaggert,Factions.PrometheanLabs
+text=!!Promethean Labs%0a%0a%0a%0a----%0a%0a!!!The Idea%0a'' The Promethean Labs mandate: "Giving people fire to rival the gods." ''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Jack MacTaggert]] ||[Everyone is a Potential Subect] ||[[Factions/Promethean Labs]] ||%0a%0a----%0a%0a!!!Description%0aA secret, privately funded laboratory underneath part of the city of Washington, DC. A place where supernatural beings are studied and considered for "donation" and mortals are given powers through experimentation.%0a%0a!!!Notable Events%0a
+time=1460605700
+author:1460605700=ZRTAssassin
+diff:1460605700:1460605700:=1,19d0%0a%3c !!Promethean Labs%0a%3c %0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c '' The Promethean Labs mandate: "Giving people fire to rival the gods." ''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Jack MacTaggert]] ||[Everyone is a Potential Subect] ||[[Factions/Promethean Labs]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A secret, privately funded laboratory underneath part of the city of Washington, DC. A place where supernatural beings are studied and considered for "donation" and mortals are given powers through experimentation.%0a%3c %0a%3c !!!Notable Events%0a
+host:1460605700=72.222.119.120

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1486069611
+host=128.227.14.255
+name=OurWorld.MagnusEriksonAndAssociates
+rev=2
+targets=Characters.AlexanderMagnus,Setting.MEALawOffices,Characters.SamanthaErikson
+text=!!Magnus, Erikson and Associates%0a%0a%0a----%0a%0a!!!The Idea%0a?%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Alexander Magnus]] ||[[Setting/MEA Law Offices]] ||? ||%0a%0a----%0a%0a!!!Status Quo%0a?%0a%0a!!!Description%0aA well known and established lobbying firm. They have a deserved reputation for results. Over the years they have branched into other areas such as a brokerage firm and investment banking, usually to take advantage of inside information that they helped to bring about. However, some rumors have indicated that they are not to concerned about how they achieve their results. Unknown to most, the partners in the firm are all werewolves and use those abilities as the occasion demands to further their ends. It's this fact that makes the firm the premier group for mercenary activities in Washington. They are loyal to their contact, and once paid they stay paid. %0a%0a!!!Public Relationships%0a- [[Characters/Samantha Erikson]], the Beta of the pack and a senior partner in the firm.%0a
+time=1486069679
+author:1486069679=OTD
+diff:1486069679:1486069611:=
+host:1486069679=128.227.14.255
+author:1486069611=OTD
+diff:1486069611:1486069611:=1,22d0%0a%3c !!Magnus, Erikson and Associates%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ?%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Alexander Magnus]] ||[[Setting/MEA Law Offices]] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c ?%0a%3c %0a%3c !!!Description%0a%3c A well known and established lobbying firm. They have a deserved reputation for results. Over the years they have branched into other areas such as a brokerage firm and investment banking, usually to take advantage of inside information that they helped to bring about. However, some rumors have indicated that they are not to concerned about how they achieve their results. Unknown to most, the partners in the firm are all werewolves and use those abilities as the occasion demands to further their ends. It's this fact that makes the firm the premier group for mercenary activities in Washington. They are loyal to their contact, and once paid they stay paid. %0a%3c %0a%3c !!!Public Relationships%0a%3c - [[Characters/Samantha Erikson]], the Beta of the pack and a senior partner in the firm.%0a
+host:1486069611=128.227.14.255

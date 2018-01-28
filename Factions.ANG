@@ -1,0 +1,27 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460519164
+host=68.7.33.92
+name=Factions.ANG
+rev=5
+targets=Setting.NationalSmithsonianZoo,Characters.WillowMorning,Setting.SutersTavern
+text=!!Accorded Neutral Ground%0a%0a%0a----%0a%0a!!!The Idea%0a''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%0a!!!Status Quo%0aAccorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%0a!!!The Aspect%0aIn addition to their specific Scene Aspect, all ANGs have the aspect [No Fighting Allowed] attached to them.%0a%0a%0a(:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a||class=sortable id=thetable%0a||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a||[[Setting/National Smithsonian Zoo]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a||[[Setting/Suter's Tavern | Suter's Tavern/Fountain Inn]] ||? ||? ||
+time=1463385289
+author:1463385289=ChrisJ
+diff:1463385289:1460751993:minor=19c19%0a%3c ||[[Setting/National Smithsonian Zoo]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a---%0a> ||[[Setting/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a
+host:1463385289=68.7.33.92
+author:1460751993=ChrisJ
+diff:1460751993:1460751966:minor=20c20%0a%3c ||[[Setting/Suter's Tavern | Suter's Tavern/Fountain Inn]] ||? ||? ||%0a\ No newline at end of file%0a---%0a> ||[[Setting/Suter's Tavern]] ||? ||? ||%0a\ No newline at end of file%0a
+host:1460751993=4.15.247.35
+author:1460751966=ChrisJ
+diff:1460751966:1460520005:minor=11,13d10%0a%3c %0a%3c !!!The Aspect%0a%3c In addition to their specific Scene Aspect, all ANGs have the aspect [No Fighting Allowed] attached to them.%0a
+host:1460751966=4.15.247.35
+author:1460520005=ChrisJ
+diff:1460520005:1460519164:minor=16,17c16,17%0a%3c ||[[Setting/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a%3c ||[[Setting/Suter's Tavern]] ||? ||? ||%0a\ No newline at end of file%0a---%0a> ||[[Locations/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a> ||[[Locations/Suter's Tavern]] ||? ||? ||%0a\ No newline at end of file%0a
+host:1460520005=68.7.33.92
+author:1460519164=ChrisJ
+diff:1460519164:1460519164:=1,17d0%0a%3c !!Accorded Neutral Ground%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A location designated "Neutral" under the Unseelie Accords that anyone can come to without fear of attack.''%0a%3c %0a%3c !!!Status Quo%0a%3c Accorded Neutral Grounds (ANGs) are by definition apolitical and do not take any sides. The only status quo that matters to an ANG is the one inside the ANG.%0a%3c %0a%3c %0a%3c (:sortable oddrowbg=#eeddaa evenrowbg=#eeeecc headerrowbg=#557788:)%0a%3c ||class=sortable id=thetable%0a%3c ||!Accorded Neutral Grounds ||!Aspect ||!The Face ||%0a%3c ||[[Locations/National Smithsonian Zoological Park]] ||[Tame Your Instincts] ||[[Characters/Willow Morning]] ||%0a%3c ||[[Locations/Suter's Tavern]] ||? ||? ||%0a\ No newline at end of file%0a
+host:1460519164=68.7.33.92

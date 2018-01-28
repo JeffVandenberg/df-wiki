@@ -1,0 +1,22 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+author=JillA
+charset=UTF-8
+csum=
+ctime=1376862263
+host=24.20.151.3
+name=Setting.55CentralParkWest
+rev=3
+targets=Setting.Lexicon,Characters.RickWeaver
+text=Attach:55centralparkwest.jpg%0a!!55 Central Park West%0aA stately, 19-story building with highly specific, and unusual, design specifications.%0a%0a!!!The Idea%0aThe entire building is an antennae that attracts ghosts and other creatures from [[Lexicon|Nevernever]].%0a%0a!!!The Aspect%0aSpook Central%0a%0a!!!The Face%0a[[Characters/Rick Weaver]], Clueless Tenant%0a%0a
+time=1376866774
+author:1376866774=JillA
+diff:1376866774:1376866715:=1c1%0a%3c Attach:55centralparkwest.jpg%0a---%0a> Attach:55centralparkwest%0a
+host:1376866774=24.20.151.3
+author:1376866715=JillA
+diff:1376866715:1376862263:=1c1%0a%3c Attach:55centralparkwest%0a---%0a> http://imageshack.us/a/img41/789/t0yi.jpg%0a12c12%0a%3c [[Characters/Rick Weaver]], Clueless Tenant%0a---%0a> [[Rick Weaver]], Clueless Tenant%0a
+host:1376866715=24.20.151.3
+author:1376862263=JillA
+csum:1376862263=moved to wikigroup
+diff:1376862263:1376862263:=1,13d0%0a%3c http://imageshack.us/a/img41/789/t0yi.jpg%0a%3c !!55 Central Park West%0a%3c A stately, 19-story building with highly specific, and unusual, design specifications.%0a%3c %0a%3c !!!The Idea%0a%3c The entire building is an antennae that attracts ghosts and other creatures from [[Lexicon|Nevernever]].%0a%3c %0a%3c !!!The Aspect%0a%3c Spook Central%0a%3c %0a%3c !!!The Face%0a%3c [[Rick Weaver]], Clueless Tenant%0a%3c %0a
+host:1376862263=24.20.151.3

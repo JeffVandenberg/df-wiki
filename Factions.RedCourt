@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1460864046
+host=68.7.33.92
+name=Factions.RedCourt
+rev=2
+targets=Characters.GabrielBarbosa,Setting.EmbassyOfBrazil
+text=!!The Red Court of Vampires%0a%0a%0a----%0a%0a!!!The Idea%0a''Ancient monsters that prey on humanity, the Red Court are a force to be reckoned with.''%0a%0a!!!In Washington%0a||!The Face ||!Location ||!The Aspect ||%0a||[[Characters/Gabriel Barbosa]] ||[[Setting/Embassy of Brazil]] ||? ||%0a%0a----%0a%0a!!!Status Quo%0aThe Red Court are primarily interested in making sure the War on Drugs in South American continues to be heavily funded, as the chaos is has created gives the Red Court plenty of cover.%0a%0a!!!Description%0aThe Red Court are dangerous predators. Cross them at your own peril.%0a%0a!!!Public Relationships%0a
+time=1464767379
+author:1464767379=ChrisJ
+diff:1464767379:1460864046:minor=11c11%0a%3c ||[[Characters/Gabriel Barbosa]] ||[[Setting/Embassy of Brazil]] ||? ||%0a---%0a> ||[[Characters/Gabriel Barbosa]] ||[[Locations/DEA | The U.S. Drug Enforcement Agency]] ||? ||%0a
+host:1464767379=68.7.33.92
+author:1460864046=ChrisJ
+diff:1460864046:1460864046:minor=1,21d0%0a%3c !!The Red Court of Vampires%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Ancient monsters that prey on humanity, the Red Court are a force to be reckoned with.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!Location ||!The Aspect ||%0a%3c ||[[Characters/Gabriel Barbosa]] ||[[Locations/DEA | The U.S. Drug Enforcement Agency]] ||? ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Status Quo%0a%3c The Red Court are primarily interested in making sure the War on Drugs in South American continues to be heavily funded, as the chaos is has created gives the Red Court plenty of cover.%0a%3c %0a%3c !!!Description%0a%3c The Red Court are dangerous predators. Cross them at your own peril.%0a%3c %0a%3c !!!Public Relationships%0a
+host:1460864046=4.15.247.35

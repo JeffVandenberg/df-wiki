@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487279289
+host=128.227.11.255
+name=OurWorld.TheThroughAndThroughBar
+rev=1
+targets=Characters.Characters,Factions.Unaffiliated
+text=!!The Through and Through Bar%0a%0a----%0a%0a!!!The Idea%0a''Neutral ground in the making.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/?]] ||[A Diamond in the Rough] ||[[Factions/Unaffiliated]] ||%0a%0a----%0a%0a!!!Description%0aA 70 year old bar that has recently been bought by Nerius, being remodeled and under construction as Nerius plans to change the layout and area to diffuse magical energies, Nerius plans to make the land protected by someone, him, or another supernatural being, making it NG. He wants it to be separate from the Accords, believing that Mab has many ways around the Accords, and that it would be best to start trying to build something where near everyone was equal. It has a paint scheme of blue, green, and black, with a twist of modern meets old as the interior design.%0a%0a!!!Notable Events%0a
+time=1487279289
+author:1487279289=OTD
+diff:1487279289:1487279289:=1,17d0%0a%3c !!The Through and Through Bar%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Neutral ground in the making.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/?]] ||[A Diamond in the Rough] ||[[Factions/Unaffiliated]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A 70 year old bar that has recently been bought by Nerius, being remodeled and under construction as Nerius plans to change the layout and area to diffuse magical energies, Nerius plans to make the land protected by someone, him, or another supernatural being, making it NG. He wants it to be separate from the Accords, believing that Mab has many ways around the Accords, and that it would be best to start trying to build something where near everyone was equal. It has a paint scheme of blue, green, and black, with a twist of modern meets old as the interior design.%0a%3c %0a%3c !!!Notable Events%0a
+host:1487279289=128.227.11.255

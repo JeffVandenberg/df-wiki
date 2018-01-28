@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376872630
+host=209.6.95.48
+name=Characters.Sam
+rev=2
+targets=Setting.TheChryslerBuilding
+text=Attach:CharacterImage.gif%0a!!Sam%0a'''The Face''' of [[Setting/The Chrysler Building]]\\%0aBartender at the Accorded Neutral Ground on the top floor of the Chrysler Building, Sam claims he's just there to serve the drinks.%0a%0a!!!Public Knowledge%0aSam is oddly reticent about himself, and trying to get him to repeat gossip is like pulling teeth.
+time=1405829276
+author:1405829276=OwleIsohos
+diff:1405829276:1376872630:=4,5c4,5%0a%3c Bartender at the Accorded Neutral Ground on the top floor of the Chrysler Building, Sam claims he's just there to serve the drinks.%0a%3c %0a---%0a> Description Here%0a> %0a7c7,10%0a%3c Sam is oddly reticent about himself, and trying to get him to repeat gossip is like pulling teeth.%0a\ No newline at end of file%0a---%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405829276=209.6.95.48
+author:1376872630=JillA
+diff:1376872630:1376872630:=1,10d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Sam%0a%3c '''The Face''' of [[Setting/The Chrysler Building]]\\%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376872630=24.20.151.3

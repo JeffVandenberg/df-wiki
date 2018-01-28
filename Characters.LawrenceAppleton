@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+author=OwleIsohos
+charset=UTF-8
+csum=
+ctime=1376869919
+host=209.6.95.48
+name=Characters.LawrenceAppleton
+rev=2
+targets=
+text=Attach:CharacterImage.gif%0a!!Lawrence Appleton%0aBillionaire Mayor of NYC
+time=1405831241
+author:1405831241=OwleIsohos
+diff:1405831241:1376869919:=3c3,9%0a%3c Billionaire Mayor of NYC%0a\ No newline at end of file%0a---%0a> Description Here%0a> %0a> !!!Public Knowledge%0a> WIP%0a> %0a> !!!Public Relationships%0a> WIP%0a
+host:1405831241=209.6.95.48
+author:1376869919=JillA
+diff:1376869919:1376869919:=1,9d0%0a%3c Attach:CharacterImage.gif%0a%3c !!Lawrence Appleton%0a%3c Description Here%0a%3c %0a%3c !!!Public Knowledge%0a%3c WIP%0a%3c %0a%3c !!!Public Relationships%0a%3c WIP%0a
+host:1376869919=24.20.151.3

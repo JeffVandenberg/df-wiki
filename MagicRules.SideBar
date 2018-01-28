@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1485465193
+host=4.15.247.35
+name=MagicRules.SideBar
+rev=3
+targets=HouseRules.GameConfiguration,HouseRules.CharacterCreation,HouseRules.RecoveryAmpHealing,HouseRules.ModifiedPowers,HouseRules.ContestsAmpConflicts,MagicRules.Magic,MagicRules.Lawbreaking,MagicRules.Evocation,MagicRules.Thaumaturgy,MagicRules.Crafting,MagicRules.SponsoredMagic,MagicRules.Evothaum,MagicRules.Maneuvers,GameGuide.GameGuide,OurWorld.OurWorld,HouseRules.SideBar
+text=%25sidehead%25 House Rules:%0a*[[HouseRules/Game Configuration]]%0a*[[HouseRules/Character Creation]]%0a*[[HouseRules/Recovery & Healing]]%0a*[[HouseRules/Modified Powers]]%0a*[[HouseRules/Contests & Conflicts]]%0a*[[Magic]]%0a*%25right%25 [-[[Lawbreaking]]-]%0a*%25right%25 [-[[Evocation]]-]%0a*%25right%25 [-[[Thaumaturgy]]-]%0a*%25right%25 [-[[Crafting]]-]%0a*%25right%25 [-[[Sponsored Magic]]-]%0a*%25right%25 [-[[Evothaum]]-]%0a*%25right%25 [-[[Maneuvers]]-]%0a%0a%0a%25sidehead%25 Other Groups:%0a*[[Game Guide/]]%0a*[[Our World/]]%0a%0a%25right%25 [-[[House Rules.SideBar?action=edit | edit SideBar]]-]
+time=1485465298
+author:1485465298=ChrisJ
+diff:1485465298:1485465221:minor=
+host:1485465298=4.15.247.35
+author:1485465221=ChrisJ
+diff:1485465221:1485465193:minor=2,6c2,6%0a%3c *[[HouseRules/Game Configuration]]%0a%3c *[[HouseRules/Character Creation]]%0a%3c *[[HouseRules/Recovery & Healing]]%0a%3c *[[HouseRules/Modified Powers]]%0a%3c *[[HouseRules/Contests & Conflicts]]%0a---%0a> *[[Game Configuration]]%0a> *[[Character Creation]]%0a> *[[Recovery & Healing]]%0a> *[[Modified Powers]]%0a> *[[Contests & Conflicts]]%0a
+host:1485465221=4.15.247.35
+author:1485465193=ChrisJ
+diff:1485465193:1485465193:minor=1,21d0%0a%3c %25sidehead%25 House Rules:%0a%3c *[[Game Configuration]]%0a%3c *[[Character Creation]]%0a%3c *[[Recovery & Healing]]%0a%3c *[[Modified Powers]]%0a%3c *[[Contests & Conflicts]]%0a%3c *[[Magic]]%0a%3c *%25right%25 [-[[Lawbreaking]]-]%0a%3c *%25right%25 [-[[Evocation]]-]%0a%3c *%25right%25 [-[[Thaumaturgy]]-]%0a%3c *%25right%25 [-[[Crafting]]-]%0a%3c *%25right%25 [-[[Sponsored Magic]]-]%0a%3c *%25right%25 [-[[Evothaum]]-]%0a%3c *%25right%25 [-[[Maneuvers]]-]%0a%3c %0a%3c %0a%3c %25sidehead%25 Other Groups:%0a%3c *[[Game Guide/]]%0a%3c *[[Our World/]]%0a%3c %0a%3c %25right%25 [-[[House Rules.SideBar?action=edit | edit SideBar]]-]%0a\ No newline at end of file%0a
+host:1485465193=4.15.247.35

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+author=JillA
+charset=UTF-8
+csum=
+ctime=1376861207
+host=24.20.151.3
+name=Site.CentralPark
+rev=2
+targets=
+text=
+time=1376863239
+author:1376863239=JillA
+diff:1376863239:1376861207:=0a1,12%0a> http://imageshack.us/a/img845/339/8srx.jpg%0a> !!Central Park%0a> Historic park and recreation area in the heart of New York City.%0a> %0a> !!!The Idea%0a> The park is a [[Lexicon|Genius Locus]] yearning for a return to a primal state of existence.%0a> %0a> !!!The Aspect%0a> Where The Wild Things Are%0a> %0a> !!!The Face%0a> [[Veronica White]], Events Coordinator for Parks and Recreation%0a\ No newline at end of file%0a
+host:1376863239=24.20.151.3
+author:1376861207=JillA
+diff:1376861207:1376861207:=1,12d0%0a%3c http://imageshack.us/a/img845/339/8srx.jpg%0a%3c !!Central Park%0a%3c Historic park and recreation area in the heart of New York City.%0a%3c %0a%3c !!!The Idea%0a%3c The park is a [[Lexicon|Genius Locus]] yearning for a return to a primal state of existence.%0a%3c %0a%3c !!!The Aspect%0a%3c Where The Wild Things Are%0a%3c %0a%3c !!!The Face%0a%3c [[Veronica White]], Events Coordinator for Parks and Recreation%0a\ No newline at end of file%0a
+host:1376861207=24.20.151.3

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487279261
+host=128.227.11.255
+name=OurWorld.TheodoreRooseveltIsland
+rev=1
+targets=Characters.EyvindrTheTrollKing,Factions.WinterCourtOfFae
+text=!!Theodore Roosevelt Island%0a%0aAttach:RooseveltIsland.jpg%0a%0a----%0a%0a!!!The Idea%0a'' This island represents a small bastion of Winter power, and is assaulted by Summer power most of the year. ''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Eyvindr the Troll King]] ||[Island in a Summer Storm] ||[[Factions/Winter Court of Fae]] ||%0a%0a----%0a%0a!!!Description%0aAn 88.5 acre piece of land in the middle of the Potomac River that serves as a memorial and park. A bridge crosses over it, but besides that only foot traffic is allowed. The only features on the island are the memorial and sidewalks. On the surface, nature abounds with beauty and survives floods. Under the island, a large cavern exists where the troll Eyvindr holds court. Parts of the cave have collapsed due to experiments with explosives conducted by chemists during the Spanish-American War.%0a%0a!!!Notable Events%0a
+time=1487279261
+author:1487279261=OTD
+diff:1487279261:1487279261:=1,19d0%0a%3c !!Theodore Roosevelt Island%0a%3c %0a%3c Attach:RooseveltIsland.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c '' This island represents a small bastion of Winter power, and is assaulted by Summer power most of the year. ''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Eyvindr the Troll King]] ||[Island in a Summer Storm] ||[[Factions/Winter Court of Fae]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c An 88.5 acre piece of land in the middle of the Potomac River that serves as a memorial and park. A bridge crosses over it, but besides that only foot traffic is allowed. The only features on the island are the memorial and sidewalks. On the surface, nature abounds with beauty and survives floods. Under the island, a large cavern exists where the troll Eyvindr holds court. Parts of the cave have collapsed due to experiments with explosives conducted by chemists during the Spanish-American War.%0a%3c %0a%3c !!!Notable Events%0a
+host:1487279261=128.227.11.255

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+author=ChrisJ
+charset=UTF-8
+csum=
+ctime=1410098441
+host=68.7.85.243
+name=Setting.TheBoardmanFoundation
+rev=1
+targets=
+text=!!The Boardman Foundation%0aFour floors of 1 World Trade Center have been set aside for the Boardman Foundation, although only one floor is open to the public. Ascetic in it's trappings, it is still well appointed with a view envied by most. Occasional creaks can be heard from the floors above, though nothing large enough to make those sounds can ever be seen.%0a%0a!!!The Idea%0aThe American Branch of The Boardman Foundaton deals mostly with research and sometimes developement, mostly whatever the CEO decides at the time on his whims. While the office is not a place to do research for oneself, it is a good place to get in touch with people that have a good deal of money and connections to find things out, test things, or to possibly draw on the full force of the CEO's connections, if a good case can be drawn forward.%0a%0a!!!The Aspect%0aMoney is Power%0a%0a!!!The Face%0a[[http://ragnarok.gamingsandbox.com/characters/publicView/89 | Rhys Boardman (PC) ]]
+time=1410098441
+author:1410098441=ChrisJ
+diff:1410098441:1410098441:=1,11d0%0a%3c !!The Boardman Foundation%0a%3c Four floors of 1 World Trade Center have been set aside for the Boardman Foundation, although only one floor is open to the public. Ascetic in it's trappings, it is still well appointed with a view envied by most. Occasional creaks can be heard from the floors above, though nothing large enough to make those sounds can ever be seen.%0a%3c %0a%3c !!!The Idea%0a%3c The American Branch of The Boardman Foundaton deals mostly with research and sometimes developement, mostly whatever the CEO decides at the time on his whims. While the office is not a place to do research for oneself, it is a good place to get in touch with people that have a good deal of money and connections to find things out, test things, or to possibly draw on the full force of the CEO's connections, if a good case can be drawn forward.%0a%3c %0a%3c !!!The Aspect%0a%3c Money is Power%0a%3c %0a%3c !!!The Face%0a%3c [[http://ragnarok.gamingsandbox.com/characters/publicView/89 | Rhys Boardman (PC) ]]%0a\ No newline at end of file%0a
+host:1410098441=68.7.85.243

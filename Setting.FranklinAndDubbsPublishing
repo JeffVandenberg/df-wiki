@@ -1,0 +1,21 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+author=NGodfrey
+charset=UTF-8
+csum=
+ctime=1463186920
+host=74.215.115.143
+name=Setting.FranklinAndDubbsPublishing
+rev=3
+targets=Factions.VenatoriUmbrorum
+text=!!Franklin and Dubbs Publishing%0a%0a%0a----%0a%0a!!!The Idea%0a'Front and occasional safehouse for the Venatori Umbrorum''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||Phillip von Clausewitz ||[Knowledge is Power, So Hide It Well] ||[[Factions/Venatori Umbrorum]] ||%0a%0a----%0a%0a!!!Description%0aA nondescript building in the CBD, it is slightly surprising that it gets so much traffic. A legitimate (though small) publisher), it is represented by Phillip von Clausewitz of whom little is known but is definitely qualified if you look at his CV. In reality it acts as a safehouse, meeting-place and occasional armory for the Venatori Umbrorum. Naturally, none of this is known by the public.%0a%0a!!!Notable Events%0a
+time=1463186963
+author:1463186963=NGodfrey
+diff:1463186963:1463186939:=2a3%0a> Attach:CongressLibrary.jpg%0a
+host:1463186963=74.215.115.143
+author:1463186939=NGodfrey
+diff:1463186939:1463186920:=12c12%0a%3c ||Phillip von Clausewitz ||[Knowledge is Power, So Hide It Well] ||[[Factions/Venatori Umbrorum]] ||%0a---%0a> ||[[Characters/Phillip von Clausewitz ||[Knowledge is Power, So Hide It Well] ||[[Factions/Venatori Umbrorum]] ||%0a
+host:1463186939=74.215.115.143
+author:1463186920=NGodfrey
+diff:1463186920:1463186920:=1,19d0%0a%3c !!Franklin and Dubbs Publishing%0a%3c %0a%3c Attach:CongressLibrary.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c 'Front and occasional safehouse for the Venatori Umbrorum''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Phillip von Clausewitz ||[Knowledge is Power, So Hide It Well] ||[[Factions/Venatori Umbrorum]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A nondescript building in the CBD, it is slightly surprising that it gets so much traffic. A legitimate (though small) publisher), it is represented by Phillip von Clausewitz of whom little is known but is definitely qualified if you look at his CV. In reality it acts as a safehouse, meeting-place and occasional armory for the Venatori Umbrorum. Naturally, none of this is known by the public.%0a%3c %0a%3c !!!Notable Events%0a
+host:1463186920=74.215.115.143

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487279095
+host=128.227.11.255
+name=OurWorld.Pandamonium
+rev=1
+targets=Characters.LiBao,Factions.TheParanet
+text=!!Pandamonium%0a%0aAttach:centralpark.jpg%0a%0a----%0a%0a!!!The Idea%0a''A place where the PCs can hang out and eat Chinese food, even if they're not enough "In the Know" to go to the Fountain Inn''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Li Bao]] ||[Good Feng Shui] ||[[Factions/The Paranet]] ||%0a%0a----%0a%0a!!!Description%0aA good Chinese food place not far from the offices of the Violet Group. While not a particular gathering spot for the supernatural, the decorations and architecture in here do seem to break up the Murphionic fields around mortal spellcasters somewhat. (The story goes that Grandpa Bao got so fed up with the electronic cash register constantly failing, he kept fiddling with the Feng Shui of the place until it worked better. Now it only fails about half the time.) Li Bao, the proprietor, is rumored to be a minor talent - the fortune cookies she hands out are sometimes a little too accurate.%0a%0a!!!Notable Events%0a
+time=1487279095
+author:1487279095=OTD
+diff:1487279095:1487279095:=1,19d0%0a%3c !!Pandamonium%0a%3c %0a%3c Attach:centralpark.jpg%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''A place where the PCs can hang out and eat Chinese food, even if they're not enough "In the Know" to go to the Fountain Inn''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Li Bao]] ||[Good Feng Shui] ||[[Factions/The Paranet]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c A good Chinese food place not far from the offices of the Violet Group. While not a particular gathering spot for the supernatural, the decorations and architecture in here do seem to break up the Murphionic fields around mortal spellcasters somewhat. (The story goes that Grandpa Bao got so fed up with the electronic cash register constantly failing, he kept fiddling with the Feng Shui of the place until it worked better. Now it only fails about half the time.) Li Bao, the proprietor, is rumored to be a minor talent - the fortune cookies she hands out are sometimes a little too accurate.%0a%3c %0a%3c !!!Notable Events%0a
+host:1487279095=128.227.11.255

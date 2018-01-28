@@ -1,0 +1,15 @@
+version=pmwiki-2.2.52 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+author=OTD
+charset=UTF-8
+csum=
+ctime=1487279175
+host=128.227.11.255
+name=OurWorld.SutersTavern
+rev=1
+targets=Characters.MackenzieAbernathy,Factions.ANG
+text=!!Suter's Tavern/Fountain Inn%0a%0a----%0a%0a!!!The Idea%0a''Accorded Neutral Ground for those in the know to meet with others.''%0a%0a!!!In Washington%0a||!The Face ||!The Aspect ||!The Faction ||%0a||[[Characters/Mackenzie Abernathy]] ||[Secret Old World Inn] ||[[Factions/ANG]] ||%0a%0a----%0a%0a!!!Description%0aAn old time Inn originating from 1783, the Inn now stands as Accorded Neutral Ground, it's location remaining hidden behind a secret door down a certain alleyway that mortals seem to overlook; in fact, they can't see it at all. Only those who either are supernatural or have been guided there by someone who is supernatural can find the entrance. The interior of the Inn hasn't changed since its inception and everything is still in pristine condition, almost as if it's upkeep is done by magic. Various notable figures were known to have frequented the Inn, the most notable were the founding fathers, John Adams, Benjamin Franklin, and Thomas Jefferson. The three ghost still manifest and discuss old world politics to this day.%0a%0a!!!Notable Events%0aHave any notable events occurred here?%0a
+time=1487279175
+author:1487279175=OTD
+diff:1487279175:1487279175:=1,18d0%0a%3c !!Suter's Tavern/Fountain Inn%0a%3c %0a%3c ----%0a%3c %0a%3c !!!The Idea%0a%3c ''Accorded Neutral Ground for those in the know to meet with others.''%0a%3c %0a%3c !!!In Washington%0a%3c ||!The Face ||!The Aspect ||!The Faction ||%0a%3c ||[[Characters/Mackenzie Abernathy]] ||[Secret Old World Inn] ||[[Factions/ANG]] ||%0a%3c %0a%3c ----%0a%3c %0a%3c !!!Description%0a%3c An old time Inn originating from 1783, the Inn now stands as Accorded Neutral Ground, it's location remaining hidden behind a secret door down a certain alleyway that mortals seem to overlook; in fact, they can't see it at all. Only those who either are supernatural or have been guided there by someone who is supernatural can find the entrance. The interior of the Inn hasn't changed since its inception and everything is still in pristine condition, almost as if it's upkeep is done by magic. Various notable figures were known to have frequented the Inn, the most notable were the founding fathers, John Adams, Benjamin Franklin, and Thomas Jefferson. The three ghost still manifest and discuss old world politics to this day.%0a%3c %0a%3c !!!Notable Events%0a%3c Have any notable events occurred here?%0a
+host:1487279175=128.227.11.255
