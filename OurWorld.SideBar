@@ -1,15 +1,18 @@
-version=pmwiki-2.2.52 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
 author=ChrisJ
 charset=UTF-8
 csum=
 ctime=1485144688
-host=4.15.247.35
+host=72.220.207.67
 name=OurWorld.SideBar
-rev=7
+rev=8
 targets=OurWorld.OurWorld,OurWorld.SettingAspects,OurWorld.NPCs,OurWorld.Locations,OurWorld.Factions,GameGuide.GameGuide,HouseRules.GameConfiguration,OurWorld.SideBar
-text=%25sidehead%25 Our World:%0a* [[Our World | What is Babylon, DC?]]%0a* [[Setting Aspects]]%0a* [[NPCs]]%0a* [[Locations]]%0a* [[Our World/Factions]]%0a%0a%25sidehead%25 Other Groups%0a* [[Game Guide/]]%0a*[[House Rules/GameConfiguration | House Rules]]%0a%0a%25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]
-time=1485466509
+text=%25sidehead%25 Our World:%0a* [[Our World | What is NOLA: No Man's Land?]]%0a* [[Setting Aspects]]%0a* [[NPCs]]%0a* [[Locations]]%0a* [[Our World/Factions]]%0a%0a%25sidehead%25 Other Groups%0a* [[Game Guide/]]%0a*[[House Rules/GameConfiguration | House Rules]]%0a%0a%25right%25 [-[[Our World.SideBar?action=edit | edit SideBar]]-]
+time=1518214343
+author:1518214343=ChrisJ
+diff:1518214343:1485466509:minor=2c2%0a%3c * [[Our World | What is NOLA: No Man's Land?]]%0a---%0a> * [[Our World | What is Babylon, DC?]]%0a
+host:1518214343=72.220.207.67
 author:1485466509=ChrisJ
 diff:1485466509:1485147057:minor=10c10%0a%3c *[[House Rules/GameConfiguration | House Rules]]%0a---%0a> * [[House Rules/]]%0a
 host:1485466509=4.15.247.35
